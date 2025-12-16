@@ -1,3 +1,5 @@
+# Netwerkvisualisaties Guido Gezelle op basis van Wikidata
+
 Deze readme licht de documentatie bij het project omtrent het maken van visualisaties rondom beschikbare data op Wikidata inzake het netwerk van Guido Gezelle.
 
 ### Overzicht van de vijf visualisaties:
