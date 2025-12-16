@@ -1,6 +1,6 @@
 Deze readme licht de documentatie bij het project omtrent het maken van visualisaties rondom beschikbare data op Wikidata inzake het netwerk van Guido Gezelle.
 
-###Overzicht van de vijf visualisaties:
+### Overzicht van de vijf visualisaties:
 
 V1: Deze visualisatie toont het netwerk van personen gerelateerd aan Guido Gezelle
 
@@ -30,7 +30,7 @@ V5: Deze visualisatie toont het netwerk van relevante personen omtrent Guido Gez
 
 weblink: https://guacamolekoala.github.io/Visualisatie5GuidoGezelleGephi/
 
-###Mappenstructuur
+### Mappenstructuur
 
 Hieronder wordt de mappenstructuur verder toegelicht, zodat iedereen hiermee aan de slag kan gaan, indien gewenst.
 
@@ -42,3 +42,11 @@ Hieronder wordt de mappenstructuur verder toegelicht, zodat iedereen hiermee aan
 6. Github bestanden voor de visualisatie (en kopie van repo)
 7. Handleiding van de visualisatie
 8. Link naar visualisatie op Github
+
+### Presentatie van project
+
+In deze repository kan ook een powerpointpresentatie teruggevonden worden. Dit bevat een overzicht van de grote lijnen van dit project en onderzoek.
+
+### Algemene Handleiding
+
+Omdat niet alles behandeld kon worden in de specifieke handleidingen, werd ook een algemene handleiding opgesteld. Ook deze is terug te vinden in de repository
