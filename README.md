@@ -24,11 +24,11 @@ weblink: https://guacamolekoala.github.io/Visualisatie4GuidoGezelleGephi/
 
 V4B: Deze visualisatie is een herwerking (geomap) van visualisatie4. Deze visualisatie toont de geografische verbondenheid op basis van een wereldkaart en de data op basis van breedtegraad en lengtegraad.
 
-weblink:
+weblink: https://guacamolekoala.github.io/Visualisatie4BGuidoGezelle/
 
 V5
 
-weblink:
+weblink: 
 
 ###Mappenstructuur
 
