@@ -47,7 +47,7 @@ Hieronder wordt de mappenstructuur verder toegelicht, zodat iedereen hiermee aan
 
 ### Presentatie van project
 
-In deze repository kan ook een powerpointpresentatie teruggevonden worden. Dit bevat een overzicht van de grote lijnen van dit project en onderzoek.
+In deze repository kan ook een powerpointpresentatie teruggevonden worden. Deze bevat een overzicht van de grote lijnen van dit project en onderzoek.
 
 ### Algemene Handleiding
 
