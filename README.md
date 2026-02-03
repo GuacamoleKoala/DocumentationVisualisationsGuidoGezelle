@@ -1,6 +1,7 @@
 # Netwerkvisualisaties Guido Gezelle op basis van Wikidata
 
-Deze readme licht de documentatie bij het project omtrent het maken van visualisaties rondom beschikbare data op Wikidata inzake het netwerk van Guido Gezelle.
+Deze readme licht de documentatie toe bij het project omtrent visualisaties rondom beschikbare data op Wikidata inzake het netwerk van Guido Gezelle.
+Dit project werd uitgevoerd door Jenske Verhamme, in functie van een stage-opdracht voor de opleiding 'Postgraduaat cultureel erfgoed: digitale transformatie.
 
 projectwebsite: https://guacamolekoala.github.io/DocumentationVisualisationsGuidoGezelle/
 
