@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gezelle Visualisaties</title>
+    <title>Netwerken in Kaart: Guido Gezelle</title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -12,41 +12,51 @@
             flex-direction: column;
             align-items: center;
             padding: 40px;
+            color: #2c3e50;
         }
 
-        h1 { color: #2c3e50; margin-bottom: 10px; }
-        
-        .header-links { margin-bottom: 30px; }
-        .btn-manual {
-            background-color: #34495e;
-            color: white;
-            padding: 10px 20px;
-            text-decoration: none;
-            border-radius: 5px;
-            font-weight: bold;
-            transition: background 0.3s;
+        header {
+            max-width: 900px;
+            text-align: center;
+            margin-bottom: 40px;
         }
-        .btn-manual:hover { background-color: #2c3e50; }
+
+        h1 { color: #2c3e50; margin-bottom: 15px; font-size: 2.2em; }
+        .intro-text { line-height: 1.6; color: #586069; font-size: 1.1em; margin-bottom: 30px; }
+        
+        .header-links { margin-bottom: 20px; }
+        .btn-manual {
+            background-color: #2c3e50;
+            color: white;
+            padding: 12px 25px;
+            text-decoration: none;
+            border-radius: 30px;
+            font-weight: bold;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+            transition: all 0.3s ease;
+            display: inline-block;
+        }
+        .btn-manual:hover { background-color: #34495e; transform: scale(1.05); }
 
         .container {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 20px;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 25px;
             width: 100%;
-            max-width: 1000px;
+            max-width: 1100px;
         }
 
         .card {
             background: white;
-            padding: 20px;
-            border-radius: 12px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 6px 15px rgba(0,0,0,0.05);
             display: flex;
             flex-direction: column;
-            transition: transform 0.2s;
+            transition: transform 0.2s, box-shadow 0.2s;
         }
 
-        .card:hover { transform: translateY(-5px); }
+        .card:hover { transform: translateY(-5px); box-shadow: 0 10px 20px rgba(0,0,0,0.1); }
 
         .viz-link {
             background-color: #3498db;
@@ -54,106 +64,120 @@
             text-align: center;
             padding: 15px;
             text-decoration: none;
-            border-radius: 8px;
-            font-size: 1.2em;
+            border-radius: 10px;
+            font-size: 1.1em;
             font-weight: bold;
-            margin-bottom: 10px;
+            margin-bottom: 15px;
+            transition: background 0.3s;
         }
 
         .viz-link:hover { background-color: #2980b9; }
 
-        .meta-info {
-            font-size: 0.85em;
-            color: #7f8c8d;
-            display: flex;
-            justify-content: space-between;
-            border-top: 1px solid #eee;
-            padding-top: 10px;
-            margin-top: 5px;
-        }
+        .card h3 { margin: 0 0 10px 0; font-size: 1.2em; color: #2980b9; }
 
-        .commit-msg { color: #27ae60; font-style: italic; }
+        .description {
+            font-size: 0.95em;
+            color: #34495e;
+            line-height: 1.5;
+            flex-grow: 1;
+            margin-bottom: 20px;
+        }
 
         .sub-manual {
-            margin-top: 10px;
-            font-size: 0.9em;
-            color: #2980b9;
+            font-size: 0.85em;
+            color: #3498db;
             text-decoration: none;
-            text-align: center;
             border: 1px solid #3498db;
-            padding: 5px;
-            border-radius: 4px;
+            padding: 8px 12px;
+            border-radius: 5px;
+            text-align: center;
+            font-weight: bold;
+            margin-top: auto;
+            transition: all 0.2s;
         }
-        .sub-manual:hover { background: #eaf2f8; }
+        .sub-manual:hover { background: #eaf2f8; color: #2980b9; }
+
+        .meta-info {
+            font-size: 0.8em;
+            color: #bdc3c7;
+            display: flex;
+            justify-content: space-between;
+            border-top: 1px solid #f1f1f1;
+            padding-top: 10px;
+            margin-top: 15px;
+        }
     </style>
 </head>
 <body>
 
-    <h1>Guido Gezelle Visualisaties</h1>
-    
-    <div class="header-links">
-        <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/blob/main/AlgemeneHandleiding/AlgemeneHandleidingVisualisatiesGuidoGezelle.ipynb" class="btn-manual" target="_blank">
-            📖 Algemene Handleiding
-        </a>
-    </div>
+    <header>
+        <h1>Netwerken in Kaart</h1>
+        <p class="intro-text">
+            Ontdek de digitale wereld van <strong>Guido Gezelle</strong>. Deze vijf unieke visualisaties transformeren abstracte Wikidata-relaties naar interactieve kaarten van zijn sociale, institutionele en geografische netwerk.
+        </p>
+        <div class="header-links">
+            <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/blob/main/AlgemeneHandleiding/AlgemeneHandleidingVisualisatiesGuidoGezelle.ipynb" class="btn-manual" target="_blank">
+                📖 Algemene Handleiding
+            </a>
+        </div>
+    </header>
 
     <div class="container">
 
         <div class="card">
-            <a href="InteractieveVisualisaties/Visualisatie1/" class="viz-link">Visualisatie 1</a>
-            <div class="meta-info">
-                <span class="commit-msg">aanpas</span>
-                <span>17 mins ago</span>
-            </div>
+            <h3>V1: Persoonlijk Netwerk</h3>
+            <a href="https://guacamolekoala.github.io/Visualisatie1GuidoGezelleGephi/" class="viz-link" target="_blank">Open Visualisatie 1</a>
+            <p class="description">Een 'Who's Who' van Gezelle. Brengt directe connecties zoals familie en correspondenten in kaart en koppelt ze aan hun biografische data op Wikidata.</p>
+            <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V1" class="sub-manual">📘 Handleiding V1</a>
+            <div class="meta-info"><span>aanpas</span><span>17 mins ago</span></div>
         </div>
 
         <div class="card">
-            <a href="InteractieveVisualisaties/Visualisatie2/" class="viz-link">Visualisatie 2</a>
-            <div class="meta-info">
-                <span class="commit-msg">aanpas</span>
-                <span>17 mins ago</span>
-            </div>
+            <h3>V2: De Binnenkring</h3>
+            <a href="https://guacamolekoala.github.io/Visualisatie2GuidoGezelleGephi/" class="viz-link" target="_blank">Open Visualisatie 2</a>
+            <p class="description">Analyseert de relaties tussen de correspondenten onderling. Onthult clusters van intellectuelen en priesters die samen een gemeenschap vormden.</p>
+            <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V2" class="sub-manual">📘 Handleiding V2</a>
+            <div class="meta-info"><span>aanpas</span><span>17 mins ago</span></div>
         </div>
 
         <div class="card">
-            <a href="InteractieveVisualisaties/Visualisatie3A/" class="viz-link">Visualisatie 3A</a>
-            <div class="meta-info">
-                <span class="commit-msg">aanpas</span>
-                <span>17 mins ago</span>
-            </div>
-            <a href="DataVisualisaties/V3/7.Manual" class="sub-manual">📘 Handleiding V3</a>
+            <h3>V3A: Institutionele Hubs</h3>
+            <a href="https://guacamolekoala.github.io/Visualisatie3AGuidoGezelleGephi/" class="viz-link" target="_blank">Open Visualisatie 3A</a>
+            <p class="description">Verbindt personen aan organisaties. Maakt zichtbaar hoe instituten zoals het Klein Seminarie fungeerden als de 'sociale lijm' van het netwerk.</p>
+            <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V3" class="sub-manual">📘 Handleiding V3A</a>
+            <div class="meta-info"><span>aanpas</span><span>17 mins ago</span></div>
         </div>
 
         <div class="card">
-            <a href="InteractieveVisualisaties/Visualisatie3B/" class="viz-link">Visualisatie 3B</a>
-            <div class="meta-info">
-                <span class="commit-msg">xx</span>
-                <span>4 mins ago</span>
-            </div>
+            <h3>V3B: Sociale Cohesie</h3>
+            <a href="https://guacamolekoala.github.io/Visualisatie3BGuidoGezelleGephi/" class="viz-link" target="_blank">Open Visualisatie 3B</a>
+            <p class="description">Gebruikt 'Multimode Projection' om aan te tonen hoe sterk groepen samenhangen op basis van gedeelde lidmaatschappen en informele kringen.</p>
+            <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V3" class="sub-manual">📘 Handleiding V3B</a>
+            <div class="meta-info"><span>xx</span><span>4 mins ago</span></div>
         </div>
 
         <div class="card">
-            <a href="InteractieveVisualisaties/Visualisatie4A/" class="viz-link">Visualisatie 4A</a>
-            <div class="meta-info">
-                <span class="commit-msg">xx</span>
-                <span>4 mins ago</span>
-            </div>
+            <h3>V4A: Mentale Kaart</h3>
+            <a href="https://guacamolekoala.github.io/Visualisatie4GuidoGezelleGephi/" class="viz-link" target="_blank">Open Visualisatie 4A</a>
+            <p class="description">Behandelt locaties als abstracte knooppunten. De afstand tussen steden wordt bepaald door de intensiteit van sociale interactie, niet door kilometers.</p>
+            <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V4" class="sub-manual">📘 Handleiding V4</a>
+            <div class="meta-info"><span>xx</span><span>4 mins ago</span></div>
         </div>
 
         <div class="card">
-            <a href="InteractieveVisualisaties/Visualisatie4B/" class="viz-link">Visualisatie 4B</a>
-            <div class="meta-info">
-                <span class="commit-msg">xx</span>
-                <span>4 mins ago</span>
-            </div>
+            <h3>V4B: Interactieve Cartografie</h3>
+            <a href="https://guacamolekoala.github.io/Visualisatie4BGuidoGezelle/" class="viz-link" target="_blank">Open Visualisatie 4B</a>
+            <p class="description">Gerealiseerd met Leaflet.js. Projecteert het netwerk op een werkelijke wereldkaart en toont de internationale reikwijdte van Gezelles invloedssfeer.</p>
+            <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V4" class="sub-manual">📘 Handleiding V4</a>
+            <div class="meta-info"><span>xx</span><span>4 mins ago</span></div>
         </div>
 
         <div class="card">
-            <a href="InteractieveVisualisaties/Visualisatie5/" class="viz-link">Visualisatie 5</a>
-            <div class="meta-info">
-                <span class="commit-msg">Nieuw</span>
-                <span>Zojuist</span>
-            </div>
+            <h3>V5: Dynamische Tijdlijn</h3>
+            <a href="https://guacamolekoala.github.io/Visualisatie5GuidoGezelleGephi/" class="viz-link" target="_blank">Open Visualisatie 5</a>
+            <p class="description">Voegt de vierde dimensie toe. Gebruik de tijdslider om te zien hoe het netwerk organisch groeit en verandert tijdens de verschillende levensfases van Gezelle.</p>
+            <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V5" class="sub-manual">📘 Handleiding V5</a>
+            <div class="meta-info"><span>Nieuw</span><span>Zojuist</span></div>
         </div>
 
     </div>
