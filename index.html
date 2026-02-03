@@ -88,13 +88,14 @@
             color: #3498db;
             text-decoration: none;
             border: 1px solid #3498db;
-            padding: 6px 12px;
+            padding: 8px 12px;
             border-radius: 5px;
             text-align: center;
             font-weight: bold;
             margin-top: auto;
+            transition: all 0.2s;
         }
-        .sub-manual:hover { background: #eaf2f8; }
+        .sub-manual:hover { background: #eaf2f8; color: #2980b9; }
 
         .meta-info {
             font-size: 0.8em;
@@ -112,13 +113,11 @@
     <header>
         <h1>Netwerken in Kaart</h1>
         <p class="intro-text">
-            Het ontsluiten en visualiseren van Wikidata omtrent <strong>Guido Gezelle</strong>. 
-            Van abstracte Linked Open Data naar interactieve netwerken die de sociale, institutionele en geografische leefwereld van de dichter onthullen.
+            Ontdek de digitale wereld van <strong>Guido Gezelle</strong>. Deze vijf unieke visualisaties transformeren abstracte Wikidata-relaties naar interactieve kaarten van zijn sociale, institutionele en geografische netwerk.
         </p>
-        
         <div class="header-links">
             <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/blob/main/AlgemeneHandleiding/AlgemeneHandleidingVisualisatiesGuidoGezelle.ipynb" class="btn-manual" target="_blank">
-                📖 Open Algemene Handleiding (PDF/IPYNB)
+                📖 Algemene Handleiding
             </a>
         </div>
     </header>
@@ -126,41 +125,62 @@
     <div class="container">
 
         <div class="card">
-            <h3>V1: Het Persoonlijke Netwerk</h3>
-            <a href="https://guacamolekoala.github.io/Visualisatie1GuidoGezelleGephi/" class="viz-link" target="_blank">Bekijk Visualisatie 1</a>
-            <p class="description">
-                Een interactieve 'Who's Who' rond Gezelle. Dit ego-netwerk toont de directe relaties (familie, correspondenten, studenten) en fungeert als toegangspoort naar biografieën.
-            </p>
-            <div class="meta-info">
-                <span>Last commit: aanpas</span>
-                <span>17 mins ago</span>
-            </div>
+            <h3>V1: Persoonlijk Netwerk</h3>
+            <a href="https://guacamolekoala.github.io/Visualisatie1GuidoGezelleGephi/" class="viz-link" target="_blank">Open Visualisatie 1</a>
+            <p class="description">Een 'Who's Who' van Gezelle. Brengt directe connecties zoals familie en correspondenten in kaart en koppelt ze aan hun biografische data op Wikidata.</p>
+            <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V1" class="sub-manual">📘 Handleiding V1</a>
+            <div class="meta-info"><span>aanpas</span><span>17 mins ago</span></div>
         </div>
 
         <div class="card">
             <h3>V2: De Binnenkring</h3>
-            <a href="https://guacamolekoala.github.io/Visualisatie2GuidoGezelleGephi/" class="viz-link" target="_blank">Bekijk Visualisatie 2</a>
-            <p class="description">
-                Focus op de onderlinge relaties tussen correspondenten. Maakt 'triadische sluitingen' en clusters van intellectuelen en priesters zichtbaar die onderling een gemeenschap vormden.
-            </p>
-            <div class="meta-info">
-                <span>Last commit: aanpas</span>
-                <span>17 mins ago</span>
-            </div>
+            <a href="https://guacamolekoala.github.io/Visualisatie2GuidoGezelleGephi/" class="viz-link" target="_blank">Open Visualisatie 2</a>
+            <p class="description">Analyseert de relaties tussen de correspondenten onderling. Onthult clusters van intellectuelen en priesters die samen een gemeenschap vormden.</p>
+            <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V2" class="sub-manual">📘 Handleiding V2</a>
+            <div class="meta-info"><span>aanpas</span><span>17 mins ago</span></div>
         </div>
 
         <div class="card">
             <h3>V3A: Institutionele Hubs</h3>
-            <a href="https://guacamolekoala.github.io/Visualisatie3AGuidoGezelleGephi/" class="viz-link" target="_blank">Bekijk Visualisatie 3A</a>
-            <p class="description">
-                Een bipartiet netwerk dat personen verbindt aan organisaties (scholen, tijdschriften). Onthult de institutionele 'lijm' zoals het Klein Seminarie in Roeselare.
-            </p>
-            <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/blob/main/DataVisualisaties/V3/7.Manual" class="sub-manual">📘 Specifieke Handleiding V3</a>
-            <div class="meta-info">
-                <span>Last commit: aanpas</span>
-                <span>17 mins ago</span>
-            </div>
+            <a href="https://guacamolekoala.github.io/Visualisatie3AGuidoGezelleGephi/" class="viz-link" target="_blank">Open Visualisatie 3A</a>
+            <p class="description">Verbindt personen aan organisaties. Maakt zichtbaar hoe instituten zoals het Klein Seminarie fungeerden als de 'sociale lijm' van het netwerk.</p>
+            <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V3" class="sub-manual">📘 Handleiding V3A</a>
+            <div class="meta-info"><span>aanpas</span><span>17 mins ago</span></div>
         </div>
 
         <div class="card">
-            <h3>
+            <h3>V3B: Sociale Cohesie</h3>
+            <a href="https://guacamolekoala.github.io/Visualisatie3BGuidoGezelleGephi/" class="viz-link" target="_blank">Open Visualisatie 3B</a>
+            <p class="description">Gebruikt 'Multimode Projection' om aan te tonen hoe sterk groepen samenhangen op basis van gedeelde lidmaatschappen en informele kringen.</p>
+            <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V3" class="sub-manual">📘 Handleiding V3B</a>
+            <div class="meta-info"><span>xx</span><span>4 mins ago</span></div>
+        </div>
+
+        <div class="card">
+            <h3>V4A: Mentale Kaart</h3>
+            <a href="https://guacamolekoala.github.io/Visualisatie4GuidoGezelleGephi/" class="viz-link" target="_blank">Open Visualisatie 4A</a>
+            <p class="description">Behandelt locaties als abstracte knooppunten. De afstand tussen steden wordt bepaald door de intensiteit van sociale interactie, niet door kilometers.</p>
+            <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V4" class="sub-manual">📘 Handleiding V4</a>
+            <div class="meta-info"><span>xx</span><span>4 mins ago</span></div>
+        </div>
+
+        <div class="card">
+            <h3>V4B: Interactieve Cartografie</h3>
+            <a href="https://guacamolekoala.github.io/Visualisatie4BGuidoGezelle/" class="viz-link" target="_blank">Open Visualisatie 4B</a>
+            <p class="description">Gerealiseerd met Leaflet.js. Projecteert het netwerk op een werkelijke wereldkaart en toont de internationale reikwijdte van Gezelles invloedssfeer.</p>
+            <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V4" class="sub-manual">📘 Handleiding V4</a>
+            <div class="meta-info"><span>xx</span><span>4 mins ago</span></div>
+        </div>
+
+        <div class="card">
+            <h3>V5: Dynamische Tijdlijn</h3>
+            <a href="https://guacamolekoala.github.io/Visualisatie5GuidoGezelleGephi/" class="viz-link" target="_blank">Open Visualisatie 5</a>
+            <p class="description">Voegt de vierde dimensie toe. Gebruik de tijdslider om te zien hoe het netwerk organisch groeit en verandert tijdens de verschillende levensfases van Gezelle.</p>
+            <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V5" class="sub-manual">📘 Handleiding V5</a>
+            <div class="meta-info"><span>Nieuw</span><span>Zojuist</span></div>
+        </div>
+
+    </div>
+
+</body>
+</html>
