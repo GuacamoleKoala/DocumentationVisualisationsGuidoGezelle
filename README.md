@@ -2,9 +2,9 @@
 
 Deze readme licht de documentatie bij het project omtrent het maken van visualisaties rondom beschikbare data op Wikidata inzake het netwerk van Guido Gezelle.
 
-### Overzicht van de vijf interactieve visualisaties:
-
 projectwebsite: https://guacamolekoala.github.io/DocumentationVisualisationsGuidoGezelle/
+
+### Overzicht van de vijf interactieve visualisaties:
 
 V1: Deze visualisatie toont het netwerk van personen gerelateerd aan Guido Gezelle
 
