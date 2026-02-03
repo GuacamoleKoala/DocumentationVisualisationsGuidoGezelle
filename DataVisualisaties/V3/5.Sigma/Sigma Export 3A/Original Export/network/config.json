@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Jenske Sampson"
+  },
+  "text": {
+    "more": "The nodes show people (pink) and institutions (green)\nThe edges show the relations between people and institutions, such as work (purple), education (green) and association (orange).",
+    "intro": "This is a visualisation of the network of Guido Gezelle on Wikidata.\nIt represents people in relation to institutions related to work (purple), education (green and associations (orange).\nIt also shows job functions of these people. More info in long description.",
+    "title": "Social cohesion of the network of the correspondents of Guido Gezelle on Wikidata"
+  },
+  "legend": {
+    "edgeLabel": "Lid van vereniging, werk , onderwijs ",
+    "colorLabel": "zie beschrijving",
+    "nodeLabel": "persoon (roze) en instituut (groen)"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "type",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": "afbeelding"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Jenske Sampson"
+  },
+  "text": {
+    "more": "The nodes show people, places (mostly cities) and countries. \nThese node types are grouped by color.\nThe edges show the relations between people and a place\nand secondly, relations from places to countries.\nThe color represents a specific kind of relation, in this case place of birth, place of death, place of employment, place of living.",
+    "intro": "This is a visualisation of the network of Guido Gezelle on Wikidata. \nThe graph shows people (first node type) who have corresponded with Guido Gezelle and with who Guido Gezelle has corresponded.\nNext it also shows the place of birth, place of employment, place of death and place of living of these people. (second node type)\nThese places are in turn connected to their respective countries (third node type)\n",
+    "title": "Geographical network of the correspondents of Guido Gezelle on Wikidata"
+  },
+  "legend": {
+    "edgeLabel": "place of birth, death, employment, living",
+    "colorLabel": "See Group Selector",
+    "nodeLabel": "Person, place, country"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "type",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": "image"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}

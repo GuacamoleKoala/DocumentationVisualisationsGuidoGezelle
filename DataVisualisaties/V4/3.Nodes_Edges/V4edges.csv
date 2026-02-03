@@ -1,0 +1,3966 @@
+source,target,Type,Weight,relationshipType
+Q1425428,Q145,Undirected,1,In Land
+Q5125864,Q145,Undirected,1,In Land
+Q5688340,Q145,Undirected,1,In Land
+Q67574558,Q145,Undirected,1,In Land
+Q7650196,Q145,Undirected,1,In Land
+Q7683408,Q833,Undirected,1,In Land
+Q1809061,Q55,Undirected,1,In Land
+Q2766547,Q55,Undirected,1,In Land
+Q2603716,Q31,Undirected,1,In Land
+Q13121,Q31,Undirected,1,In Land
+Q300970,Q31,Undirected,1,In Land
+Q955,Q55,Undirected,1,In Land
+Q273442,Q31,Undirected,1,In Land
+Q2750562,Q31,Undirected,1,In Land
+Q2751461,Q31,Undirected,1,In Land
+Q95096,Q31,Undirected,1,In Land
+Q36405,Q145,Undirected,1,In Land
+Q1622949,Q145,Undirected,1,In Land
+Q115818424,Q639974,Undirected,1,Sterfteplaats
+Q115818424,Q639974,Undirected,1,Werklocatie
+Q115818424,Q12994,Undirected,1,Werklocatie
+Q115818424,Q674954,Undirected,1,Werklocatie
+Q115818424,Q12995,Undirected,1,Werklocatie
+Q115818424,Q731501,Undirected,1,Geboorteplaats
+Q115818424,Q220145,Undirected,1,Werklocatie
+Q115818424,Q12996,Undirected,1,Werklocatie
+Q119013873,Q2746117,Undirected,1,Werklocatie
+Q119013873,Q623310,Undirected,1,Werklocatie
+Q119013873,Q12996,Undirected,1,Werklocatie
+Q119013873,Q211037,Undirected,1,Werklocatie
+Q119013873,Q2352516,Undirected,1,Geboorteplaats
+Q119013873,Q506707,Undirected,1,Sterfteplaats
+Q119013873,Q506707,Undirected,1,Werklocatie
+Q119217729,Q12995,Undirected,1,Geboorteplaats
+Q119217729,Q12995,Undirected,1,Sterfteplaats
+Q115834468,Q817375,Undirected,1,Geboorteplaats
+Q115834468,Q13815099,Undirected,1,Werklocatie
+Q115834468,Q2400293,Undirected,1,Werklocatie
+Q115834468,Q14988,Undirected,1,Werklocatie
+Q115834468,Q14988,Undirected,1,Sterfteplaats
+Q115834468,Q268219,Undirected,1,Werklocatie
+Q123417058,Q478797,Undirected,1,Geboorteplaats
+Q123417058,Q478797,Undirected,1,Sterfteplaats
+Q123417058,Q478797,Undirected,1,Werklocatie
+Q125306156,Q12995,Undirected,1,Sterfteplaats
+Q125306156,Q12995,Undirected,1,Woonplaats
+Q125306156,Q213224,Undirected,1,Geboorteplaats
+Q301745,Q31,Undirected,1,In Land
+Q113754119,Q12994,Undirected,1,Geboorteplaats
+Q2524668,Q12994,Undirected,1,Sterfteplaats
+Q2524668,Q12994,Undirected,1,Werklocatie
+Q2524668,Q12994,Undirected,1,Geboorteplaats
+Q2524668,Q102728,Undirected,1,Werklocatie
+Q2524668,Q2053561,Undirected,1,Werklocatie
+Q2524668,Q270633,Undirected,1,Werklocatie
+Q4722117,Q12994,Undirected,1,Werklocatie
+Q4722117,Q12994,Undirected,1,Geboorteplaats
+Q4722117,Q123947,Undirected,1,Sterfteplaats
+Q4722117,Q84,Undirected,1,Werklocatie
+Q43140929,Q12892,Undirected,1,Sterfteplaats
+Q43140929,Q818804,Undirected,1,Geboorteplaats
+Q100534520,Q21768611,Undirected,1,Geboorteplaats
+Q100534520,Q21767298,Undirected,1,Sterfteplaats
+Q100534520,Q12995,Undirected,1,Werklocatie
+Q5580544,Q36600,Undirected,1,Geboorteplaats
+Q5580544,Q39865,Undirected,1,Sterfteplaats
+Q116687284,Q131491,Undirected,1,Woonplaats
+Q116687284,Q277162,Undirected,1,Woonplaats
+Q116687284,Q124230,Undirected,1,Woonplaats
+Q116687284,Q79848,Undirected,1,Woonplaats
+Q116687284,Q2065416,Undirected,1,Geboorteplaats
+Q115814290,Q478797,Undirected,1,Werklocatie
+Q115814290,Q478797,Undirected,1,Sterfteplaats
+Q115814290,Q3110823,Undirected,1,Werklocatie
+Q115814290,Q392337,Undirected,1,Werklocatie
+Q115814290,Q392337,Undirected,1,Geboorteplaats
+Q115814290,Q628733,Undirected,1,Werklocatie
+Q115814290,Q211037,Undirected,1,Werklocatie
+Q115834690,Q12994,Undirected,1,Sterfteplaats
+Q115834690,Q12994,Undirected,1,Werklocatie
+Q115834690,Q3110823,Undirected,1,Geboorteplaats
+Q115834690,Q211037,Undirected,1,Werklocatie
+Q47465,Q142,Undirected,1,In Land
+Q1017,Q183,Undirected,1,In Land
+Q15627098,Q23306,Undirected,1,Geboorteplaats
+Q15627098,Q23306,Undirected,1,Sterfteplaats
+Q15627098,Q5273898,Undirected,1,Geboorteplaats
+Q118772822,Q392337,Undirected,1,Woonplaats
+Q118772822,Q12887,Undirected,1,Woonplaats
+Q586323,Q727,Undirected,1,Werklocatie
+Q586323,Q727,Undirected,1,Geboorteplaats
+Q586323,Q43631,Undirected,1,Werklocatie
+Q586323,Q84957520,Undirected,1,Sterfteplaats
+Q2832059,Q12994,Undirected,1,Sterfteplaats
+Q2832059,Q12994,Undirected,1,Werklocatie
+Q2832059,Q272243,Undirected,1,Geboorteplaats
+Q56036018,Q45797,Undirected,1,Geboorteplaats
+Q56036018,Q243851,Undirected,1,Sterfteplaats
+Q125490771,Q12892,Undirected,1,Woonplaats
+Q125490771,Q12892,Undirected,1,Geboorteplaats
+Q125490771,Q12994,Undirected,1,Sterfteplaats
+Q125490771,Q392337,Undirected,1,Woonplaats
+Q2332586,Q211037,Undirected,1,Sterfteplaats
+Q2332586,Q211037,Undirected,1,Werklocatie
+Q2332586,Q2580670,Undirected,1,Geboorteplaats
+Q119729450,Q12994,Undirected,1,Sterfteplaats
+Q119729450,Q12994,Undirected,1,Geboorteplaats
+Q118142378,Q270644,Undirected,1,Geboorteplaats
+Q118142378,Q12994,Undirected,1,Werklocatie
+Q118142378,Q270633,Undirected,1,Sterfteplaats
+Q118142378,Q270633,Undirected,1,Werklocatie
+Q110039191,Q12994,Undirected,1,Werklocatie
+Q110039191,Q3110823,Undirected,1,Geboorteplaats
+Q110039191,Q102728,Undirected,1,Werklocatie
+Q110039191,Q12995,Undirected,1,Sterfteplaats
+Q110039191,Q12995,Undirected,1,Werklocatie
+Q110039191,Q2807,Undirected,1,Werklocatie
+Q110039191,Q12996,Undirected,1,Werklocatie
+Q110039191,Q499588,Undirected,1,Werklocatie
+Q110039191,Q2191390,Undirected,1,Werklocatie
+Q2100582,Q12892,Undirected,1,Sterfteplaats
+Q2100582,Q696825,Undirected,1,Werklocatie
+Q2100582,Q842744,Undirected,1,Geboorteplaats
+Q2638823,Q4191,Undirected,1,Sterfteplaats
+Q2638823,Q13127,Undirected,1,Geboorteplaats
+Q2638823,Q13127,Undirected,1,Werklocatie
+Q56036059,Q208713,Undirected,1,Werklocatie
+Q56036059,Q21,Undirected,1,Werklocatie
+Q56036059,Q21,Undirected,1,Woonplaats
+Q56036059,Q1296,Undirected,1,Geboorteplaats
+Q56036059,Q1296,Undirected,1,Werklocatie
+Q56036059,Q1143278,Undirected,1,Sterfteplaats
+Q2675588,Q2751461,Undirected,1,Werklocatie
+Q2675588,Q3040923,Undirected,1,Werklocatie
+Q2675588,Q12995,Undirected,1,Sterfteplaats
+Q2675588,Q1847545,Undirected,1,Werklocatie
+Q2675588,Q623310,Undirected,1,Werklocatie
+Q2675588,Q270633,Undirected,1,Werklocatie
+Q2675588,Q2227700,Undirected,1,Geboorteplaats
+Q2539969,Q1296,Undirected,1,Sterfteplaats
+Q2539969,Q219827,Undirected,1,Geboorteplaats
+Q120973166,Q300970,Undirected,1,Sterfteplaats
+Q120973166,Q3475001,Undirected,1,Werklocatie
+Q120973166,Q3475027,Undirected,1,Geboorteplaats
+Q120973166,Q3475027,Undirected,1,Werklocatie
+Q2050293,Q448840,Undirected,1,Werklocatie
+Q2050293,Q726498,Undirected,1,Werklocatie
+Q2050293,Q822790,Undirected,1,Geboorteplaats
+Q2050293,Q2041206,Undirected,1,Sterfteplaats
+Q2050293,Q2041206,Undirected,1,Werklocatie
+Q2050293,Q211037,Undirected,1,Werklocatie
+Q2050293,Q2174414,Undirected,1,Werklocatie
+Q26845752,Q12193,Undirected,1,Sterfteplaats
+Q26845752,Q7003,Undirected,1,Geboorteplaats
+Q115820635,Q129286,Undirected,1,Werklocatie
+Q115820635,Q1348,Undirected,1,Sterfteplaats
+Q115820635,Q1296,Undirected,1,Geboorteplaats
+Q115815697,Q674954,Undirected,1,Werklocatie
+Q115815697,Q2681034,Undirected,1,Sterfteplaats
+Q115815697,Q2681034,Undirected,1,Werklocatie
+Q115815697,Q2928815,Undirected,1,Geboorteplaats
+Q115815697,Q696982,Undirected,1,Werklocatie
+Q115815697,Q270633,Undirected,1,Werklocatie
+Q115833316,Q742920,Undirected,1,Werklocatie
+Q115833316,Q2625637,Undirected,1,Werklocatie
+Q115833316,Q1849663,Undirected,1,Werklocatie
+Q115833316,Q1849663,Undirected,1,Sterfteplaats
+Q115833316,Q696871,Undirected,1,Geboorteplaats
+Q115833316,Q2556717,Undirected,1,Werklocatie
+Q115833316,Q2161674,Undirected,1,Werklocatie
+Q115979418,Q3474562,Undirected,1,Sterfteplaats
+Q115979418,Q12994,Undirected,1,Werklocatie
+Q115979418,Q12995,Undirected,1,Werklocatie
+Q115979418,Q2127148,Undirected,1,Werklocatie
+Q115979418,Q2314278,Undirected,1,Werklocatie
+Q115979418,Q822777,Undirected,1,Werklocatie
+Q115979418,Q499588,Undirected,1,Werklocatie
+Q115979418,Q651811,Undirected,1,Werklocatie
+Q115979418,Q244513,Undirected,1,Geboorteplaats
+Q115821483,Q12995,Undirected,1,Sterfteplaats
+Q115821483,Q12995,Undirected,1,Werklocatie
+Q115821483,Q650376,Undirected,1,Werklocatie
+Q115821483,Q499588,Undirected,1,Werklocatie
+Q115821483,Q499588,Undirected,1,Geboorteplaats
+Q115821483,Q651811,Undirected,1,Werklocatie
+Q2580620,Q12892,Undirected,1,Geboorteplaats
+Q2580620,Q12892,Undirected,1,Werklocatie
+Q2580620,Q12994,Undirected,1,Werklocatie
+Q2580620,Q58780,Undirected,1,Werklocatie
+Q2580620,Q118958,Undirected,1,Werklocatie
+Q2580620,Q118958,Undirected,1,Sterfteplaats
+Q119013806,Q12994,Undirected,1,Geboorteplaats
+Q119013806,Q12994,Undirected,1,Sterfteplaats
+Q2298746,Q12994,Undirected,1,Sterfteplaats
+Q2298746,Q1296,Undirected,1,Geboorteplaats
+Q2298746,Q724638,Undirected,1,Werklocatie
+Q2298746,Q118958,Undirected,1,Werklocatie
+Q2298746,Q162022,Undirected,1,Werklocatie
+Q2298746,Q1999262,Undirected,1,Werklocatie
+Q2450554,Q12994,Undirected,1,Geboorteplaats
+Q2450554,Q12994,Undirected,1,Werklocatie
+Q2450554,Q12994,Undirected,1,Sterfteplaats
+Q2450554,Q211037,Undirected,1,Werklocatie
+Q11071766,Q29520,Undirected,1,Woonplaats
+Q11071766,Q29520,Undirected,1,Sterfteplaats
+Q11071766,Q142,Undirected,1,Geboorteplaats
+Q11071766,Q383912,Undirected,1,Woonplaats
+Q11071766,Q23666,Undirected,1,Woonplaats
+Q11071766,Q1018423,Undirected,1,Woonplaats
+Q11071766,Q737077,Undirected,1,Geboorteplaats
+Q661993,Q31,Undirected,1,In Land
+Q448840,Q31,Undirected,1,In Land
+Q2099446,Q1296,Undirected,1,Sterfteplaats
+Q2099446,Q391294,Undirected,1,Geboorteplaats
+Q2099446,Q268219,Undirected,1,Werklocatie
+Q2099446,Q13127,Undirected,1,Werklocatie
+Q3421496,Q3040923,Undirected,1,Werklocatie
+Q3421496,Q3040923,Undirected,1,Woonplaats
+Q3421496,Q1021018,Undirected,1,Werklocatie
+Q3421496,Q1021018,Undirected,1,Woonplaats
+Q3421496,Q15238339,Undirected,1,Werklocatie
+Q3421496,Q13123333,Undirected,1,Sterfteplaats
+Q3421496,Q13123333,Undirected,1,Woonplaats
+Q3421496,Q648,Undirected,1,Woonplaats
+Q3421496,Q211037,Undirected,1,Werklocatie
+Q3421496,Q3110832,Undirected,1,Werklocatie
+Q3421496,Q184287,Undirected,1,Geboorteplaats
+Q970036,Q1296,Undirected,1,Sterfteplaats
+Q970036,Q780561,Undirected,1,Geboorteplaats
+Q2481707,Q2488256,Undirected,1,Geboorteplaats
+Q2481707,Q1296,Undirected,1,Werklocatie
+Q2481707,Q1296,Undirected,1,Sterfteplaats
+Q136750770,Q2085862,Undirected,1,Werklocatie
+Q136750770,Q12995,Undirected,1,Werklocatie
+Q136750770,Q499588,Undirected,1,Geboorteplaats
+Q136750770,Q499588,Undirected,1,Sterfteplaats
+Q136750770,Q2755150,Undirected,1,Werklocatie
+Q115831039,Q448840,Undirected,1,Geboorteplaats
+Q115831039,Q696871,Undirected,1,Sterfteplaats
+Q124619468,Q12995,Undirected,1,Werklocatie
+Q124619468,Q2166168,Undirected,1,Sterfteplaats
+Q124619468,Q2314032,Undirected,1,Geboorteplaats
+Q727,Q55,Undirected,1,In Land
+Q9899,Q55,Undirected,1,In Land
+Q1280942,Q12994,Undirected,1,Sterfteplaats
+Q1280942,Q2505670,Undirected,1,Geboorteplaats
+Q131923924,Q213224,Undirected,1,Sterfteplaats
+Q131923924,Q213224,Undirected,1,Werklocatie
+Q131923924,Q220145,Undirected,1,Geboorteplaats
+Q122831276,Q12892,Undirected,1,Werklocatie
+Q122831276,Q2022299,Undirected,1,Werklocatie
+Q122831276,Q3074712,Undirected,1,Sterfteplaats
+Q122831276,Q3074712,Undirected,1,Werklocatie
+Q122831276,Q190113,Undirected,1,Geboorteplaats
+Q12886,Q31,Undirected,1,In Land
+Q119039774,Q9920,Undirected,1,Werklocatie
+Q119039774,Q9920,Undirected,1,Sterfteplaats
+Q119039774,Q25390,Undirected,1,Geboorteplaats
+Q13429634,Q211037,Undirected,1,Werklocatie
+Q13429634,Q1704244,Undirected,1,Werklocatie
+Q115842281,Q875554,Undirected,1,Werklocatie
+Q115842281,Q215244,Undirected,1,Werklocatie
+Q115842281,Q12995,Undirected,1,Sterfteplaats
+Q115842281,Q499588,Undirected,1,Geboorteplaats
+Q115842281,Q211037,Undirected,1,Werklocatie
+Q115842281,Q506707,Undirected,1,Werklocatie
+Q123050649,Q716658,Undirected,1,Woonplaats
+Q123050649,Q21,Undirected,1,Geboorteplaats
+Q116656531,Q12995,Undirected,1,Geboorteplaats
+Q116656531,Q12995,Undirected,1,Woonplaats
+Q116508558,Q4865580,Undirected,1,Sterfteplaats
+Q116508558,Q3051137,Undirected,1,Woonplaats
+Q116508558,Q2209469,Undirected,1,Geboorteplaats
+Q116508558,Q47952,Undirected,1,Woonplaats
+Q499594,Q31,Undirected,1,In Land
+Q126898,Q142,Undirected,1,In Land
+Q115830433,Q12994,Undirected,1,Werklocatie
+Q115830433,Q12994,Undirected,1,Sterfteplaats
+Q115830433,Q12994,Undirected,1,Geboorteplaats
+Q115830433,Q211037,Undirected,1,Werklocatie
+Q2360599,Q739996,Undirected,1,Sterfteplaats
+Q2360599,Q742892,Undirected,1,Geboorteplaats
+Q62117109,Q12994,Undirected,1,Sterfteplaats
+Q62117109,Q12995,Undirected,1,Geboorteplaats
+Q12892,Q31,Undirected,1,In Land
+Q614274,Q31,Undirected,1,In Land
+Q724577,Q31,Undirected,1,In Land
+Q632471,Q30,Undirected,1,In Land
+Q639974,Q31,Undirected,1,In Land
+Q414,Q414,Undirected,1,In Land
+Q120897770,Q822748,Undirected,1,Geboorteplaats
+Q115979140,Q12994,Undirected,1,Werklocatie
+Q115979140,Q12995,Undirected,1,Werklocatie
+Q115979140,Q12995,Undirected,1,Sterfteplaats
+Q115979140,Q623310,Undirected,1,Werklocatie
+Q115979140,Q499588,Undirected,1,Werklocatie
+Q115979140,Q211037,Undirected,1,Geboorteplaats
+Q115979140,Q392343,Undirected,1,Werklocatie
+Q3450211,Q12994,Undirected,1,Sterfteplaats
+Q3450211,Q12994,Undirected,1,Werklocatie
+Q3450211,Q318532,Undirected,1,Geboorteplaats
+Q122971839,Q12994,Undirected,1,Sterfteplaats
+Q122971839,Q1296,Undirected,1,Geboorteplaats
+Q122971839,Q2490578,Undirected,1,Werklocatie
+Q115818861,Q203312,Undirected,1,Sterfteplaats
+Q115818861,Q2693056,Undirected,1,Geboorteplaats
+Q115834833,Q822783,Undirected,1,Geboorteplaats
+Q115834833,Q2248548,Undirected,1,Werklocatie
+Q115834833,Q2248548,Undirected,1,Sterfteplaats
+Q120164850,Q12994,Undirected,1,Sterfteplaats
+Q120164850,Q12994,Undirected,1,Woonplaats
+Q120164850,Q101254,Undirected,1,Geboorteplaats
+Q716658,Q145,Undirected,1,In Land
+Q2741141,Q31,Undirected,1,In Land
+Q3474562,Q31,Undirected,1,In Land
+Q739996,Q31,Undirected,1,In Land
+Q115979812,Q3099657,Undirected,1,Geboorteplaats
+Q115979812,Q623310,Undirected,1,Werklocatie
+Q115979812,Q623310,Undirected,1,Sterfteplaats
+Q115979812,Q499588,Undirected,1,Werklocatie
+Q115979812,Q651811,Undirected,1,Werklocatie
+Q115979812,Q3110836,Undirected,1,Werklocatie
+Q2215154,Q499594,Undirected,1,Werklocatie
+Q2215154,Q242407,Undirected,1,Geboorteplaats
+Q2215154,Q1998586,Undirected,1,Sterfteplaats
+Q2215154,Q1998586,Undirected,1,Werklocatie
+Q2215154,Q3992,Undirected,1,Werklocatie
+Q2215154,Q202954,Undirected,1,Werklocatie
+Q120639934,Q2603716,Undirected,1,Geboorteplaats
+Q120639934,Q12995,Undirected,1,Sterfteplaats
+Q115818168,Q705013,Undirected,1,Werklocatie
+Q115818168,Q44762,Undirected,1,Werklocatie
+Q115818168,Q12995,Undirected,1,Werklocatie
+Q115818168,Q2555902,Undirected,1,Sterfteplaats
+Q115818168,Q2555902,Undirected,1,Woonplaats
+Q115818168,Q44213,Undirected,1,Werklocatie
+Q115818168,Q2568071,Undirected,1,Werklocatie
+Q115818168,Q742876,Undirected,1,Geboorteplaats
+Q115818168,Q3445977,Undirected,1,Werklocatie
+Q115839088,Q12460,Undirected,1,Werklocatie
+Q115839088,Q12460,Undirected,1,Sterfteplaats
+Q115839088,Q12460,Undirected,1,Geboorteplaats
+Q764378,Q9005,Undirected,1,Geboorteplaats
+Q764378,Q203312,Undirected,1,Sterfteplaats
+Q125535110,Q146659,Undirected,1,Woonplaats
+Q125535110,Q29245,Undirected,1,Sterfteplaats
+Q125535110,Q202059,Undirected,1,Geboorteplaats
+Q125535110,Q36074,Undirected,1,Woonplaats
+Q125535110,Q36074,Undirected,1,Werklocatie
+Q122842403,Q9681,Undirected,1,Sterfteplaats
+Q122842403,Q84,Undirected,1,Geboorteplaats
+Q117246862,Q3110823,Undirected,1,Woonplaats
+Q117246862,Q3110823,Undirected,1,Werklocatie
+Q117246862,Q1901132,Undirected,1,Sterfteplaats
+Q117246862,Q184287,Undirected,1,Geboorteplaats
+Q117246862,Q184287,Undirected,1,Woonplaats
+Q2490990,Q614274,Undirected,1,Geboorteplaats
+Q2490990,Q12995,Undirected,1,Sterfteplaats
+Q2490990,Q12995,Undirected,1,Werklocatie
+Q2059291,Q12994,Undirected,1,Geboorteplaats
+Q2059291,Q12994,Undirected,1,Sterfteplaats
+Q2658862,Q301745,Undirected,1,Werklocatie
+Q2658862,Q12994,Undirected,1,Sterfteplaats
+Q2658862,Q12994,Undirected,1,Werklocatie
+Q2658862,Q12994,Undirected,1,Geboorteplaats
+Q2658862,Q815948,Undirected,1,Werklocatie
+Q2658862,Q822748,Undirected,1,Werklocatie
+Q2658862,Q498655,Undirected,1,Werklocatie
+Q2658862,Q2731701,Undirected,1,Werklocatie
+Q2658862,Q1884650,Undirected,1,Werklocatie
+Q115813025,Q12994,Undirected,1,Woonplaats
+Q115813025,Q2676933,Undirected,1,Woonplaats
+Q115813025,Q2676933,Undirected,1,Sterfteplaats
+Q115813025,Q430812,Undirected,1,Woonplaats
+Q115813025,Q208793,Undirected,1,Geboorteplaats
+Q120999304,Q13121,Undirected,1,Sterfteplaats
+Q120999304,Q13121,Undirected,1,Werklocatie
+Q120999304,Q3474562,Undirected,1,Werklocatie
+Q120999304,Q2802143,Undirected,1,Werklocatie
+Q120999304,Q580315,Undirected,1,Geboorteplaats
+Q120999304,Q13127,Undirected,1,Werklocatie
+Q115825488,Q12994,Undirected,1,Werklocatie
+Q115825488,Q12994,Undirected,1,Sterfteplaats
+Q115825488,Q2692740,Undirected,1,Werklocatie
+Q115825488,Q2351222,Undirected,1,Werklocatie
+Q115825488,Q499588,Undirected,1,Werklocatie
+Q115825488,Q211037,Undirected,1,Werklocatie
+Q115825488,Q208793,Undirected,1,Geboorteplaats
+Q115844105,Q12994,Undirected,1,Werklocatie
+Q115844105,Q2117660,Undirected,1,Werklocatie
+Q115844105,Q2333747,Undirected,1,Werklocatie
+Q115844105,Q2333747,Undirected,1,Sterfteplaats
+Q115844105,Q12995,Undirected,1,Geboorteplaats
+Q115844105,Q12996,Undirected,1,Werklocatie
+Q115844105,Q284691,Undirected,1,Werklocatie
+Q115979130,Q2510121,Undirected,1,Werklocatie
+Q115979130,Q12994,Undirected,1,Sterfteplaats
+Q115979130,Q12994,Undirected,1,Werklocatie
+Q115979130,Q12994,Undirected,1,Geboorteplaats
+Q115979130,Q215244,Undirected,1,Werklocatie
+Q115979130,Q12996,Undirected,1,Werklocatie
+Q115979130,Q822777,Undirected,1,Werklocatie
+Q115979130,Q651811,Undirected,1,Werklocatie
+Q115835531,Q239,Undirected,1,Sterfteplaats
+Q115835531,Q2512929,Undirected,1,Geboorteplaats
+Q115840920,Q623310,Undirected,1,Geboorteplaats
+Q115840920,Q47952,Undirected,1,Sterfteplaats
+Q115840920,Q47952,Undirected,1,Werklocatie
+Q115823355,Q842943,Undirected,1,Werklocatie
+Q115823355,Q12012813,Undirected,1,Werklocatie
+Q115823355,Q912069,Undirected,1,Geboorteplaats
+Q115823355,Q840968,Undirected,1,Werklocatie
+Q115823355,Q2786493,Undirected,1,Werklocatie
+Q115823355,Q2786493,Undirected,1,Sterfteplaats
+Q408,Q408,Undirected,1,In Land
+Q177133,Q31,Undirected,1,In Land
+Q842943,Q31,Undirected,1,In Land
+Q2878342,Q31,Undirected,1,In Land
+Q723651,Q31,Undirected,1,In Land
+Q17856,Q408,Undirected,1,In Land
+Q1492,Q29,Undirected,1,In Land
+Q4865289,Q1761,Undirected,1,Werklocatie
+Q4865289,Q1761,Undirected,1,Sterfteplaats
+Q4865289,Q1761,Undirected,1,Geboorteplaats
+Q4865580,Q145,Undirected,1,In Land
+Q22889,Q145,Undirected,1,In Land
+Q4869146,Q145,Undirected,1,In Land
+Q705013,Q31,Undirected,1,In Land
+Q41890,Q145,Undirected,1,In Land
+Q2660843,Q145,Undirected,1,In Land
+Q687921,Q31,Undirected,1,In Land
+Q2789957,Q31,Undirected,1,In Land
+Q10686,Q145,Undirected,1,In Land
+Q332310,Q142,Undirected,1,In Land
+Q2346906,Q31,Undirected,1,In Land
+Q79980,Q668,Undirected,1,In Land
+Q708708,Q183,Undirected,1,In Land
+Q115826830,Q499532,Undirected,1,Werklocatie
+Q115826830,Q2134798,Undirected,1,Geboorteplaats
+Q115826830,Q724573,Undirected,1,Sterfteplaats
+Q115826830,Q724573,Undirected,1,Werklocatie
+Q115826830,Q823623,Undirected,1,Werklocatie
+Q818804,Q31,Undirected,1,In Land
+Q2896939,Q31,Undirected,1,In Land
+Q334301,Q142,Undirected,1,In Land
+Q49345973,Q142,Undirected,1,In Land
+Q83407,Q31,Undirected,1,In Land
+Q242407,Q31,Undirected,1,In Land
+Q793584,Q31,Undirected,1,In Land
+Q64,Q183,Undirected,1,In Land
+Q822307,Q189,Undirected,1,Werklocatie
+Q822307,Q62132,Undirected,1,Werklocatie
+Q822307,Q1123846,Undirected,1,Geboorteplaats
+Q822307,Q661710,Undirected,1,Sterfteplaats
+Q822307,Q20,Undirected,1,Werklocatie
+Q122884053,Q408,Undirected,1,Woonplaats
+Q122884053,Q408,Undirected,1,Sterfteplaats
+Q122884053,Q408,Undirected,1,Werklocatie
+Q122884053,Q12994,Undirected,1,Woonplaats
+Q122884053,Q12994,Undirected,1,Geboorteplaats
+Q122884053,Q84,Undirected,1,Woonplaats
+Q122884053,Q84,Undirected,1,Werklocatie
+Q122884053,Q664,Undirected,1,Woonplaats
+Q122884053,Q664,Undirected,1,Werklocatie
+Q115812384,Q12994,Undirected,1,Geboorteplaats
+Q115812384,Q215244,Undirected,1,Werklocatie
+Q115812384,Q2731701,Undirected,1,Werklocatie
+Q115812384,Q499588,Undirected,1,Werklocatie
+Q115812384,Q2396419,Undirected,1,Werklocatie
+Q115812384,Q2107664,Undirected,1,Werklocatie
+Q115812384,Q2107664,Undirected,1,Sterfteplaats
+Q122818902,Q12994,Undirected,1,Woonplaats
+Q122818902,Q208713,Undirected,1,Woonplaats
+Q122818902,Q1296,Undirected,1,Woonplaats
+Q122818902,Q2340735,Undirected,1,Woonplaats
+Q122818902,Q2742,Undirected,1,Geboorteplaats
+Q1988823,Q31,Undirected,1,In Land
+Q2636574,Q31,Undirected,1,In Land
+Q2289081,Q31,Undirected,1,In Land
+Q270644,Q31,Undirected,1,In Land
+Q2480040,Q31,Undirected,1,In Land
+Q851718,Q145,Undirected,1,In Land
+Q2371714,Q31,Undirected,1,In Land
+Q2412352,Q55,Undirected,1,In Land
+Q2256,Q145,Undirected,1,In Land
+Q873205,Q145,Undirected,1,In Land
+Q875554,Q145,Undirected,1,In Land
+Q2708072,Q31,Undirected,1,In Land
+Q188313,Q145,Undirected,1,In Land
+Q328104,Q31,Undirected,1,In Land
+Q890339,Q31,Undirected,1,In Land
+Q184579,Q145,Undirected,1,In Land
+Q4940251,Q145,Undirected,1,In Land
+Q586,Q183,Undirected,1,In Land
+Q954682,Q31,Undirected,1,In Land
+Q723972,Q31,Undirected,1,In Land
+Q834850,Q31,Undirected,1,In Land
+Q499609,Q31,Undirected,1,In Land
+Q1021461,Q31,Undirected,1,In Land
+Q100,Q30,Undirected,1,In Land
+Q217216,Q31,Undirected,1,In Land
+Q81997,Q142,Undirected,1,In Land
+Q170478,Q145,Undirected,1,In Land
+Q2854293,Q31,Undirected,1,In Land
+Q1987052,Q55,Undirected,1,In Land
+Q122607,Q145,Undirected,1,In Land
+Q693513,Q31,Undirected,1,In Land
+Q2773,Q183,Undirected,1,In Land
+Q742920,Q31,Undirected,1,In Land
+Q1013528,Q145,Undirected,1,In Land
+Q12193,Q142,Undirected,1,In Land
+Q2510121,Q31,Undirected,1,In Land
+Q131491,Q145,Undirected,1,In Land
+Q34932,Q408,Undirected,1,In Land
+Q23154,Q145,Undirected,1,In Land
+Q1054923,Q145,Undirected,1,In Land
+Q918153,Q145,Undirected,1,In Land
+Q129286,Q8680,Undirected,1,In Land
+Q146690,Q145,Undirected,1,In Land
+Q180356,Q145,Undirected,1,In Land
+Q2926028,Q145,Undirected,1,In Land
+Q4974338,Q145,Undirected,1,In Land
+Q12994,Q31,Undirected,1,In Land
+Q115829623,Q12995,Undirected,1,Sterfteplaats
+Q115829623,Q18125,Undirected,1,Werklocatie
+Q115829623,Q950007,Undirected,1,Geboorteplaats
+Q115829623,Q211037,Undirected,1,Werklocatie
+Q115836783,Q12994,Undirected,1,Werklocatie
+Q115836783,Q1012349,Undirected,1,Werklocatie
+Q115836783,Q12995,Undirected,1,Geboorteplaats
+Q115836783,Q1952054,Undirected,1,Werklocatie
+Q115836783,Q499588,Undirected,1,Werklocatie
+Q115836783,Q499588,Undirected,1,Sterfteplaats
+Q115836783,Q270633,Undirected,1,Werklocatie
+Q115836783,Q3110836,Undirected,1,Werklocatie
+Q115839360,Q12994,Undirected,1,Werklocatie
+Q115839360,Q392337,Undirected,1,Geboorteplaats
+Q115839360,Q211037,Undirected,1,Werklocatie
+Q115839360,Q651811,Undirected,1,Werklocatie
+Q115839360,Q651811,Undirected,1,Sterfteplaats
+Q115308515,Q1978079,Undirected,1,Sterfteplaats
+Q115308515,Q1978079,Undirected,1,Geboorteplaats
+Q115308515,Q1012352,Undirected,1,Werklocatie
+Q115308515,Q12995,Undirected,1,Werklocatie
+Q115308515,Q1924402,Undirected,1,Werklocatie
+Q115308515,Q780561,Undirected,1,Werklocatie
+Q115308515,Q339395,Undirected,1,Werklocatie
+Q239,Q31,Undirected,1,In Land
+Q1486,Q414,Undirected,1,In Land
+Q202309,Q31,Undirected,1,In Land
+Q2928134,Q31,Undirected,1,In Land
+Q2154331,Q12994,Undirected,1,Geboorteplaats
+Q2154331,Q102728,Undirected,1,Werklocatie
+Q2154331,Q12995,Undirected,1,Werklocatie
+Q2154331,Q780561,Undirected,1,Sterfteplaats
+Q2154331,Q628733,Undirected,1,Sterfteplaats
+Q2154331,Q2220639,Undirected,1,Werklocatie
+Q2154331,Q621,Undirected,1,Werklocatie
+Q516951,Q27,Undirected,1,In Land
+Q864668,Q145,Undirected,1,In Land
+Q1348,Q668,Undirected,1,In Land
+Q1027584,Q145,Undirected,1,In Land
+Q385060,Q145,Undirected,1,In Land
+Q350,Q145,Undirected,1,In Land
+Q115840234,Q478797,Undirected,1,Sterfteplaats
+Q115840234,Q478797,Undirected,1,Werklocatie
+Q115840234,Q822748,Undirected,1,Geboorteplaats
+Q115840234,Q12995,Undirected,1,Werklocatie
+Q115840234,Q696887,Undirected,1,Werklocatie
+Q115840234,Q12996,Undirected,1,Werklocatie
+Q115840234,Q651811,Undirected,1,Werklocatie
+Q120729190,Q414,Undirected,1,Woonplaats
+Q120729190,Q414,Undirected,1,Sterfteplaats
+Q120729190,Q687921,Undirected,1,Geboorteplaats
+Q120729190,Q84,Undirected,1,Woonplaats
+Q117409336,Q177133,Undirected,1,Geboorteplaats
+Q117409336,Q177133,Undirected,1,Sterfteplaats
+Q117409336,Q3110823,Undirected,1,Werklocatie
+Q2203619,Q1060664,Undirected,1,Geboorteplaats
+Q2203619,Q648,Undirected,1,Sterfteplaats
+Q2203619,Q648,Undirected,1,Werklocatie
+Q2203619,Q182481,Undirected,1,Werklocatie
+Q123689972,Q12994,Undirected,1,Werklocatie
+Q123689972,Q1990660,Undirected,1,Geboorteplaats
+Q123689972,Q102728,Undirected,1,Werklocatie
+Q123689972,Q12995,Undirected,1,Werklocatie
+Q123689972,Q2676933,Undirected,1,Sterfteplaats
+Q5026719,Q747599,Undirected,1,Sterfteplaats
+Q5026719,Q747599,Undirected,1,Werklocatie
+Q5026719,Q12995,Undirected,1,Geboorteplaats
+Q5026719,Q995533,Undirected,1,Werklocatie
+Q5026719,Q1431633,Undirected,1,Werklocatie
+Q16,Q16,Undirected,1,In Land
+Q123399443,Q12995,Undirected,1,Sterfteplaats
+Q123399443,Q12995,Undirected,1,Geboorteplaats
+Q123399443,Q12995,Undirected,1,Werklocatie
+Q123399443,Q12995,Undirected,1,Woonplaats
+Q122775600,Q987754,Undirected,1,Woonplaats
+Q122775600,Q987754,Undirected,1,Geboorteplaats
+Q122775600,Q22544,Undirected,1,Sterfteplaats
+Q122775600,Q201970,Undirected,1,Woonplaats
+Q122775600,Q1721,Undirected,1,Woonplaats
+Q122775600,Q39,Undirected,1,Woonplaats
+Q115982585,Q12994,Undirected,1,Geboorteplaats
+Q115982585,Q12994,Undirected,1,Sterfteplaats
+Q115982585,Q2692740,Undirected,1,Werklocatie
+Q115982585,Q392337,Undirected,1,Werklocatie
+Q115982585,Q211037,Undirected,1,Werklocatie
+Q115982585,Q651811,Undirected,1,Werklocatie
+Q115982585,Q506707,Undirected,1,Werklocatie
+Q115811027,Q2261514,Undirected,1,Werklocatie
+Q115811027,Q1978079,Undirected,1,Geboorteplaats
+Q115811027,Q2414284,Undirected,1,Werklocatie
+Q115811027,Q2220639,Undirected,1,Werklocatie
+Q115811027,Q2220639,Undirected,1,Sterfteplaats
+Q115811027,Q244513,Undirected,1,Werklocatie
+Q136759863,Q726498,Undirected,1,Geboorteplaats
+Q136759863,Q726498,Undirected,1,Sterfteplaats
+Q115839380,Q687921,Undirected,1,Werklocatie
+Q115839380,Q921682,Undirected,1,Werklocatie
+Q115839380,Q3102205,Undirected,1,Werklocatie
+Q115839380,Q506707,Undirected,1,Werklocatie
+Q115839380,Q3110851,Undirected,1,Geboorteplaats
+Q115839380,Q3110851,Undirected,1,Sterfteplaats
+Q115838420,Q2006337,Undirected,1,Geboorteplaats
+Q115838420,Q628733,Undirected,1,Werklocatie
+Q115838420,Q628733,Undirected,1,Sterfteplaats
+Q115838420,Q1023248,Undirected,1,Werklocatie
+Q115979029,Q12994,Undirected,1,Werklocatie
+Q115979029,Q12995,Undirected,1,Werklocatie
+Q115979029,Q213224,Undirected,1,Geboorteplaats
+Q115979029,Q12996,Undirected,1,Werklocatie
+Q115979029,Q506707,Undirected,1,Werklocatie
+Q115979029,Q506707,Undirected,1,Sterfteplaats
+Q111744944,Q2766547,Undirected,1,Geboorteplaats
+Q111744944,Q727,Undirected,1,Werklocatie
+Q111744944,Q727,Undirected,1,Sterfteplaats
+Q116621487,Q84,Undirected,1,Geboorteplaats
+Q116621487,Q84,Undirected,1,Sterfteplaats
+Q122830932,Q131491,Undirected,1,Sterfteplaats
+Q122830932,Q131491,Undirected,1,Woonplaats
+Q122830932,Q12994,Undirected,1,Woonplaats
+Q122830932,Q1348,Undirected,1,Woonplaats
+Q122830932,Q659895,Undirected,1,Woonplaats
+Q122830932,Q1761,Undirected,1,Geboorteplaats
+Q122830932,Q25610,Undirected,1,Woonplaats
+Q122830932,Q288781,Undirected,1,Woonplaats
+Q122830932,Q7567400,Undirected,1,Woonplaats
+Q123422368,Q10686,Undirected,1,Woonplaats
+Q123422368,Q10686,Undirected,1,Geboorteplaats
+Q123422368,Q12995,Undirected,1,Woonplaats
+Q122853878,Q22889,Undirected,1,Woonplaats
+Q122853878,Q12994,Undirected,1,Woonplaats
+Q122853878,Q350,Undirected,1,Woonplaats
+Q122853878,Q743535,Undirected,1,Woonplaats
+Q122853878,Q1010212,Undirected,1,Geboorteplaats
+Q122853878,Q776556,Undirected,1,Woonplaats
+Q116620739,Q3110823,Undirected,1,Geboorteplaats
+Q123600982,Q239,Undirected,1,Geboorteplaats
+Q123600982,Q12995,Undirected,1,Sterfteplaats
+Q123600982,Q12995,Undirected,1,Woonplaats
+Q118189670,Q12994,Undirected,1,Woonplaats
+Q118189670,Q23436,Undirected,1,Geboorteplaats
+Q118189670,Q84,Undirected,1,Woonplaats
+Q118189670,Q84,Undirected,1,Sterfteplaats
+Q118189670,Q12996,Undirected,1,Woonplaats
+Q136759797,Q3040923,Undirected,1,Werklocatie
+Q136759797,Q696942,Undirected,1,Werklocatie
+Q136759797,Q1937157,Undirected,1,Sterfteplaats
+Q136759797,Q735842,Undirected,1,Werklocatie
+Q136759797,Q213224,Undirected,1,Werklocatie
+Q136759797,Q2042895,Undirected,1,Werklocatie
+Q136759797,Q34001,Undirected,1,Geboorteplaats
+Q1877721,Q639974,Undirected,1,Werklocatie
+Q1877721,Q12994,Undirected,1,Werklocatie
+Q1877721,Q12994,Undirected,1,Sterfteplaats
+Q1877721,Q281181,Undirected,1,Werklocatie
+Q1877721,Q12896,Undirected,1,Werklocatie
+Q1877721,Q651724,Undirected,1,Geboorteplaats
+Q1877721,Q339395,Undirected,1,Werklocatie
+Q2715338,Q3033905,Undirected,1,Geboorteplaats
+Q2715338,Q118958,Undirected,1,Sterfteplaats
+Q120640333,Q45797,Undirected,1,Werklocatie
+Q120640333,Q680624,Undirected,1,Werklocatie
+Q120640333,Q612066,Undirected,1,Werklocatie
+Q136805616,Q300970,Undirected,1,Geboorteplaats
+Q136805616,Q1296,Undirected,1,Sterfteplaats
+Q136805616,Q12995,Undirected,1,Werklocatie
+Q661733,Q12994,Undirected,1,Sterfteplaats
+Q661733,Q12994,Undirected,1,Werklocatie
+Q661733,Q12994,Undirected,1,Geboorteplaats
+Q661733,Q239,Undirected,1,Werklocatie
+Q125472556,Q34779,Undirected,1,Geboorteplaats
+Q125472556,Q185591,Undirected,1,Sterfteplaats
+Q125472556,Q185591,Undirected,1,Werklocatie
+Q5006521,Q179815,Undirected,1,Sterfteplaats
+Q5006521,Q23092,Undirected,1,Geboorteplaats
+Q122974430,Q277162,Undirected,1,Woonplaats
+Q122974430,Q79848,Undirected,1,Woonplaats
+Q119040354,Q12994,Undirected,1,Sterfteplaats
+Q119040354,Q12994,Undirected,1,Geboorteplaats
+Q115817919,Q696942,Undirected,1,Werklocatie
+Q115817919,Q12995,Undirected,1,Werklocatie
+Q115817919,Q822783,Undirected,1,Geboorteplaats
+Q115817919,Q499588,Undirected,1,Werklocatie
+Q115817919,Q696982,Undirected,1,Werklocatie
+Q115817919,Q696982,Undirected,1,Sterfteplaats
+Q115817919,Q506707,Undirected,1,Werklocatie
+Q122971101,Q12995,Undirected,1,Sterfteplaats
+Q122971101,Q392343,Undirected,1,Geboorteplaats
+Q55233295,Q1296,Undirected,1,Werklocatie
+Q55233295,Q1296,Undirected,1,Sterfteplaats
+Q55233295,Q840935,Undirected,1,Geboorteplaats
+Q3538623,Q12994,Undirected,1,Geboorteplaats
+Q3538623,Q12994,Undirected,1,Sterfteplaats
+Q120555811,Q12995,Undirected,1,Sterfteplaats
+Q120555811,Q12995,Undirected,1,Geboorteplaats
+Q1149378,Q84,Undirected,1,Geboorteplaats
+Q1149378,Q84,Undirected,1,Sterfteplaats
+Q743535,Q145,Undirected,1,In Land
+Q1297,Q30,Undirected,1,In Land
+Q2564391,Q145,Undirected,1,In Land
+Q1065474,Q145,Undirected,1,In Land
+Q925424,Q145,Undirected,1,In Land
+Q146659,Q145,Undirected,1,In Land
+Q5125871,Q145,Undirected,1,In Land
+Q115104760,Q12995,Undirected,1,Geboorteplaats
+Q115104760,Q12995,Undirected,1,Woonplaats
+Q115104760,Q12995,Undirected,1,Sterfteplaats
+Q2376216,Q145,Undirected,1,In Land
+Q2031231,Q27,Undirected,1,In Land
+Q116510419,Q12995,Undirected,1,Geboorteplaats
+Q116510419,Q12995,Undirected,1,Woonplaats
+Q116510419,Q12995,Undirected,1,Sterfteplaats
+Q2457997,Q12892,Undirected,1,Werklocatie
+Q2457997,Q693513,Undirected,1,Sterfteplaats
+Q2457997,Q10084,Undirected,1,Geboorteplaats
+Q115819047,Q696907,Undirected,1,Geboorteplaats
+Q115819047,Q12995,Undirected,1,Sterfteplaats
+Q115816445,Q1297,Undirected,1,Woonplaats
+Q115816445,Q211037,Undirected,1,Geboorteplaats
+Q115816445,Q211037,Undirected,1,Woonplaats
+Q115837593,Q12995,Undirected,1,Werklocatie
+Q115837593,Q12996,Undirected,1,Geboorteplaats
+Q115837593,Q12996,Undirected,1,Sterfteplaats
+Q115837593,Q12996,Undirected,1,Werklocatie
+Q115837593,Q211037,Undirected,1,Werklocatie
+Q115837342,Q12994,Undirected,1,Werklocatie
+Q115837342,Q2199190,Undirected,1,Werklocatie
+Q115837342,Q2199190,Undirected,1,Sterfteplaats
+Q115837342,Q822748,Undirected,1,Geboorteplaats
+Q115837342,Q651811,Undirected,1,Werklocatie
+Q115839443,Q12994,Undirected,1,Werklocatie
+Q115839443,Q12994,Undirected,1,Sterfteplaats
+Q115839443,Q651724,Undirected,1,Werklocatie
+Q115839443,Q211037,Undirected,1,Werklocatie
+Q115839443,Q651811,Undirected,1,Geboorteplaats
+Q113466955,Q12995,Undirected,1,Sterfteplaats
+Q113466955,Q12995,Undirected,1,Geboorteplaats
+Q113466955,Q12995,Undirected,1,Woonplaats
+Q187402,Q27,Undirected,1,In Land
+Q747599,Q30,Undirected,1,In Land
+Q587996,Q145,Undirected,1,In Land
+Q239091,Q142,Undirected,1,In Land
+Q120793054,Q12994,Undirected,1,Woonplaats
+Q120793054,Q84,Undirected,1,Sterfteplaats
+Q120793054,Q19186,Undirected,1,Geboorteplaats
+Q98322098,Q12994,Undirected,1,Werklocatie
+Q98322098,Q1827485,Undirected,1,Werklocatie
+Q98322098,Q1827485,Undirected,1,Sterfteplaats
+Q98322098,Q696887,Undirected,1,Geboorteplaats
+Q98322098,Q623310,Undirected,1,Werklocatie
+Q122884757,Q5125864,Undirected,1,Sterfteplaats
+Q122884757,Q36405,Undirected,1,Woonplaats
+Q122884757,Q12994,Undirected,1,Geboorteplaats
+Q122884757,Q12994,Undirected,1,Woonplaats
+Q122884757,Q21,Undirected,1,Woonplaats
+Q122884757,Q84,Undirected,1,Woonplaats
+Q122884757,Q3130,Undirected,1,Woonplaats
+Q122884757,Q23661,Undirected,1,Woonplaats
+Q1861723,Q31,Undirected,1,In Land
+Q659895,Q27,Undirected,1,In Land
+Q323408,Q31,Undirected,1,In Land
+Q577334,Q30,Undirected,1,In Land
+Q921682,Q31,Undirected,1,In Land
+Q674954,Q31,Undirected,1,In Land
+Q960518,Q30,Undirected,1,In Land
+Q822771,Q31,Undirected,1,In Land
+Q21768611,Q31,Undirected,1,In Land
+Q1991101,Q31,Undirected,1,In Land
+Q122779793,Q1861723,Undirected,1,Sterfteplaats
+Q122779793,Q1861723,Undirected,1,Geboorteplaats
+Q36600,Q55,Undirected,1,In Land
+Q696825,Q31,Undirected,1,In Land
+Q13122,Q31,Undirected,1,In Land
+Q118998471,Q12994,Undirected,1,Geboorteplaats
+Q118998471,Q12994,Undirected,1,Werklocatie
+Q118998471,Q12994,Undirected,1,Woonplaats
+Q118998471,Q12994,Undirected,1,Sterfteplaats
+Q742906,Q31,Undirected,1,In Land
+Q115834834,Q12994,Undirected,1,Werklocatie
+Q115834834,Q949276,Undirected,1,Geboorteplaats
+Q115834834,Q780561,Undirected,1,Werklocatie
+Q115834834,Q780561,Undirected,1,Sterfteplaats
+Q115834834,Q2041336,Undirected,1,Werklocatie
+Q120556534,Q1988333,Undirected,1,Werklocatie
+Q120556534,Q1260195,Undirected,1,Werklocatie
+Q120556534,Q2488256,Undirected,1,Werklocatie
+Q120556534,Q12896,Undirected,1,Sterfteplaats
+Q120556534,Q12896,Undirected,1,Geboorteplaats
+Q120556534,Q2392360,Undirected,1,Werklocatie
+Q1988333,Q31,Undirected,1,In Land
+Q12439,Q30,Undirected,1,In Land
+Q1026699,Q145,Undirected,1,In Land
+Q23156,Q145,Undirected,1,In Land
+Q743236,Q31,Undirected,1,In Land
+Q7003,Q142,Undirected,1,In Land
+Q2199190,Q31,Undirected,1,In Land
+Q215244,Q31,Undirected,1,In Land
+Q533936,Q31,Undirected,1,In Land
+Q165736,Q55,Undirected,1,In Land
+Q3033905,Q31,Undirected,1,In Land
+Q118733026,Q6697,Undirected,1,Werklocatie
+Q118733026,Q54672,Undirected,1,Sterfteplaats
+Q118733026,Q54672,Undirected,1,Geboorteplaats
+Q126113249,Q1761,Undirected,1,Sterfteplaats
+Q126113249,Q3892762,Undirected,1,Geboorteplaats
+Q173219,Q31,Undirected,1,In Land
+Q2022299,Q31,Undirected,1,In Land
+Q23159,Q145,Undirected,1,In Land
+Q2692740,Q31,Undirected,1,In Land
+Q2117660,Q31,Undirected,1,In Land
+Q688377,Q31,Undirected,1,In Land
+Q207223,Q27,Undirected,1,In Land
+Q1260195,Q31,Undirected,1,In Land
+Q1761,Q27,Undirected,1,In Land
+Q3040923,Q31,Undirected,1,In Land
+Q45797,Q142,Undirected,1,In Land
+Q34779,Q145,Undirected,1,In Land
+Q204956,Q27,Undirected,1,In Land
+Q179815,Q145,Undirected,1,In Land
+Q117244211,Q12994,Undirected,1,Geboorteplaats
+Q117244211,Q12994,Undirected,1,Werklocatie
+Q117244211,Q6403209,Undirected,1,Werklocatie
+Q117244211,Q11739,Undirected,1,Werklocatie
+Q117244211,Q118958,Undirected,1,Sterfteplaats
+Q117244211,Q696355,Undirected,1,Werklocatie
+Q117244211,Q37792,Undirected,1,Werklocatie
+Q55911879,Q58780,Undirected,1,Werklocatie
+Q55911879,Q134121,Undirected,1,Werklocatie
+Q55911879,Q134121,Undirected,1,Sterfteplaats
+Q55911879,Q2436688,Undirected,1,Geboorteplaats
+Q55911879,Q456550,Undirected,1,Werklocatie
+Q1610804,Q145,Undirected,1,In Land
+Q115836065,Q2692740,Undirected,1,Geboorteplaats
+Q115836065,Q3992,Undirected,1,Sterfteplaats
+Q115836065,Q83317,Undirected,1,Werklocatie
+Q377071,Q239,Undirected,1,Werklocatie
+Q377071,Q239,Undirected,1,Sterfteplaats
+Q377071,Q162022,Undirected,1,Werklocatie
+Q377071,Q3475052,Undirected,1,Geboorteplaats
+Q23436,Q145,Undirected,1,In Land
+Q122903342,Q22889,Undirected,1,Woonplaats
+Q122903342,Q12994,Undirected,1,Woonplaats
+Q122903342,Q12995,Undirected,1,Woonplaats
+Q122903342,Q24826,Undirected,1,Woonplaats
+Q122903342,Q84,Undirected,1,Geboorteplaats
+Q122903342,Q123634,Undirected,1,Sterfteplaats
+Q122903342,Q90,Undirected,1,Woonplaats
+Q122903342,Q743521,Undirected,1,Woonplaats
+Q120718341,Q318532,Undirected,1,Geboorteplaats
+Q136762833,Q12994,Undirected,1,Geboorteplaats
+Q136762833,Q12994,Undirected,1,Sterfteplaats
+Q118120867,Q12994,Undirected,1,Sterfteplaats
+Q118120867,Q12994,Undirected,1,Geboorteplaats
+Q118120867,Q12994,Undirected,1,Werklocatie
+Q13575367,Q12994,Undirected,1,Werklocatie
+Q13575367,Q1937157,Undirected,1,Werklocatie
+Q13575367,Q696871,Undirected,1,Sterfteplaats
+Q13575367,Q211037,Undirected,1,Geboorteplaats
+Q136759995,Q239,Undirected,1,Sterfteplaats
+Q136759995,Q211037,Undirected,1,Werklocatie
+Q136759995,Q211037,Undirected,1,Geboorteplaats
+Q136759995,Q30,Undirected,1,Werklocatie
+Q115820636,Q918153,Undirected,1,Werklocatie
+Q115820636,Q129286,Undirected,1,Werklocatie
+Q115820636,Q1296,Undirected,1,Geboorteplaats
+Q115820636,Q203197,Undirected,1,Sterfteplaats
+Q115836962,Q12994,Undirected,1,Werklocatie
+Q115836962,Q12994,Undirected,1,Sterfteplaats
+Q115836962,Q392337,Undirected,1,Werklocatie
+Q115836962,Q12995,Undirected,1,Werklocatie
+Q115836962,Q735797,Undirected,1,Geboorteplaats
+Q4902927,Q2791245,Undirected,1,Geboorteplaats
+Q4902927,Q506707,Undirected,1,Werklocatie
+Q4902927,Q506707,Undirected,1,Sterfteplaats
+Q18533827,Q12992,Undirected,1,Geboorteplaats
+Q18533827,Q12992,Undirected,1,Sterfteplaats
+Q119690392,Q7683408,Undirected,1,Sterfteplaats
+Q119690392,Q1054923,Undirected,1,Werklocatie
+Q119690392,Q1827485,Undirected,1,Geboorteplaats
+Q119690392,Q188096,Undirected,1,Werklocatie
+Q119690392,Q8686,Undirected,1,Werklocatie
+Q118792556,Q1219676,Undirected,1,Geboorteplaats
+Q118792556,Q84,Undirected,1,Werklocatie
+Q118792556,Q12191,Undirected,1,Sterfteplaats
+Q122963358,Q12994,Undirected,1,Sterfteplaats
+Q122963358,Q1296,Undirected,1,Geboorteplaats
+Q120442396,Q12994,Undirected,1,Werklocatie
+Q120442396,Q1963590,Undirected,1,Geboorteplaats
+Q120442396,Q2351222,Undirected,1,Werklocatie
+Q120442396,Q499588,Undirected,1,Sterfteplaats
+Q120442396,Q499588,Undirected,1,Werklocatie
+Q120442396,Q2220639,Undirected,1,Werklocatie
+Q120442396,Q211037,Undirected,1,Werklocatie
+Q120721942,Q220145,Undirected,1,Werklocatie
+Q120721942,Q211037,Undirected,1,Werklocatie
+Q120721942,Q2512929,Undirected,1,Werklocatie
+Q120721942,Q651811,Undirected,1,Werklocatie
+Q115839320,Q270644,Undirected,1,Geboorteplaats
+Q115839320,Q822748,Undirected,1,Werklocatie
+Q115839320,Q12995,Undirected,1,Sterfteplaats
+Q115839320,Q12995,Undirected,1,Werklocatie
+Q115839320,Q3472219,Undirected,1,Werklocatie
+Q115839320,Q270633,Undirected,1,Werklocatie
+Q120550899,Q392337,Undirected,1,Sterfteplaats
+Q120550899,Q392337,Undirected,1,Werklocatie
+Q120550899,Q651724,Undirected,1,Geboorteplaats
+Q115839353,Q12994,Undirected,1,Werklocatie
+Q115839353,Q478797,Undirected,1,Werklocatie
+Q115839353,Q12995,Undirected,1,Werklocatie
+Q115839353,Q213224,Undirected,1,Geboorteplaats
+Q115839353,Q213224,Undirected,1,Werklocatie
+Q115839353,Q211037,Undirected,1,Werklocatie
+Q115839353,Q651811,Undirected,1,Sterfteplaats
+Q115839353,Q651811,Undirected,1,Werklocatie
+Q122963909,Q499588,Undirected,1,Sterfteplaats
+Q122963909,Q499588,Undirected,1,Werklocatie
+Q122963909,Q499588,Undirected,1,Geboorteplaats
+Q2345694,Q12995,Undirected,1,Sterfteplaats
+Q2345694,Q211037,Undirected,1,Geboorteplaats
+Q115979952,Q2750562,Undirected,1,Werklocatie
+Q115979952,Q102728,Undirected,1,Werklocatie
+Q115979952,Q12995,Undirected,1,Sterfteplaats
+Q115979952,Q2127148,Undirected,1,Geboorteplaats
+Q115979952,Q2561079,Undirected,1,Werklocatie
+Q115979952,Q213224,Undirected,1,Werklocatie
+Q115979952,Q780561,Undirected,1,Werklocatie
+Q115979952,Q506707,Undirected,1,Werklocatie
+Q2360914,Q12994,Undirected,1,Werklocatie
+Q2360914,Q12994,Undirected,1,Sterfteplaats
+Q2360914,Q12994,Undirected,1,Geboorteplaats
+Q13575404,Q118958,Undirected,1,Werklocatie
+Q13575404,Q118958,Undirected,1,Geboorteplaats
+Q13575404,Q118958,Undirected,1,Sterfteplaats
+Q113925472,Q12994,Undirected,1,Werklocatie
+Q113925472,Q3049134,Undirected,1,Geboorteplaats
+Q113925472,Q213137,Undirected,1,Sterfteplaats
+Q113925472,Q1356,Undirected,1,Werklocatie
+Q110039219,Q1963590,Undirected,1,Werklocatie
+Q110039219,Q731501,Undirected,1,Sterfteplaats
+Q110039219,Q2491546,Undirected,1,Geboorteplaats
+Q110039219,Q2963326,Undirected,1,Werklocatie
+Q110039219,Q2568071,Undirected,1,Werklocatie
+Q110039219,Q2107664,Undirected,1,Werklocatie
+Q119217748,Q818804,Undirected,1,Sterfteplaats
+Q119217748,Q12996,Undirected,1,Geboorteplaats
+Q123697088,Q716658,Undirected,1,Werklocatie
+Q123697088,Q1610804,Undirected,1,Sterfteplaats
+Q123697088,Q5685502,Undirected,1,Geboorteplaats
+Q2006337,Q31,Undirected,1,In Land
+Q3049134,Q31,Undirected,1,In Land
+Q2526091,Q31,Undirected,1,In Land
+Q2693730,Q31,Undirected,1,In Land
+Q12012813,Q31,Undirected,1,In Land
+Q2488256,Q31,Undirected,1,In Land
+Q1021018,Q262,Undirected,1,In Land
+Q2803757,Q31,Undirected,1,In Land
+Q1981740,Q145,Undirected,1,In Land
+Q116621171,Q12994,Undirected,1,Woonplaats
+Q116621171,Q12994,Undirected,1,Sterfteplaats
+Q116621171,Q84,Undirected,1,Geboorteplaats
+Q121078322,Q12995,Undirected,1,Woonplaats
+Q121078322,Q12995,Undirected,1,Sterfteplaats
+Q121078322,Q13127,Undirected,1,Geboorteplaats
+Q116689485,Q12994,Undirected,1,Sterfteplaats
+Q116689485,Q623382,Undirected,1,Geboorteplaats
+Q2475316,Q31,Undirected,1,In Land
+Q117229438,Q2803757,Undirected,1,Geboorteplaats
+Q117229438,Q192859,Undirected,1,Woonplaats
+Q117229438,Q192859,Undirected,1,Sterfteplaats
+Q208713,Q31,Undirected,1,In Land
+Q2575787,Q31,Undirected,1,In Land
+Q125859018,Q12995,Undirected,1,Sterfteplaats
+Q125859018,Q12995,Undirected,1,Geboorteplaats
+Q2681034,Q31,Undirected,1,In Land
+Q122791049,Q1296,Undirected,1,Sterfteplaats
+Q122791049,Q1296,Undirected,1,Werklocatie
+Q122791049,Q1296,Undirected,1,Woonplaats
+Q122791049,Q9845,Undirected,1,Geboorteplaats
+Q115815852,Q301745,Undirected,1,Werklocatie
+Q115815852,Q334301,Undirected,1,Sterfteplaats
+Q115815852,Q49345973,Undirected,1,Werklocatie
+Q115815852,Q215244,Undirected,1,Werklocatie
+Q115815852,Q2314278,Undirected,1,Werklocatie
+Q115815852,Q835128,Undirected,1,Werklocatie
+Q115815852,Q255575,Undirected,1,Werklocatie
+Q115815852,Q651811,Undirected,1,Geboorteplaats
+Q116679969,Q12994,Undirected,1,Sterfteplaats
+Q116679969,Q12994,Undirected,1,Werklocatie
+Q116679969,Q2928815,Undirected,1,Geboorteplaats
+Q13576607,Q12994,Undirected,1,Sterfteplaats
+Q13576607,Q12994,Undirected,1,Werklocatie
+Q13576607,Q211037,Undirected,1,Geboorteplaats
+Q13576607,Q211037,Undirected,1,Werklocatie
+Q2183646,Q822748,Undirected,1,Geboorteplaats
+Q2183646,Q12995,Undirected,1,Sterfteplaats
+Q2183646,Q12995,Undirected,1,Werklocatie
+Q115835605,Q12994,Undirected,1,Werklocatie
+Q115835605,Q12994,Undirected,1,Sterfteplaats
+Q115835605,Q651811,Undirected,1,Geboorteplaats
+Q115835605,Q651811,Undirected,1,Werklocatie
+Q122915335,Q2490578,Undirected,1,Werklocatie
+Q115811038,Q12994,Undirected,1,Werklocatie
+Q115811038,Q392337,Undirected,1,Werklocatie
+Q115811038,Q726498,Undirected,1,Werklocatie
+Q115811038,Q742892,Undirected,1,Sterfteplaats
+Q115811038,Q742892,Undirected,1,Werklocatie
+Q115811038,Q2693056,Undirected,1,Geboorteplaats
+Q120900509,Q727,Undirected,1,Werklocatie
+Q120900509,Q12994,Undirected,1,Werklocatie
+Q120900509,Q12994,Undirected,1,Geboorteplaats
+Q120900509,Q118958,Undirected,1,Werklocatie
+Q120900509,Q688781,Undirected,1,Sterfteplaats
+Q120900509,Q34370,Undirected,1,Werklocatie
+Q120644522,Q332310,Undirected,1,Werklocatie
+Q120644522,Q769160,Undirected,1,Werklocatie
+Q120644522,Q769160,Undirected,1,Sterfteplaats
+Q120644522,Q687503,Undirected,1,Werklocatie
+Q120644522,Q670807,Undirected,1,Geboorteplaats
+Q120644522,Q1160270,Undirected,1,Werklocatie
+Q115825992,Q177133,Undirected,1,Werklocatie
+Q115825992,Q12994,Undirected,1,Werklocatie
+Q115825992,Q102728,Undirected,1,Sterfteplaats
+Q115825992,Q102728,Undirected,1,Werklocatie
+Q115825992,Q12995,Undirected,1,Geboorteplaats
+Q115825992,Q12995,Undirected,1,Werklocatie
+Q115825992,Q2174334,Undirected,1,Werklocatie
+Q115808465,Q873205,Undirected,1,Werklocatie
+Q115808465,Q875554,Undirected,1,Werklocatie
+Q115808465,Q12995,Undirected,1,Geboorteplaats
+Q115808465,Q1626288,Undirected,1,Werklocatie
+Q115808465,Q18125,Undirected,1,Werklocatie
+Q115808465,Q41262,Undirected,1,Sterfteplaats
+Q115808465,Q211037,Undirected,1,Werklocatie
+Q115808465,Q5273898,Undirected,1,Werklocatie
+Q122831483,Q211037,Undirected,1,Sterfteplaats
+Q122831483,Q211037,Undirected,1,Geboorteplaats
+Q113486838,Q12994,Undirected,1,Geboorteplaats
+Q113486838,Q12994,Undirected,1,Woonplaats
+Q113486838,Q1296,Undirected,1,Woonplaats
+Q113486838,Q3099657,Undirected,1,Sterfteplaats
+Q113486838,Q3099657,Undirected,1,Woonplaats
+Q117227040,Q84,Undirected,1,Sterfteplaats
+Q117227040,Q84,Undirected,1,Geboorteplaats
+Q117227040,Q2065416,Undirected,1,Woonplaats
+Q117227040,Q189960,Undirected,1,Woonplaats
+Q117226377,Q12995,Undirected,1,Sterfteplaats
+Q117226377,Q12995,Undirected,1,Geboorteplaats
+Q117226377,Q12995,Undirected,1,Woonplaats
+Q1334711,Q239,Undirected,1,Woonplaats
+Q1334711,Q13122,Undirected,1,Geboorteplaats
+Q1334711,Q12887,Undirected,1,Sterfteplaats
+Q1334711,Q898394,Undirected,1,Geboorteplaats
+Q6697,Q38,Undirected,1,In Land
+Q1219676,Q145,Undirected,1,In Land
+Q21,Q145,Undirected,1,In Land
+Q44762,Q414,Undirected,1,In Land
+Q120855316,Q408,Undirected,1,Woonplaats
+Q120855316,Q34932,Undirected,1,Sterfteplaats
+Q120855316,Q12994,Undirected,1,Woonplaats
+Q120855316,Q12995,Undirected,1,Woonplaats
+Q120855316,Q84,Undirected,1,Woonplaats
+Q120855316,Q84,Undirected,1,Geboorteplaats
+Q125282135,Q12994,Undirected,1,Woonplaats
+Q3080591,Q12994,Undirected,1,Sterfteplaats
+Q3080591,Q12994,Undirected,1,Werklocatie
+Q3080591,Q2340735,Undirected,1,Geboorteplaats
+Q62080181,Q12994,Undirected,1,Sterfteplaats
+Q62080181,Q780561,Undirected,1,Geboorteplaats
+Q125275288,Q300970,Undirected,1,Geboorteplaats
+Q125275288,Q12994,Undirected,1,Sterfteplaats
+Q125275288,Q12994,Undirected,1,Woonplaats
+Q125275288,Q2647040,Undirected,1,Woonplaats
+Q125352256,Q12994,Undirected,1,Woonplaats
+Q125352256,Q12994,Undirected,1,Geboorteplaats
+Q2085862,Q31,Undirected,1,In Land
+Q724283,Q31,Undirected,1,In Land
+Q132321245,Q12994,Undirected,1,Geboorteplaats
+Q132321245,Q12994,Undirected,1,Woonplaats
+Q132321245,Q211037,Undirected,1,Woonplaats
+Q132321245,Q211037,Undirected,1,Sterfteplaats
+Q2261514,Q31,Undirected,1,In Land
+Q192859,Q31,Undirected,1,In Land
+Q42196616,Q1296,Undirected,1,Werklocatie
+Q42196616,Q1296,Undirected,1,Sterfteplaats
+Q42196616,Q2026816,Undirected,1,Geboorteplaats
+Q42196616,Q13127,Undirected,1,Werklocatie
+Q2546317,Q815948,Undirected,1,Sterfteplaats
+Q2546317,Q270633,Undirected,1,Geboorteplaats
+Q57197744,Q12994,Undirected,1,Sterfteplaats
+Q57197744,Q12994,Undirected,1,Werklocatie
+Q57197744,Q12994,Undirected,1,Geboorteplaats
+Q123414143,Q639974,Undirected,1,Geboorteplaats
+Q123414143,Q12995,Undirected,1,Woonplaats
+Q120556695,Q12994,Undirected,1,Sterfteplaats
+Q120556695,Q239,Undirected,1,Geboorteplaats
+Q56036023,Q11131,Undirected,1,Sterfteplaats
+Q123052123,Q12995,Undirected,1,Sterfteplaats
+Q123052123,Q12995,Undirected,1,Geboorteplaats
+Q116621789,Q2974907,Undirected,1,Sterfteplaats
+Q116621789,Q2974907,Undirected,1,Geboorteplaats
+Q115814591,Q12886,Undirected,1,Werklocatie
+Q115814591,Q2526091,Undirected,1,Werklocatie
+Q115814591,Q2526091,Undirected,1,Sterfteplaats
+Q115814591,Q2004020,Undirected,1,Geboorteplaats
+Q115814591,Q118958,Undirected,1,Werklocatie
+Q115814591,Q711,Undirected,1,Werklocatie
+Q2309565,Q31,Undirected,1,In Land
+Q12997,Q31,Undirected,1,In Land
+Q115855636,Q2346906,Undirected,1,Werklocatie
+Q115855636,Q12994,Undirected,1,Sterfteplaats
+Q115855636,Q12994,Undirected,1,Werklocatie
+Q115855636,Q696887,Undirected,1,Geboorteplaats
+Q115855636,Q12996,Undirected,1,Werklocatie
+Q2770967,Q12994,Undirected,1,Sterfteplaats
+Q2770967,Q12994,Undirected,1,Werklocatie
+Q2770967,Q12995,Undirected,1,Geboorteplaats
+Q2770967,Q211037,Undirected,1,Werklocatie
+Q115981938,Q614274,Undirected,1,Werklocatie
+Q115981938,Q270644,Undirected,1,Sterfteplaats
+Q115981938,Q270644,Undirected,1,Geboorteplaats
+Q115981938,Q1021457,Undirected,1,Werklocatie
+Q115981938,Q2746117,Undirected,1,Werklocatie
+Q115981938,Q2191886,Undirected,1,Werklocatie
+Q115981938,Q651811,Undirected,1,Werklocatie
+Q115981938,Q318532,Undirected,1,Werklocatie
+Q115838563,Q328104,Undirected,1,Werklocatie
+Q115838563,Q12994,Undirected,1,Werklocatie
+Q115838563,Q3049134,Undirected,1,Geboorteplaats
+Q115838563,Q1023248,Undirected,1,Werklocatie
+Q115838563,Q2505670,Undirected,1,Werklocatie
+Q115838563,Q2505670,Undirected,1,Sterfteplaats
+Q115838563,Q651811,Undirected,1,Werklocatie
+Q2684959,Q890339,Undirected,1,Werklocatie
+Q2684959,Q12994,Undirected,1,Werklocatie
+Q2684959,Q12995,Undirected,1,Werklocatie
+Q2684959,Q12995,Undirected,1,Sterfteplaats
+Q2684959,Q499588,Undirected,1,Werklocatie
+Q2684959,Q1704244,Undirected,1,Geboorteplaats
+Q2065109,Q1296,Undirected,1,Werklocatie
+Q2065109,Q1296,Undirected,1,Sterfteplaats
+Q2065109,Q1296,Undirected,1,Geboorteplaats
+Q2065109,Q2538413,Undirected,1,Woonplaats
+Q663930,Q142,Undirected,1,In Land
+Q125365215,Q12994,Undirected,1,Werklocatie
+Q125365215,Q12995,Undirected,1,Sterfteplaats
+Q125365215,Q118958,Undirected,1,Geboorteplaats
+Q2044,Q38,Undirected,1,In Land
+Q116660566,Q12994,Undirected,1,Geboorteplaats
+Q116660566,Q12994,Undirected,1,Woonplaats
+Q116660566,Q3110823,Undirected,1,Werklocatie
+Q116660566,Q3110823,Undirected,1,Woonplaats
+Q116660566,Q3110823,Undirected,1,Sterfteplaats
+Q116660566,Q498655,Undirected,1,Werklocatie
+Q116660566,Q12995,Undirected,1,Werklocatie
+Q116660566,Q255575,Undirected,1,Werklocatie
+Q116660566,Q2316093,Undirected,1,Werklocatie
+Q115981931,Q102728,Undirected,1,Werklocatie
+Q115981931,Q731501,Undirected,1,Sterfteplaats
+Q115981931,Q731501,Undirected,1,Werklocatie
+Q115981931,Q211037,Undirected,1,Werklocatie
+Q115981931,Q2354846,Undirected,1,Geboorteplaats
+Q115981931,Q270633,Undirected,1,Werklocatie
+Q115981931,Q318532,Undirected,1,Werklocatie
+Q3074712,Q31,Undirected,1,In Land
+Q1010212,Q145,Undirected,1,In Land
+Q116509612,Q131491,Undirected,1,Woonplaats
+Q116509612,Q4974338,Undirected,1,Woonplaats
+Q116509612,Q1981740,Undirected,1,Sterfteplaats
+Q116509612,Q28599921,Undirected,1,Woonplaats
+Q116509612,Q2065416,Undirected,1,Geboorteplaats
+Q119039938,Q125163,Undirected,1,Geboorteplaats
+Q119039938,Q161491,Undirected,1,Sterfteplaats
+Q122964092,Q499588,Undirected,1,Woonplaats
+Q122964092,Q499588,Undirected,1,Sterfteplaats
+Q122964092,Q499588,Undirected,1,Werklocatie
+Q122964092,Q499588,Undirected,1,Geboorteplaats
+Q115811922,Q12995,Undirected,1,Sterfteplaats
+Q115811922,Q822783,Undirected,1,Geboorteplaats
+Q115982485,Q2346906,Undirected,1,Werklocatie
+Q115982485,Q2480040,Undirected,1,Werklocatie
+Q115982485,Q102728,Undirected,1,Werklocatie
+Q115982485,Q12995,Undirected,1,Sterfteplaats
+Q115982485,Q817372,Undirected,1,Geboorteplaats
+Q115831995,Q270644,Undirected,1,Werklocatie
+Q115831995,Q270644,Undirected,1,Sterfteplaats
+Q115831995,Q2742,Undirected,1,Geboorteplaats
+Q115831995,Q13127,Undirected,1,Werklocatie
+Q115982545,Q12994,Undirected,1,Werklocatie
+Q115982545,Q270633,Undirected,1,Werklocatie
+Q115982545,Q270633,Undirected,1,Sterfteplaats
+Q115982545,Q2227700,Undirected,1,Geboorteplaats
+Q142,Q142,Undirected,1,In Land
+Q2361397,Q12892,Undirected,1,Geboorteplaats
+Q2361397,Q208713,Undirected,1,Sterfteplaats
+Q15461013,Q1296,Undirected,1,Werklocatie
+Q15461013,Q1296,Undirected,1,Geboorteplaats
+Q15461013,Q1296,Undirected,1,Sterfteplaats
+Q15956,Q604222,Undirected,1,Sterfteplaats
+Q15956,Q1817149,Undirected,1,Geboorteplaats
+Q121078001,Q16,Undirected,1,Werklocatie
+Q121078001,Q2320749,Undirected,1,Geboorteplaats
+Q121078001,Q24639,Undirected,1,Sterfteplaats
+Q120913841,Q332310,Undirected,1,Geboorteplaats
+Q120913841,Q663930,Undirected,1,Werklocatie
+Q120913841,Q473892,Undirected,1,Werklocatie
+Q120913841,Q274325,Undirected,1,Werklocatie
+Q120913841,Q773585,Undirected,1,Werklocatie
+Q120913841,Q641313,Undirected,1,Sterfteplaats
+Q120913841,Q641313,Undirected,1,Werklocatie
+Q120913841,Q1152274,Undirected,1,Werklocatie
+Q120504176,Q12994,Undirected,1,Geboorteplaats
+Q120504176,Q12994,Undirected,1,Werklocatie
+Q120504176,Q102728,Undirected,1,Werklocatie
+Q120504176,Q13581283,Undirected,1,Sterfteplaats
+Q120504176,Q213224,Undirected,1,Werklocatie
+Q120504176,Q211037,Undirected,1,Werklocatie
+Q136735429,Q12994,Undirected,1,Werklocatie
+Q136735429,Q12994,Undirected,1,Geboorteplaats
+Q136735429,Q12994,Undirected,1,Sterfteplaats
+Q1894475,Q12994,Undirected,1,Geboorteplaats
+Q1894475,Q12994,Undirected,1,Werklocatie
+Q1894475,Q12994,Undirected,1,Sterfteplaats
+Q1286149,Q1027584,Undirected,1,Geboorteplaats
+Q1286149,Q84,Undirected,1,Sterfteplaats
+Q42596,Q498858,Undirected,1,Sterfteplaats
+Q42596,Q498858,Undirected,1,Geboorteplaats
+Q122754021,Q12995,Undirected,1,Sterfteplaats
+Q122754021,Q12995,Undirected,1,Geboorteplaats
+Q125351679,Q12995,Undirected,1,Werklocatie
+Q125351679,Q12995,Undirected,1,Woonplaats
+Q125351679,Q3992,Undirected,1,Geboorteplaats
+Q125351679,Q90,Undirected,1,Sterfteplaats
+Q464454,Q31,Undirected,1,In Land
+Q949276,Q31,Undirected,1,In Land
+Q1963590,Q31,Undirected,1,In Land
+Q1296,Q31,Undirected,1,In Land
+Q122971209,Q34217,Undirected,1,Werklocatie
+Q122971209,Q34217,Undirected,1,Sterfteplaats
+Q119796023,Q12995,Undirected,1,Geboorteplaats
+Q119796023,Q12995,Undirected,1,Werklocatie
+Q119796023,Q12995,Undirected,1,Sterfteplaats
+Q118725738,Q47952,Undirected,1,Geboorteplaats
+Q118725738,Q146811,Undirected,1,Sterfteplaats
+Q118189985,Q12994,Undirected,1,Woonplaats
+Q118189985,Q12994,Undirected,1,Sterfteplaats
+Q118189985,Q623382,Undirected,1,Geboorteplaats
+Q499532,Q31,Undirected,1,In Land
+Q2606766,Q126898,Undirected,1,Sterfteplaats
+Q2606766,Q2340735,Undirected,1,Geboorteplaats
+Q2606766,Q13581283,Undirected,1,Werklocatie
+Q2606766,Q28301,Undirected,1,Werklocatie
+Q2606766,Q8678,Undirected,1,Werklocatie
+Q2606766,Q220,Undirected,1,Werklocatie
+Q2319173,Q43631,Undirected,1,Sterfteplaats
+Q2319173,Q1164598,Undirected,1,Geboorteplaats
+Q116460145,Q955,Undirected,1,Geboorteplaats
+Q116460145,Q955,Undirected,1,Woonplaats
+Q116460145,Q239091,Undirected,1,Woonplaats
+Q116460145,Q239091,Undirected,1,Sterfteplaats
+Q116460145,Q211037,Undirected,1,Woonplaats
+Q116460145,Q109571087,Undirected,1,Woonplaats
+Q1021457,Q31,Undirected,1,In Land
+Q815948,Q31,Undirected,1,In Land
+Q2625637,Q31,Undirected,1,In Land
+Q984868,Q31,Undirected,1,In Land
+Q4093,Q145,Undirected,1,In Land
+Q383912,Q145,Undirected,1,In Land
+Q81220,Q55,Undirected,1,In Land
+Q122842009,Q12995,Undirected,1,Woonplaats
+Q122842009,Q184090,Undirected,1,Geboorteplaats
+Q749,Q55,Undirected,1,In Land
+Q23666,Q145,Undirected,1,In Land
+Q23306,Q145,Undirected,1,In Land
+Q769160,Q142,Undirected,1,In Land
+Q1978079,Q31,Undirected,1,In Land
+Q115844439,Q735797,Undirected,1,Sterfteplaats
+Q115844439,Q735797,Undirected,1,Geboorteplaats
+Q115844439,Q735797,Undirected,1,Werklocatie
+Q115813555,Q12892,Undirected,1,Werklocatie
+Q115813555,Q239,Undirected,1,Sterfteplaats
+Q115813555,Q239,Undirected,1,Werklocatie
+Q115813555,Q464454,Undirected,1,Werklocatie
+Q115813555,Q118958,Undirected,1,Werklocatie
+Q115813555,Q162022,Undirected,1,Werklocatie
+Q115813555,Q162022,Undirected,1,Geboorteplaats
+Q115835763,Q639974,Undirected,1,Werklocatie
+Q115835763,Q639974,Undirected,1,Sterfteplaats
+Q115835763,Q12994,Undirected,1,Werklocatie
+Q115835763,Q102728,Undirected,1,Werklocatie
+Q115835763,Q392337,Undirected,1,Geboorteplaats
+Q122872984,Q392337,Undirected,1,Geboorteplaats
+Q122872984,Q49218,Undirected,1,Sterfteplaats
+Q2190493,Q822771,Undirected,1,Geboorteplaats
+Q2190493,Q118958,Undirected,1,Werklocatie
+Q2190493,Q189153,Undirected,1,Sterfteplaats
+Q2190493,Q318532,Undirected,1,Werklocatie
+Q115837646,Q739996,Undirected,1,Sterfteplaats
+Q115837646,Q3110841,Undirected,1,Geboorteplaats
+Q115838249,Q822783,Undirected,1,Werklocatie
+Q115838249,Q705028,Undirected,1,Sterfteplaats
+Q115838249,Q705028,Undirected,1,Werklocatie
+Q115838249,Q2354846,Undirected,1,Werklocatie
+Q115838249,Q506707,Undirected,1,Geboorteplaats
+Q115818541,Q12994,Undirected,1,Geboorteplaats
+Q115818541,Q12995,Undirected,1,Sterfteplaats
+Q2496044,Q12994,Undirected,1,Werklocatie
+Q2496044,Q12994,Undirected,1,Sterfteplaats
+Q2496044,Q239,Undirected,1,Geboorteplaats
+Q2496044,Q12995,Undirected,1,Werklocatie
+Q2496044,Q2561079,Undirected,1,Werklocatie
+Q2496044,Q211037,Undirected,1,Werklocatie
+Q2496044,Q696982,Undirected,1,Werklocatie
+Q2191260,Q328104,Undirected,1,Werklocatie
+Q2191260,Q12994,Undirected,1,Werklocatie
+Q2191260,Q12994,Undirected,1,Sterfteplaats
+Q2191260,Q2512929,Undirected,1,Geboorteplaats
+Q2191260,Q430812,Undirected,1,Werklocatie
+Q122971559,Q1963590,Undirected,1,Sterfteplaats
+Q122971559,Q1963590,Undirected,1,Werklocatie
+Q122971559,Q499588,Undirected,1,Werklocatie
+Q122971559,Q651811,Undirected,1,Geboorteplaats
+Q122971559,Q506707,Undirected,1,Werklocatie
+Q122971559,Q2091146,Undirected,1,Werklocatie
+Q1557796,Q954,Undirected,1,In Land
+Q9920,Q55,Undirected,1,In Land
+Q1361,Q668,Undirected,1,In Land
+Q109042,Q20,Undirected,1,In Land
+Q631265,Q142,Undirected,1,In Land
+Q210003,Q31,Undirected,1,In Land
+Q391294,Q31,Undirected,1,In Land
+Q277162,Q145,Undirected,1,In Land
+Q25610,Q145,Undirected,1,In Land
+Q2741641,Q31,Undirected,1,In Land
+Q2647040,Q31,Undirected,1,In Land
+Q478797,Q31,Undirected,1,In Land
+Q58780,Q31,Undirected,1,In Land
+Q29245,Q145,Undirected,1,In Land
+Q473892,Q142,Undirected,1,In Land
+Q5685502,Q145,Undirected,1,In Land
+Q11131,Q142,Undirected,1,In Land
+Q2195310,Q55,Undirected,1,In Land
+Q1849663,Q31,Undirected,1,In Land
+Q2966,Q183,Undirected,1,In Land
+Q125541827,Q586,Undirected,1,Geboorteplaats
+Q125541827,Q12994,Undirected,1,Werklocatie
+Q125541827,Q1296,Undirected,1,Werklocatie
+Q125541827,Q36433,Undirected,1,Werklocatie
+Q2974907,Q31,Undirected,1,In Land
+Q2134798,Q31,Undirected,1,In Land
+Q116508871,Q12994,Undirected,1,Woonplaats
+Q116508871,Q21,Undirected,1,Sterfteplaats
+Q116508871,Q21,Undirected,1,Woonplaats
+Q116508871,Q84,Undirected,1,Geboorteplaats
+Q125360612,Q81997,Undirected,1,Werklocatie
+Q724448,Q31,Undirected,1,In Land
+Q119794240,Q17856,Undirected,1,Werklocatie
+Q119794240,Q146659,Undirected,1,Werklocatie
+Q119794240,Q204956,Undirected,1,Sterfteplaats
+Q119794240,Q102728,Undirected,1,Geboorteplaats
+Q119794240,Q133315,Undirected,1,Werklocatie
+Q119794240,Q24826,Undirected,1,Werklocatie
+Q119794240,Q203000,Undirected,1,Werklocatie
+Q119794240,Q667610,Undirected,1,Werklocatie
+Q119794240,Q55453014,Undirected,1,Werklocatie
+Q87648661,Q239,Undirected,1,Geboorteplaats
+Q87648661,Q12995,Undirected,1,Sterfteplaats
+Q87648661,Q12995,Undirected,1,Werklocatie
+Q119860278,Q12892,Undirected,1,Geboorteplaats
+Q119860278,Q12892,Undirected,1,Woonplaats
+Q119860278,Q12892,Undirected,1,Sterfteplaats
+Q119860278,Q12892,Undirected,1,Werklocatie
+Q378133,Q12892,Undirected,1,Geboorteplaats
+Q378133,Q208713,Undirected,1,Sterfteplaats
+Q378133,Q263177,Undirected,1,Woonplaats
+Q378133,Q488688,Undirected,1,Woonplaats
+Q136760074,Q2681034,Undirected,1,Geboorteplaats
+Q136760074,Q392337,Undirected,1,Werklocatie
+Q136760074,Q2505670,Undirected,1,Sterfteplaats
+Q120377148,Q2791245,Undirected,1,Geboorteplaats
+Q120377148,Q2791245,Undirected,1,Sterfteplaats
+Q120377148,Q188304,Undirected,1,Werklocatie
+Q113627806,Q146690,Undirected,1,Werklocatie
+Q113627806,Q385060,Undirected,1,Werklocatie
+Q113627806,Q925424,Undirected,1,Werklocatie
+Q113627806,Q587996,Undirected,1,Werklocatie
+Q113627806,Q3475027,Undirected,1,Geboorteplaats
+Q113627806,Q3475027,Undirected,1,Sterfteplaats
+Q113627806,Q3057456,Undirected,1,Werklocatie
+Q113627806,Q79848,Undirected,1,Werklocatie
+Q571426,Q79980,Undirected,1,Werklocatie
+Q571426,Q43631,Undirected,1,Werklocatie
+Q571426,Q1309,Undirected,1,Werklocatie
+Q571426,Q3504647,Undirected,1,Geboorteplaats
+Q571426,Q803,Undirected,1,Sterfteplaats
+Q115815004,Q12994,Undirected,1,Werklocatie
+Q115815004,Q1260195,Undirected,1,Werklocatie
+Q115815004,Q102728,Undirected,1,Geboorteplaats
+Q115815004,Q12995,Undirected,1,Sterfteplaats
+Q115815004,Q12996,Undirected,1,Werklocatie
+Q115815004,Q651811,Undirected,1,Werklocatie
+Q114081509,Q735797,Undirected,1,Geboorteplaats
+Q114081509,Q735797,Undirected,1,Werklocatie
+Q114081509,Q735797,Undirected,1,Sterfteplaats
+Q11029222,Q12994,Undirected,1,Sterfteplaats
+Q11029222,Q12994,Undirected,1,Geboorteplaats
+Q11029222,Q12994,Undirected,1,Werklocatie
+Q115840228,Q12995,Undirected,1,Sterfteplaats
+Q115840228,Q12995,Undirected,1,Werklocatie
+Q115840228,Q211037,Undirected,1,Werklocatie
+Q115840228,Q244934,Undirected,1,Geboorteplaats
+Q94896539,Q1809061,Undirected,1,Werklocatie
+Q94896539,Q81220,Undirected,1,Werklocatie
+Q94896539,Q81220,Undirected,1,Sterfteplaats
+Q94896539,Q2798071,Undirected,1,Werklocatie
+Q94896539,Q2616736,Undirected,1,Werklocatie
+Q94896539,Q2616736,Undirected,1,Geboorteplaats
+Q94896539,Q2856296,Undirected,1,Werklocatie
+Q94896539,Q2065987,Undirected,1,Werklocatie
+Q94896539,Q1367576,Undirected,1,Werklocatie
+Q3431564,Q12892,Undirected,1,Werklocatie
+Q3431564,Q834850,Undirected,1,Sterfteplaats
+Q3431564,Q239,Undirected,1,Werklocatie
+Q3431564,Q688790,Undirected,1,Geboorteplaats
+Q115840173,Q864668,Undirected,1,Werklocatie
+Q115840173,Q29520,Undirected,1,Werklocatie
+Q115840173,Q1296,Undirected,1,Werklocatie
+Q115840173,Q1296,Undirected,1,Sterfteplaats
+Q115840173,Q392337,Undirected,1,Geboorteplaats
+Q115840173,Q711,Undirected,1,Werklocatie
+Q115840173,Q20,Undirected,1,Werklocatie
+Q115840173,Q1012502,Undirected,1,Werklocatie
+Q115840173,Q258,Undirected,1,Werklocatie
+Q115839965,Q2603716,Undirected,1,Sterfteplaats
+Q115839965,Q3049134,Undirected,1,Werklocatie
+Q115839965,Q2261514,Undirected,1,Werklocatie
+Q115839965,Q392337,Undirected,1,Werklocatie
+Q115839965,Q1939288,Undirected,1,Werklocatie
+Q115839965,Q2491546,Undirected,1,Geboorteplaats
+Q115839965,Q2505670,Undirected,1,Werklocatie
+Q115839965,Q2137484,Undirected,1,Werklocatie
+Q115839965,Q1411366,Undirected,1,Werklocatie
+Q123416074,Q632471,Undirected,1,Werklocatie
+Q123416074,Q577334,Undirected,1,Sterfteplaats
+Q123416074,Q12439,Undirected,1,Werklocatie
+Q123416074,Q1012352,Undirected,1,Geboorteplaats
+Q123416074,Q233129,Undirected,1,Werklocatie
+Q110039252,Q12994,Undirected,1,Werklocatie
+Q110039252,Q213224,Undirected,1,Werklocatie
+Q110039252,Q213224,Undirected,1,Sterfteplaats
+Q110039252,Q220145,Undirected,1,Geboorteplaats
+Q110039252,Q211037,Undirected,1,Werklocatie
+Q123717111,Q12994,Undirected,1,Sterfteplaats
+Q123717111,Q651724,Undirected,1,Geboorteplaats
+Q115834868,Q614274,Undirected,1,Werklocatie
+Q115834868,Q12996,Undirected,1,Werklocatie
+Q115834868,Q1833538,Undirected,1,Geboorteplaats
+Q115834868,Q2006454,Undirected,1,Werklocatie
+Q115834868,Q2006454,Undirected,1,Sterfteplaats
+Q3346571,Q12995,Undirected,1,Werklocatie
+Q3032807,Q12994,Undirected,1,Werklocatie
+Q3032807,Q12994,Undirected,1,Sterfteplaats
+Q3032807,Q1704244,Undirected,1,Geboorteplaats
+Q125559890,Q2412352,Undirected,1,Geboorteplaats
+Q125559890,Q1296,Undirected,1,Sterfteplaats
+Q125559890,Q1296,Undirected,1,Werklocatie
+Q125559890,Q499532,Undirected,1,Werklocatie
+Q125559890,Q12993,Undirected,1,Werklocatie
+Q125559890,Q63923,Undirected,1,Werklocatie
+Q125559890,Q822651,Undirected,1,Werklocatie
+Q125559890,Q14062,Undirected,1,Werklocatie
+Q115827696,Q1296,Undirected,1,Sterfteplaats
+Q115827696,Q1296,Undirected,1,Werklocatie
+Q115827696,Q109042,Undirected,1,Werklocatie
+Q115827696,Q2227700,Undirected,1,Geboorteplaats
+Q115979994,Q2708072,Undirected,1,Werklocatie
+Q115979994,Q12994,Undirected,1,Werklocatie
+Q115979994,Q3040923,Undirected,1,Werklocatie
+Q115979994,Q3040923,Undirected,1,Sterfteplaats
+Q115979994,Q3110823,Undirected,1,Werklocatie
+Q115979994,Q499588,Undirected,1,Geboorteplaats
+Q115979994,Q2658385,Undirected,1,Werklocatie
+Q115979994,Q204547,Undirected,1,Werklocatie
+Q125246358,Q735797,Undirected,1,Geboorteplaats
+Q125246358,Q735797,Undirected,1,Sterfteplaats
+Q120199426,Q1622949,Undirected,1,Werklocatie
+Q120199426,Q239,Undirected,1,Werklocatie
+Q120199426,Q1348,Undirected,1,Werklocatie
+Q120199426,Q1260195,Undirected,1,Werklocatie
+Q120199426,Q1296,Undirected,1,Werklocatie
+Q120199426,Q24826,Undirected,1,Werklocatie
+Q120199426,Q84,Undirected,1,Sterfteplaats
+Q120199426,Q18125,Undirected,1,Geboorteplaats
+Q120199426,Q184090,Undirected,1,Werklocatie
+Q120199426,Q3057456,Undirected,1,Werklocatie
+Q120199426,Q7619622,Undirected,1,Werklocatie
+Q842744,Q31,Undirected,1,In Land
+Q9681,Q145,Undirected,1,In Land
+Q3110823,Q31,Undirected,1,In Land
+Q1966966,Q31,Undirected,1,In Land
+Q9845,Q55,Undirected,1,In Land
+Q124394,Q145,Undirected,1,In Land
+Q123947,Q145,Undirected,1,In Land
+Q1978131,Q12892,Undirected,1,Sterfteplaats
+Q1978131,Q1939661,Undirected,1,Geboorteplaats
+Q9934,Q55,Undirected,1,In Land
+Q28973684,Q239,Undirected,1,Werklocatie
+Q28973684,Q3181967,Undirected,1,Geboorteplaats
+Q28973684,Q72946,Undirected,1,Sterfteplaats
+Q267663,Q31,Undirected,1,In Land
+Q207095,Q31,Undirected,1,In Land
+Q641278,Q31,Undirected,1,In Land
+Q2004020,Q31,Undirected,1,In Land
+Q115982426,Q1296,Undirected,1,Sterfteplaats
+Q115982426,Q1296,Undirected,1,Werklocatie
+Q115982426,Q2802143,Undirected,1,Werklocatie
+Q115982426,Q268219,Undirected,1,Werklocatie
+Q115982426,Q3475052,Undirected,1,Geboorteplaats
+Q115821479,Q12994,Undirected,1,Werklocatie
+Q115821479,Q1704244,Undirected,1,Werklocatie
+Q115821479,Q2610272,Undirected,1,Sterfteplaats
+Q115821479,Q2610272,Undirected,1,Werklocatie
+Q115821479,Q318532,Undirected,1,Geboorteplaats
+Q696907,Q31,Undirected,1,In Land
+Q724638,Q31,Undirected,1,In Land
+Q118732552,Q2603716,Undirected,1,Geboorteplaats
+Q118732552,Q12995,Undirected,1,Sterfteplaats
+Q117244596,Q12994,Undirected,1,Geboorteplaats
+Q117244596,Q12994,Undirected,1,Woonplaats
+Q117244596,Q2340735,Undirected,1,Sterfteplaats
+Q1840847,Q31,Undirected,1,In Land
+Q696942,Q31,Undirected,1,In Land
+Q981444,Q12994,Undirected,1,Werklocatie
+Q981444,Q822771,Undirected,1,Geboorteplaats
+Q981444,Q3110823,Undirected,1,Werklocatie
+Q981444,Q102728,Undirected,1,Werklocatie
+Q981444,Q1012352,Undirected,1,Werklocatie
+Q981444,Q1012352,Undirected,1,Sterfteplaats
+Q981444,Q211037,Undirected,1,Werklocatie
+Q981444,Q3110836,Undirected,1,Werklocatie
+Q3051137,Q145,Undirected,1,In Land
+Q1990660,Q31,Undirected,1,In Land
+Q117264774,Q12994,Undirected,1,Sterfteplaats
+Q117264774,Q12994,Undirected,1,Woonplaats
+Q117264774,Q1296,Undirected,1,Woonplaats
+Q117264774,Q3198907,Undirected,1,Woonplaats
+Q117264774,Q13127,Undirected,1,Geboorteplaats
+Q189,Q189,Undirected,1,In Land
+Q5983066,Q9899,Undirected,1,Geboorteplaats
+Q5983066,Q118958,Undirected,1,Sterfteplaats
+Q5983066,Q118958,Undirected,1,Werklocatie
+Q281181,Q31,Undirected,1,In Land
+Q102728,Q31,Undirected,1,In Land
+Q55672664,Q332310,Undirected,1,Geboorteplaats
+Q55672664,Q332310,Undirected,1,Sterfteplaats
+Q822748,Q31,Undirected,1,In Land
+Q1012352,Q31,Undirected,1,In Land
+Q129069726,Q724283,Undirected,1,Geboorteplaats
+Q129069726,Q12995,Undirected,1,Sterfteplaats
+Q129069726,Q12995,Undirected,1,Werklocatie
+Q115818849,Q270644,Undirected,1,Geboorteplaats
+Q115818849,Q12994,Undirected,1,Werklocatie
+Q115818849,Q118958,Undirected,1,Sterfteplaats
+Q115818849,Q118958,Undirected,1,Werklocatie
+Q2627945,Q239,Undirected,1,Werklocatie
+Q2627945,Q688377,Undirected,1,Werklocatie
+Q2627945,Q1287283,Undirected,1,Werklocatie
+Q2627945,Q272243,Undirected,1,Werklocatie
+Q2627945,Q72946,Undirected,1,Sterfteplaats
+Q2627945,Q3474073,Undirected,1,Geboorteplaats
+Q115827506,Q202309,Undirected,1,Werklocatie
+Q115827506,Q499532,Undirected,1,Werklocatie
+Q115827506,Q597997,Undirected,1,Werklocatie
+Q115827506,Q1849098,Undirected,1,Werklocatie
+Q115827506,Q1849098,Undirected,1,Sterfteplaats
+Q115827506,Q187755,Undirected,1,Werklocatie
+Q115827506,Q587906,Undirected,1,Geboorteplaats
+Q115980044,Q12892,Undirected,1,Werklocatie
+Q115980044,Q208713,Undirected,1,Werklocatie
+Q115980044,Q688781,Undirected,1,Sterfteplaats
+Q115980044,Q688781,Undirected,1,Werklocatie
+Q115980044,Q930292,Undirected,1,Geboorteplaats
+Q115980044,Q203312,Undirected,1,Werklocatie
+Q115982548,Q2750562,Undirected,1,Sterfteplaats
+Q115982548,Q2750562,Undirected,1,Werklocatie
+Q115982548,Q12994,Undirected,1,Werklocatie
+Q115982548,Q2741641,Undirected,1,Werklocatie
+Q115982548,Q102728,Undirected,1,Werklocatie
+Q115982548,Q651724,Undirected,1,Werklocatie
+Q115982548,Q211037,Undirected,1,Geboorteplaats
+Q115982548,Q2490578,Undirected,1,Werklocatie
+Q115982548,Q1901132,Undirected,1,Werklocatie
+Q125163,Q145,Undirected,1,In Land
+Q38,Q38,Undirected,1,In Land
+Q392337,Q31,Undirected,1,In Land
+Q20604626,Q2551514,Undirected,1,Sterfteplaats
+Q20604626,Q25390,Undirected,1,Geboorteplaats
+Q110039260,Q2371714,Undirected,1,Werklocatie
+Q110039260,Q943502,Undirected,1,Werklocatie
+Q110039260,Q943502,Undirected,1,Sterfteplaats
+Q110039260,Q736120,Undirected,1,Werklocatie
+Q110039260,Q2794293,Undirected,1,Werklocatie
+Q110039260,Q194037,Undirected,1,Werklocatie
+Q110039260,Q133769,Undirected,1,Geboorteplaats
+Q961180,Q727,Undirected,1,Geboorteplaats
+Q961180,Q43631,Undirected,1,Sterfteplaats
+Q43129301,Q9934,Undirected,1,Geboorteplaats
+Q115839946,Q1978079,Undirected,1,Werklocatie
+Q115839946,Q3110823,Undirected,1,Sterfteplaats
+Q115839946,Q3110823,Undirected,1,Geboorteplaats
+Q115839946,Q2181673,Undirected,1,Werklocatie
+Q115839946,Q780561,Undirected,1,Werklocatie
+Q115839946,Q211037,Undirected,1,Werklocatie
+Q115839946,Q2041336,Undirected,1,Werklocatie
+Q45029767,Q273442,Undirected,1,Werklocatie
+Q45029767,Q162022,Undirected,1,Werklocatie
+Q45029767,Q162022,Undirected,1,Sterfteplaats
+Q45029767,Q4613418,Undirected,1,Geboorteplaats
+Q2424814,Q12892,Undirected,1,Werklocatie
+Q2424814,Q118958,Undirected,1,Sterfteplaats
+Q2424814,Q118958,Undirected,1,Werklocatie
+Q2424814,Q12460,Undirected,1,Geboorteplaats
+Q2424814,Q162022,Undirected,1,Werklocatie
+Q1920135,Q273442,Undirected,1,Werklocatie
+Q1920135,Q273442,Undirected,1,Sterfteplaats
+Q1920135,Q661993,Undirected,1,Werklocatie
+Q1920135,Q162022,Undirected,1,Werklocatie
+Q1920135,Q1354834,Undirected,1,Geboorteplaats
+Q37766220,Q13122,Undirected,1,Sterfteplaats
+Q37766220,Q643980,Undirected,1,Geboorteplaats
+Q37766220,Q643980,Undirected,1,Werklocatie
+Q110039159,Q12994,Undirected,1,Werklocatie
+Q110039159,Q822777,Undirected,1,Geboorteplaats
+Q110039159,Q430812,Undirected,1,Sterfteplaats
+Q120176244,Q7650196,Undirected,1,Woonplaats
+Q120176244,Q180356,Undirected,1,Woonplaats
+Q120176244,Q4093,Undirected,1,Woonplaats
+Q120176244,Q4093,Undirected,1,Sterfteplaats
+Q120176244,Q2974907,Undirected,1,Geboorteplaats
+Q120176244,Q2974907,Undirected,1,Woonplaats
+Q120176244,Q123947,Undirected,1,Woonplaats
+Q136805839,Q273442,Undirected,1,Werklocatie
+Q136805839,Q273442,Undirected,1,Sterfteplaats
+Q136805839,Q984868,Undirected,1,Werklocatie
+Q136805839,Q984868,Undirected,1,Geboorteplaats
+Q136805839,Q3195527,Undirected,1,Werklocatie
+Q136805839,Q2436688,Undirected,1,Werklocatie
+Q136805839,Q456550,Undirected,1,Werklocatie
+Q2266893,Q239,Undirected,1,Werklocatie
+Q2266893,Q12887,Undirected,1,Sterfteplaats
+Q2266893,Q12887,Undirected,1,Werklocatie
+Q2266893,Q21764799,Undirected,1,Geboorteplaats
+Q2266893,Q272243,Undirected,1,Werklocatie
+Q120493880,Q908546,Undirected,1,Sterfteplaats
+Q120493880,Q908546,Undirected,1,Geboorteplaats
+Q120493880,Q908546,Undirected,1,Werklocatie
+Q120727152,Q628733,Undirected,1,Werklocatie
+Q120727152,Q651811,Undirected,1,Geboorteplaats
+Q120727152,Q651811,Undirected,1,Sterfteplaats
+Q120727152,Q651811,Undirected,1,Werklocatie
+Q329468,Q34370,Undirected,1,Geboorteplaats
+Q329468,Q318418,Undirected,1,Sterfteplaats
+Q975292,Q12892,Undirected,1,Sterfteplaats
+Q975292,Q12892,Undirected,1,Werklocatie
+Q975292,Q12892,Undirected,1,Geboorteplaats
+Q975292,Q12460,Undirected,1,Werklocatie
+Q975292,Q162022,Undirected,1,Werklocatie
+Q23895006,Q727,Undirected,1,Werklocatie
+Q23895006,Q1987052,Undirected,1,Werklocatie
+Q23895006,Q1309,Undirected,1,Sterfteplaats
+Q23895006,Q100037,Undirected,1,Geboorteplaats
+Q23895006,Q9783,Undirected,1,Werklocatie
+Q119011751,Q12994,Undirected,1,Sterfteplaats
+Q119011751,Q12995,Undirected,1,Geboorteplaats
+Q3171149,Q1296,Undirected,1,Sterfteplaats
+Q3171149,Q1296,Undirected,1,Geboorteplaats
+Q3171149,Q111434472,Undirected,1,Woonplaats
+Q3171149,Q1015356,Undirected,1,Woonplaats
+Q7190386,Q83407,Undirected,1,Geboorteplaats
+Q7190386,Q12994,Undirected,1,Sterfteplaats
+Q7190386,Q12994,Undirected,1,Werklocatie
+Q7190386,Q173219,Undirected,1,Werklocatie
+Q7190386,Q2475316,Undirected,1,Werklocatie
+Q113731929,Q12994,Undirected,1,Werklocatie
+Q113731929,Q12994,Undirected,1,Sterfteplaats
+Q113731929,Q1952054,Undirected,1,Geboorteplaats
+Q113731929,Q211037,Undirected,1,Werklocatie
+Q2163210,Q12995,Undirected,1,Geboorteplaats
+Q2163210,Q1023248,Undirected,1,Sterfteplaats
+Q2163210,Q1023248,Undirected,1,Woonplaats
+Q3163681,Q12994,Undirected,1,Werklocatie
+Q3163681,Q12994,Undirected,1,Sterfteplaats
+Q3163681,Q213224,Undirected,1,Werklocatie
+Q3163681,Q220,Undirected,1,Werklocatie
+Q3163681,Q1704244,Undirected,1,Geboorteplaats
+Q354052,Q12994,Undirected,1,Werklocatie
+Q354052,Q12994,Undirected,1,Woonplaats
+Q354052,Q1296,Undirected,1,Woonplaats
+Q354052,Q12995,Undirected,1,Geboorteplaats
+Q354052,Q3099657,Undirected,1,Woonplaats
+Q354052,Q3099657,Undirected,1,Sterfteplaats
+Q3164253,Q12994,Undirected,1,Sterfteplaats
+Q3164253,Q102728,Undirected,1,Geboorteplaats
+Q2672741,Q12994,Undirected,1,Geboorteplaats
+Q2672741,Q1296,Undirected,1,Werklocatie
+Q2672741,Q1849663,Undirected,1,Sterfteplaats
+Q122854006,Q2049606,Undirected,1,Sterfteplaats
+Q122854006,Q822777,Undirected,1,Geboorteplaats
+Q125257816,Q392337,Undirected,1,Sterfteplaats
+Q125257816,Q12995,Undirected,1,Geboorteplaats
+Q2551514,Q55,Undirected,1,In Land
+Q116508494,Q4869146,Undirected,1,Woonplaats
+Q116508494,Q1013528,Undirected,1,Geboorteplaats
+Q116508494,Q12994,Undirected,1,Woonplaats
+Q116508494,Q2376216,Undirected,1,Woonplaats
+Q116508494,Q1026699,Undirected,1,Sterfteplaats
+Q116508494,Q134121,Undirected,1,Woonplaats
+Q2181847,Q12994,Undirected,1,Woonplaats
+Q2181847,Q2791245,Undirected,1,Geboorteplaats
+Q2181847,Q2676933,Undirected,1,Sterfteplaats
+Q115838569,Q822795,Undirected,1,Geboorteplaats
+Q115838569,Q220145,Undirected,1,Werklocatie
+Q115838569,Q499588,Undirected,1,Werklocatie
+Q115838569,Q2566545,Undirected,1,Werklocatie
+Q115838569,Q651811,Undirected,1,Sterfteplaats
+Q115838569,Q651811,Undirected,1,Werklocatie
+Q118495679,Q727,Undirected,1,Sterfteplaats
+Q118495679,Q727,Undirected,1,Werklocatie
+Q118495679,Q727,Undirected,1,Geboorteplaats
+Q115980136,Q239,Undirected,1,Sterfteplaats
+Q115980136,Q239,Undirected,1,Werklocatie
+Q115980136,Q2741641,Undirected,1,Werklocatie
+Q115980136,Q822748,Undirected,1,Geboorteplaats
+Q115980136,Q340,Undirected,1,Werklocatie
+Q115980136,Q12996,Undirected,1,Werklocatie
+Q115980136,Q211037,Undirected,1,Werklocatie
+Q115980136,Q37792,Undirected,1,Werklocatie
+Q123689724,Q12997,Undirected,1,Geboorteplaats
+Q123689724,Q118958,Undirected,1,Werklocatie
+Q123689724,Q12460,Undirected,1,Sterfteplaats
+Q123689724,Q1166,Undirected,1,Werklocatie
+Q123689724,Q2442951,Undirected,1,Werklocatie
+Q123689724,Q268219,Undirected,1,Werklocatie
+Q123689724,Q911983,Undirected,1,Werklocatie
+Q115834873,Q723972,Undirected,1,Geboorteplaats
+Q115834873,Q533936,Undirected,1,Werklocatie
+Q115834873,Q208713,Undirected,1,Werklocatie
+Q115834873,Q134121,Undirected,1,Werklocatie
+Q115834873,Q599127,Undirected,1,Werklocatie
+Q115834873,Q599127,Undirected,1,Sterfteplaats
+Q115839975,Q2346906,Undirected,1,Werklocatie
+Q115839975,Q12994,Undirected,1,Werklocatie
+Q115839975,Q1840847,Undirected,1,Sterfteplaats
+Q115839975,Q1840847,Undirected,1,Werklocatie
+Q115839975,Q735842,Undirected,1,Geboorteplaats
+Q115839975,Q499588,Undirected,1,Werklocatie
+Q3067739,Q1492,Undirected,1,Geboorteplaats
+Q3067739,Q1492,Undirected,1,Sterfteplaats
+Q3531475,Q12994,Undirected,1,Geboorteplaats
+Q3531475,Q211037,Undirected,1,Sterfteplaats
+Q3166510,Q12994,Undirected,1,Werklocatie
+Q3166510,Q12994,Undirected,1,Sterfteplaats
+Q3166510,Q1827485,Undirected,1,Geboorteplaats
+Q3166510,Q211037,Undirected,1,Werklocatie
+Q2491266,Q9920,Undirected,1,Werklocatie
+Q2491266,Q9920,Undirected,1,Sterfteplaats
+Q2491266,Q25390,Undirected,1,Geboorteplaats
+Q2491266,Q25390,Undirected,1,Werklocatie
+Q21549953,Q708708,Undirected,1,Geboorteplaats
+Q21549953,Q586,Undirected,1,Werklocatie
+Q21549953,Q586,Undirected,1,Sterfteplaats
+Q21549953,Q43631,Undirected,1,Werklocatie
+Q120733873,Q651811,Undirected,1,Sterfteplaats
+Q120733873,Q116202,Undirected,1,Geboorteplaats
+Q119007176,Q2926028,Undirected,1,Geboorteplaats
+Q119007176,Q84,Undirected,1,Sterfteplaats
+Q119007176,Q123634,Undirected,1,Woonplaats
+Q76019711,Q23154,Undirected,1,Werklocatie
+Q76019711,Q12994,Undirected,1,Woonplaats
+Q76019711,Q187402,Undirected,1,Geboorteplaats
+Q76019711,Q1981740,Undirected,1,Sterfteplaats
+Q76019711,Q84,Undirected,1,Woonplaats
+Q2863278,Q31,Undirected,1,In Land
+Q1978794,Q727,Undirected,1,Werklocatie
+Q1978794,Q727,Undirected,1,Sterfteplaats
+Q1978794,Q727,Undirected,1,Geboorteplaats
+Q115820195,Q12994,Undirected,1,Geboorteplaats
+Q115820195,Q12994,Undirected,1,Woonplaats
+Q115820195,Q1260195,Undirected,1,Woonplaats
+Q115820195,Q1296,Undirected,1,Woonplaats
+Q115820195,Q1296,Undirected,1,Sterfteplaats
+Q119701807,Q23154,Undirected,1,Geboorteplaats
+Q119701807,Q12994,Undirected,1,Werklocatie
+Q119701807,Q211037,Undirected,1,Sterfteplaats
+Q119701807,Q211037,Undirected,1,Werklocatie
+Q115806424,Q3110823,Undirected,1,Geboorteplaats
+Q115806424,Q102728,Undirected,1,Sterfteplaats
+Q115831509,Q12994,Undirected,1,Geboorteplaats
+Q115831509,Q1937157,Undirected,1,Werklocatie
+Q115831509,Q696887,Undirected,1,Werklocatie
+Q115831509,Q255575,Undirected,1,Werklocatie
+Q115831509,Q5273898,Undirected,1,Werklocatie
+Q115831509,Q3472086,Undirected,1,Werklocatie
+Q115831509,Q3472086,Undirected,1,Sterfteplaats
+Q115831509,Q2337062,Undirected,1,Werklocatie
+Q61506427,Q12994,Undirected,1,Werklocatie
+Q61506427,Q12994,Undirected,1,Geboorteplaats
+Q61506427,Q9005,Undirected,1,Sterfteplaats
+Q121002664,Q793584,Undirected,1,Sterfteplaats
+Q121002664,Q793584,Undirected,1,Werklocatie
+Q121002664,Q13122,Undirected,1,Werklocatie
+Q121002664,Q985789,Undirected,1,Geboorteplaats
+Q121002664,Q2106759,Undirected,1,Werklocatie
+Q121002664,Q1809460,Undirected,1,Werklocatie
+Q119041487,Q12994,Undirected,1,Geboorteplaats
+Q1707941,Q12994,Undirected,1,Geboorteplaats
+Q1707941,Q12994,Undirected,1,Werklocatie
+Q1707941,Q12994,Undirected,1,Sterfteplaats
+Q115811334,Q12994,Undirected,1,Werklocatie
+Q115811334,Q213224,Undirected,1,Werklocatie
+Q115811334,Q220145,Undirected,1,Werklocatie
+Q115811334,Q12996,Undirected,1,Werklocatie
+Q115811334,Q2491546,Undirected,1,Werklocatie
+Q115811334,Q651811,Undirected,1,Geboorteplaats
+Q115811334,Q2231539,Undirected,1,Sterfteplaats
+Q119013626,Q12994,Undirected,1,Geboorteplaats
+Q3185717,Q239,Undirected,1,Sterfteplaats
+Q3185717,Q1296,Undirected,1,Geboorteplaats
+Q2306925,Q13121,Undirected,1,Werklocatie
+Q2306925,Q12994,Undirected,1,Werklocatie
+Q2306925,Q12994,Undirected,1,Sterfteplaats
+Q2306925,Q52101,Undirected,1,Werklocatie
+Q2306925,Q2928815,Undirected,1,Geboorteplaats
+Q115809938,Q2603716,Undirected,1,Geboorteplaats
+Q115809938,Q12994,Undirected,1,Werklocatie
+Q115809938,Q3110823,Undirected,1,Werklocatie
+Q115809938,Q102728,Undirected,1,Werklocatie
+Q115809938,Q102728,Undirected,1,Sterfteplaats
+Q115809938,Q2174414,Undirected,1,Werklocatie
+Q55770641,Q12994,Undirected,1,Geboorteplaats
+Q55770641,Q377429,Undirected,1,Sterfteplaats
+Q115818649,Q2741141,Undirected,1,Werklocatie
+Q115818649,Q13122,Undirected,1,Werklocatie
+Q115818649,Q13122,Undirected,1,Sterfteplaats
+Q115818649,Q1296,Undirected,1,Werklocatie
+Q115818649,Q499532,Undirected,1,Werklocatie
+Q115818649,Q3196450,Undirected,1,Werklocatie
+Q115818649,Q730801,Undirected,1,Geboorteplaats
+Q115836535,Q12994,Undirected,1,Werklocatie
+Q115836535,Q3838,Undirected,1,Sterfteplaats
+Q115836535,Q76048,Undirected,1,Werklocatie
+Q115836535,Q12995,Undirected,1,Werklocatie
+Q115836535,Q12995,Undirected,1,Geboorteplaats
+Q120999228,Q12994,Undirected,1,Sterfteplaats
+Q120999228,Q12994,Undirected,1,Werklocatie
+Q120999228,Q12994,Undirected,1,Woonplaats
+Q120999228,Q688790,Undirected,1,Woonplaats
+Q120999228,Q688790,Undirected,1,Geboorteplaats
+Q122872579,Q1296,Undirected,1,Sterfteplaats
+Q122872579,Q1618770,Undirected,1,Geboorteplaats
+Q120552708,Q211037,Undirected,1,Geboorteplaats
+Q120552708,Q211037,Undirected,1,Werklocatie
+Q120552708,Q643980,Undirected,1,Sterfteplaats
+Q115813874,Q177133,Undirected,1,Geboorteplaats
+Q115813874,Q211037,Undirected,1,Werklocatie
+Q115813874,Q3181971,Undirected,1,Werklocatie
+Q115813874,Q3181971,Undirected,1,Sterfteplaats
+Q125491053,Q1978079,Undirected,1,Geboorteplaats
+Q125491053,Q392343,Undirected,1,Sterfteplaats
+Q115806479,Q12995,Undirected,1,Werklocatie
+Q115806479,Q651724,Undirected,1,Geboorteplaats
+Q115806479,Q499588,Undirected,1,Sterfteplaats
+Q115806479,Q499588,Undirected,1,Werklocatie
+Q115806479,Q2963326,Undirected,1,Werklocatie
+Q115806479,Q244513,Undirected,1,Werklocatie
+Q2677198,Q12994,Undirected,1,Sterfteplaats
+Q2677198,Q12994,Undirected,1,Werklocatie
+Q2677198,Q239,Undirected,1,Werklocatie
+Q2677198,Q2044,Undirected,1,Werklocatie
+Q2677198,Q38,Undirected,1,Werklocatie
+Q2677198,Q211037,Undirected,1,Geboorteplaats
+Q2677198,Q220,Undirected,1,Werklocatie
+Q17428533,Q1296,Undirected,1,Werklocatie
+Q17428533,Q1296,Undirected,1,Sterfteplaats
+Q17428533,Q1296,Undirected,1,Geboorteplaats
+Q115832532,Q12994,Undirected,1,Geboorteplaats
+Q115832532,Q118958,Undirected,1,Sterfteplaats
+Q120829902,Q2741641,Undirected,1,Werklocatie
+Q120829902,Q3110823,Undirected,1,Werklocatie
+Q120829902,Q2535447,Undirected,1,Werklocatie
+Q120829902,Q213224,Undirected,1,Werklocatie
+Q120829902,Q1952054,Undirected,1,Geboorteplaats
+Q120829902,Q1952054,Undirected,1,Sterfteplaats
+Q721772,Q12886,Undirected,1,Sterfteplaats
+Q721772,Q12995,Undirected,1,Geboorteplaats
+Q115846413,Q12994,Undirected,1,Sterfteplaats
+Q115846413,Q12994,Undirected,1,Werklocatie
+Q115846413,Q995533,Undirected,1,Werklocatie
+Q115846413,Q628733,Undirected,1,Geboorteplaats
+Q115846413,Q3110841,Undirected,1,Werklocatie
+Q101627274,Q705020,Undirected,1,Werklocatie
+Q101627274,Q705020,Undirected,1,Sterfteplaats
+Q101627274,Q651724,Undirected,1,Werklocatie
+Q101627274,Q2354846,Undirected,1,Werklocatie
+Q101627274,Q651811,Undirected,1,Werklocatie
+Q101627274,Q270633,Undirected,1,Werklocatie
+Q101627274,Q339395,Undirected,1,Geboorteplaats
+Q115821474,Q815948,Undirected,1,Geboorteplaats
+Q115821474,Q392337,Undirected,1,Werklocatie
+Q115821474,Q12995,Undirected,1,Werklocatie
+Q115821474,Q12995,Undirected,1,Sterfteplaats
+Q115821474,Q220145,Undirected,1,Werklocatie
+Q115821474,Q2524088,Undirected,1,Werklocatie
+Q115821474,Q651811,Undirected,1,Werklocatie
+Q125341815,Q12995,Undirected,1,Sterfteplaats
+Q125341815,Q1023248,Undirected,1,Geboorteplaats
+Q126734623,Q735797,Undirected,1,Sterfteplaats
+Q126734623,Q735797,Undirected,1,Geboorteplaats
+Q119797432,Q1861723,Undirected,1,Sterfteplaats
+Q119797432,Q1861723,Undirected,1,Werklocatie
+Q119797432,Q1861723,Undirected,1,Geboorteplaats
+Q125359350,Q12994,Undirected,1,Sterfteplaats
+Q125359350,Q2227700,Undirected,1,Geboorteplaats
+Q125353522,Q204547,Undirected,1,Sterfteplaats
+Q125353522,Q204547,Undirected,1,Geboorteplaats
+Q120729903,Q2656389,Undirected,1,Werklocatie
+Q120729903,Q12996,Undirected,1,Geboorteplaats
+Q120729903,Q2404540,Undirected,1,Sterfteplaats
+Q120729903,Q2404540,Undirected,1,Werklocatie
+Q116620937,Q12995,Undirected,1,Sterfteplaats
+Q116620937,Q12995,Undirected,1,Werklocatie
+Q116620937,Q12995,Undirected,1,Woonplaats
+Q116620937,Q12995,Undirected,1,Geboorteplaats
+Q115841074,Q12892,Undirected,1,Geboorteplaats
+Q115841074,Q208713,Undirected,1,Werklocatie
+Q115841074,Q724448,Undirected,1,Werklocatie
+Q115841074,Q2189234,Undirected,1,Sterfteplaats
+Q115841074,Q2189234,Undirected,1,Werklocatie
+Q120489194,Q1991101,Undirected,1,Werklocatie
+Q120489194,Q1384,Undirected,1,Sterfteplaats
+Q120489194,Q13127,Undirected,1,Werklocatie
+Q120489194,Q600301,Undirected,1,Werklocatie
+Q120489194,Q580227,Undirected,1,Werklocatie
+Q120489194,Q204547,Undirected,1,Geboorteplaats
+Q120489194,Q1380709,Undirected,1,Werklocatie
+Q55420570,Q12994,Undirected,1,Werklocatie
+Q55420570,Q2220639,Undirected,1,Geboorteplaats
+Q55420570,Q742876,Undirected,1,Werklocatie
+Q55420570,Q506707,Undirected,1,Sterfteplaats
+Q55420570,Q3110832,Undirected,1,Werklocatie
+Q55232762,Q13122,Undirected,1,Werklocatie
+Q55232762,Q1296,Undirected,1,Werklocatie
+Q55232762,Q1296,Undirected,1,Geboorteplaats
+Q55232762,Q1296,Undirected,1,Sterfteplaats
+Q55232762,Q3992,Undirected,1,Werklocatie
+Q55232762,Q911983,Undirected,1,Werklocatie
+Q123741345,Q822771,Undirected,1,Geboorteplaats
+Q123741345,Q12995,Undirected,1,Sterfteplaats
+Q116508893,Q12997,Undirected,1,Geboorteplaats
+Q116508893,Q3475027,Undirected,1,Sterfteplaats
+Q116508893,Q3475027,Undirected,1,Woonplaats
+Q2333747,Q31,Undirected,1,In Land
+Q492453,Q31,Undirected,1,In Land
+Q203197,Q854,Undirected,1,In Land
+Q111342238,Q12994,Undirected,1,Sterfteplaats
+Q111342238,Q12994,Undirected,1,Woonplaats
+Q111342238,Q12994,Undirected,1,Geboorteplaats
+Q1950196,Q328104,Undirected,1,Werklocatie
+Q1950196,Q328104,Undirected,1,Sterfteplaats
+Q1950196,Q1840847,Undirected,1,Werklocatie
+Q1950196,Q822795,Undirected,1,Werklocatie
+Q1950196,Q12995,Undirected,1,Werklocatie
+Q1950196,Q211037,Undirected,1,Geboorteplaats
+Q1950196,Q270633,Undirected,1,Werklocatie
+Q115979996,Q328104,Undirected,1,Sterfteplaats
+Q115979996,Q328104,Undirected,1,Werklocatie
+Q115979996,Q215244,Undirected,1,Werklocatie
+Q115979996,Q822783,Undirected,1,Geboorteplaats
+Q115979996,Q12996,Undirected,1,Werklocatie
+Q115979996,Q3102205,Undirected,1,Werklocatie
+Q115979996,Q318532,Undirected,1,Werklocatie
+Q2617184,Q12994,Undirected,1,Geboorteplaats
+Q2617184,Q12994,Undirected,1,Sterfteplaats
+Q115831295,Q742906,Undirected,1,Werklocatie
+Q115831295,Q3110823,Undirected,1,Geboorteplaats
+Q115831295,Q12995,Undirected,1,Werklocatie
+Q115831295,Q1865404,Undirected,1,Werklocatie
+Q115831295,Q705028,Undirected,1,Werklocatie
+Q115831295,Q2354846,Undirected,1,Sterfteplaats
+Q115831295,Q2354846,Undirected,1,Werklocatie
+Q970833,Q2309565,Undirected,1,Sterfteplaats
+Q970833,Q912106,Undirected,1,Geboorteplaats
+Q970833,Q12887,Undirected,1,Sterfteplaats
+Q41885755,Q239,Undirected,1,Woonplaats
+Q41885755,Q165736,Undirected,1,Woonplaats
+Q41885755,Q165736,Undirected,1,Sterfteplaats
+Q41885755,Q1296,Undirected,1,Werklocatie
+Q41885755,Q31521097,Undirected,1,Geboorteplaats
+Q41885755,Q13127,Undirected,1,Woonplaats
+Q41885755,Q13127,Undirected,1,Werklocatie
+Q115819088,Q2751461,Undirected,1,Werklocatie
+Q115819088,Q1849663,Undirected,1,Werklocatie
+Q115819088,Q1024880,Undirected,1,Werklocatie
+Q115819088,Q3099657,Undirected,1,Werklocatie
+Q115819088,Q2326156,Undirected,1,Werklocatie
+Q115819088,Q780561,Undirected,1,Werklocatie
+Q115819088,Q1023248,Undirected,1,Werklocatie
+Q115819088,Q650376,Undirected,1,Werklocatie
+Q115819088,Q499588,Undirected,1,Werklocatie
+Q115819088,Q211037,Undirected,1,Sterfteplaats
+Q115819088,Q211037,Undirected,1,Geboorteplaats
+Q115819088,Q1833538,Undirected,1,Werklocatie
+Q115819088,Q2017210,Undirected,1,Werklocatie
+Q119041387,Q1963590,Undirected,1,Geboorteplaats
+Q119041387,Q267663,Undirected,1,Sterfteplaats
+Q119041387,Q267663,Undirected,1,Werklocatie
+Q119041387,Q102728,Undirected,1,Werklocatie
+Q111336261,Q12994,Undirected,1,Sterfteplaats
+Q111336261,Q31555423,Undirected,1,Geboorteplaats
+Q2542423,Q822795,Undirected,1,Werklocatie
+Q2542423,Q822795,Undirected,1,Sterfteplaats
+Q2542423,Q270633,Undirected,1,Geboorteplaats
+Q111434472,Q31,Undirected,1,In Land
+Q705020,Q31,Undirected,1,In Land
+Q123416923,Q12995,Undirected,1,Sterfteplaats
+Q123416923,Q12995,Undirected,1,Werklocatie
+Q123416923,Q2354846,Undirected,1,Geboorteplaats
+Q118289639,Q22889,Undirected,1,Sterfteplaats
+Q118289639,Q12994,Undirected,1,Woonplaats
+Q118289639,Q239,Undirected,1,Woonplaats
+Q118289639,Q207223,Undirected,1,Woonplaats
+Q118289639,Q1761,Undirected,1,Geboorteplaats
+Q118289639,Q202954,Undirected,1,Woonplaats
+Q123050974,Q851718,Undirected,1,Geboorteplaats
+Q123050974,Q851718,Undirected,1,Woonplaats
+Q123050974,Q1065474,Undirected,1,Woonplaats
+Q3181967,Q31,Undirected,1,In Land
+Q1024880,Q31,Undirected,1,In Land
+Q288781,Q145,Undirected,1,In Land
+Q1012349,Q31,Undirected,1,In Land
+Q3195527,Q31,Undirected,1,In Land
+Q951571,Q31,Undirected,1,In Land
+Q6403209,Q843,Undirected,1,In Land
+Q15238339,Q974,Undirected,1,In Land
+Q13123333,Q924,Undirected,1,In Land
+Q3196450,Q31,Undirected,1,In Land
+Q623382,Q27,Undirected,1,In Land
+Q32508,Q145,Undirected,1,In Land
+Q2321706,Q145,Undirected,1,In Land
+Q3838,Q974,Undirected,1,In Land
+Q498655,Q31,Undirected,1,In Land
+Q1937157,Q31,Undirected,1,In Land
+Q912069,Q31,Undirected,1,In Land
+Q822795,Q31,Undirected,1,In Land
+Q2463781,Q31,Undirected,1,In Land
+Q2731701,Q31,Undirected,1,In Land
+Q2746117,Q31,Undirected,1,In Land
+Q2181673,Q31,Undirected,1,In Land
+Q3198907,Q31,Undirected,1,In Land
+Q822763,Q31,Undirected,1,In Land
+Q12995,Q31,Undirected,1,In Land
+Q21767298,Q31,Undirected,1,In Land
+Q817375,Q31,Undirected,1,In Land
+Q731501,Q31,Undirected,1,In Land
+Q11739,Q843,Undirected,1,In Land
+Q202059,Q145,Undirected,1,In Land
+Q23077,Q145,Undirected,1,In Land
+Q943502,Q31,Undirected,1,In Land
+Q726498,Q31,Undirected,1,In Land
+Q62132,Q33,Undirected,1,In Land
+Q62132,Q20,Undirected,1,In Land
+Q62132,Q159,Undirected,1,In Land
+Q62132,Q34,Undirected,1,In Land
+Q119224999,Q41890,Undirected,1,Woonplaats
+Q119224999,Q23154,Undirected,1,Woonplaats
+Q119224999,Q12994,Undirected,1,Woonplaats
+Q119224999,Q215354,Undirected,1,Woonplaats
+Q115821481,Q12994,Undirected,1,Sterfteplaats
+Q115821481,Q12994,Undirected,1,Werklocatie
+Q115821481,Q392337,Undirected,1,Werklocatie
+Q115821481,Q220145,Undirected,1,Werklocatie
+Q115821481,Q2223904,Undirected,1,Werklocatie
+Q115821481,Q211037,Undirected,1,Geboorteplaats
+Q115821481,Q339395,Undirected,1,Werklocatie
+Q2127148,Q31,Undirected,1,In Land
+Q120472271,Q4940251,Undirected,1,Werklocatie
+Q120472271,Q3051137,Undirected,1,Werklocatie
+Q120472271,Q23077,Undirected,1,Werklocatie
+Q120472271,Q24826,Undirected,1,Geboorteplaats
+Q120472271,Q18125,Undirected,1,Sterfteplaats
+Q120472271,Q184090,Undirected,1,Werklocatie
+Q120472271,Q47952,Undirected,1,Werklocatie
+Q2802143,Q31,Undirected,1,In Land
+Q735842,Q31,Undirected,1,In Land
+Q25390,Q55,Undirected,1,In Land
+Q1827485,Q31,Undirected,1,In Land
+Q43631,Q55,Undirected,1,In Land
+Q2079,Q183,Undirected,1,In Land
+Q12993,Q31,Undirected,1,In Land
+Q696887,Q31,Undirected,1,In Land
+Q118555164,Q95096,Undirected,1,Werklocatie
+Q118555164,Q118958,Undirected,1,Werklocatie
+Q118555164,Q9783,Undirected,1,Geboorteplaats
+Q118555164,Q12887,Undirected,1,Werklocatie
+Q118555164,Q456495,Undirected,1,Werklocatie
+Q115836854,Q12994,Undirected,1,Werklocatie
+Q115836854,Q499588,Undirected,1,Werklocatie
+Q115836854,Q2352516,Undirected,1,Werklocatie
+Q115836854,Q2352516,Undirected,1,Sterfteplaats
+Q115836854,Q3012273,Undirected,1,Werklocatie
+Q115836854,Q3110851,Undirected,1,Geboorteplaats
+Q119040262,Q12994,Undirected,1,Sterfteplaats
+Q119040262,Q12994,Undirected,1,Werklocatie
+Q119040262,Q12994,Undirected,1,Geboorteplaats
+Q2779054,Q2636574,Undirected,1,Geboorteplaats
+Q2779054,Q12994,Undirected,1,Werklocatie
+Q2779054,Q2575787,Undirected,1,Werklocatie
+Q2779054,Q499588,Undirected,1,Werklocatie
+Q2779054,Q499588,Undirected,1,Sterfteplaats
+Q2779054,Q696982,Undirected,1,Werklocatie
+Q2779054,Q4555175,Undirected,1,Werklocatie
+Q115835156,Q614274,Undirected,1,Geboorteplaats
+Q115835156,Q177133,Undirected,1,Werklocatie
+Q115835156,Q2117660,Undirected,1,Werklocatie
+Q115835156,Q1963590,Undirected,1,Werklocatie
+Q115835156,Q822795,Undirected,1,Werklocatie
+Q115835156,Q696871,Undirected,1,Sterfteplaats
+Q115835156,Q211037,Undirected,1,Werklocatie
+Q110039170,Q1021461,Undirected,1,Werklocatie
+Q110039170,Q12994,Undirected,1,Werklocatie
+Q110039170,Q215244,Undirected,1,Werklocatie
+Q110039170,Q102728,Undirected,1,Werklocatie
+Q110039170,Q651811,Undirected,1,Werklocatie
+Q110039170,Q392343,Undirected,1,Geboorteplaats
+Q110039170,Q2316093,Undirected,1,Sterfteplaats
+Q110039170,Q2316093,Undirected,1,Werklocatie
+Q115844668,Q12994,Undirected,1,Werklocatie
+Q115844668,Q215244,Undirected,1,Werklocatie
+Q115844668,Q3040923,Undirected,1,Werklocatie
+Q115844668,Q696907,Undirected,1,Sterfteplaats
+Q115844668,Q696907,Undirected,1,Werklocatie
+Q115844668,Q822783,Undirected,1,Werklocatie
+Q115844668,Q1012354,Undirected,1,Werklocatie
+Q115844668,Q651811,Undirected,1,Werklocatie
+Q115844668,Q651811,Undirected,1,Geboorteplaats
+Q123050504,Q2750562,Undirected,1,Geboorteplaats
+Q123050504,Q12994,Undirected,1,Woonplaats
+Q123050504,Q118958,Undirected,1,Woonplaats
+Q116687356,Q12994,Undirected,1,Woonplaats
+Q116687356,Q735827,Undirected,1,Woonplaats
+Q116687356,Q270633,Undirected,1,Geboorteplaats
+Q131957313,Q739996,Undirected,1,Geboorteplaats
+Q131957313,Q834850,Undirected,1,Woonplaats
+Q131957313,Q12994,Undirected,1,Werklocatie
+Q131957313,Q12994,Undirected,1,Woonplaats
+Q131957313,Q690948,Undirected,1,Werklocatie
+Q131957313,Q587819,Undirected,1,Werklocatie
+Q131957313,Q213224,Undirected,1,Werklocatie
+Q125516501,Q340,Undirected,1,Werklocatie
+Q125516501,Q486877,Undirected,1,Werklocatie
+Q118998340,Q124394,Undirected,1,Sterfteplaats
+Q118998340,Q1915517,Undirected,1,Geboorteplaats
+Q2619202,Q215244,Undirected,1,Werklocatie
+Q2619202,Q392337,Undirected,1,Werklocatie
+Q2619202,Q2731701,Undirected,1,Werklocatie
+Q2619202,Q12995,Undirected,1,Werklocatie
+Q2619202,Q3099657,Undirected,1,Geboorteplaats
+Q2619202,Q1704244,Undirected,1,Werklocatie
+Q2619202,Q1704244,Undirected,1,Sterfteplaats
+Q2619202,Q2505670,Undirected,1,Werklocatie
+Q736120,Q31,Undirected,1,In Land
+Q690948,Q31,Undirected,1,In Land
+Q118958,Q31,Undirected,1,In Land
+Q696871,Q31,Undirected,1,In Land
+Q12460,Q31,Undirected,1,In Land
+Q1025511,Q142,Undirected,1,In Land
+Q133315,Q27,Undirected,1,In Land
+Q2049606,Q31,Undirected,1,In Land
+Q1924402,Q31,Undirected,1,In Land
+Q24826,Q145,Undirected,1,In Land
+Q114945031,Q12994,Undirected,1,Werklocatie
+Q114945031,Q12994,Undirected,1,Sterfteplaats
+Q114945031,Q102728,Undirected,1,Werklocatie
+Q114945031,Q499588,Undirected,1,Geboorteplaats
+Q114945031,Q2556717,Undirected,1,Werklocatie
+Q2791245,Q31,Undirected,1,In Land
+Q822790,Q31,Undirected,1,In Land
+Q735827,Q31,Undirected,1,In Land
+Q28973666,Q12994,Undirected,1,Werklocatie
+Q28973666,Q3992,Undirected,1,Werklocatie
+Q28973666,Q3992,Undirected,1,Sterfteplaats
+Q28973666,Q1309,Undirected,1,Geboorteplaats
+Q13769746,Q1988823,Undirected,1,Sterfteplaats
+Q13769746,Q239,Undirected,1,Werklocatie
+Q13769746,Q118958,Undirected,1,Werklocatie
+Q13769746,Q651811,Undirected,1,Geboorteplaats
+Q2426280,Q12994,Undirected,1,Geboorteplaats
+Q2426280,Q12994,Undirected,1,Werklocatie
+Q2426280,Q12994,Undirected,1,Sterfteplaats
+Q2426280,Q12996,Undirected,1,Werklocatie
+Q2426280,Q499588,Undirected,1,Werklocatie
+Q2426280,Q211037,Undirected,1,Werklocatie
+Q56036067,Q492453,Undirected,1,Geboorteplaats
+Q56036067,Q118958,Undirected,1,Werklocatie
+Q56036067,Q2565209,Undirected,1,Werklocatie
+Q56036067,Q1817149,Undirected,1,Sterfteplaats
+Q56036067,Q1817149,Undirected,1,Werklocatie
+Q2132237,Q31,Undirected,1,In Land
+Q1998586,Q31,Undirected,1,In Land
+Q84,Q145,Undirected,1,In Land
+Q587819,Q31,Undirected,1,In Land
+Q1626288,Q145,Undirected,1,In Land
+Q274325,Q142,Undirected,1,In Land
+Q2340735,Q31,Undirected,1,In Land
+Q3475001,Q31,Undirected,1,In Land
+Q86735347,Q727,Undirected,1,Geboorteplaats
+Q86735347,Q43631,Undirected,1,Sterfteplaats
+Q118120903,Q12994,Undirected,1,Sterfteplaats
+Q118120903,Q12994,Undirected,1,Geboorteplaats
+Q118120903,Q12994,Undirected,1,Werklocatie
+Q2134167,Q12994,Undirected,1,Geboorteplaats
+Q2134167,Q12994,Undirected,1,Sterfteplaats
+Q2134167,Q12994,Undirected,1,Werklocatie
+Q2134167,Q3992,Undirected,1,Werklocatie
+Q115818009,Q2692740,Undirected,1,Geboorteplaats
+Q115818009,Q3110823,Undirected,1,Werklocatie
+Q115818009,Q3110823,Undirected,1,Sterfteplaats
+Q115818009,Q12995,Undirected,1,Werklocatie
+Q119003821,Q1966966,Undirected,1,Geboorteplaats
+Q119003821,Q12992,Undirected,1,Sterfteplaats
+Q119003821,Q12992,Undirected,1,Werklocatie
+Q125819387,Q448840,Undirected,1,Geboorteplaats
+Q125819387,Q499588,Undirected,1,Sterfteplaats
+Q115837633,Q12994,Undirected,1,Werklocatie
+Q115837633,Q631265,Undirected,1,Geboorteplaats
+Q115837633,Q2463781,Undirected,1,Sterfteplaats
+Q115837633,Q2463781,Undirected,1,Werklocatie
+Q115837633,Q12995,Undirected,1,Werklocatie
+Q115837633,Q12996,Undirected,1,Werklocatie
+Q115837633,Q211037,Undirected,1,Werklocatie
+Q121078208,Q12995,Undirected,1,Geboorteplaats
+Q121078208,Q12995,Undirected,1,Sterfteplaats
+Q125351404,Q217216,Undirected,1,Geboorteplaats
+Q125351404,Q12995,Undirected,1,Woonplaats
+Q125351404,Q12995,Undirected,1,Sterfteplaats
+Q125351404,Q12995,Undirected,1,Werklocatie
+Q128904091,Q45797,Undirected,1,Geboorteplaats
+Q128904091,Q12995,Undirected,1,Woonplaats
+Q128904091,Q213224,Undirected,1,Sterfteplaats
+Q20902162,Q12994,Undirected,1,Geboorteplaats
+Q20902162,Q3110823,Undirected,1,Woonplaats
+Q20902162,Q822748,Undirected,1,Werklocatie
+Q20902162,Q213224,Undirected,1,Werklocatie
+Q20902162,Q34001,Undirected,1,Werklocatie
+Q20902162,Q34001,Undirected,1,Woonplaats
+Q20902162,Q2684417,Undirected,1,Sterfteplaats
+Q115835025,Q12994,Undirected,1,Sterfteplaats
+Q115835025,Q12994,Undirected,1,Werklocatie
+Q115835025,Q12996,Undirected,1,Geboorteplaats
+Q117246781,Q2412352,Undirected,1,Sterfteplaats
+Q117246781,Q2412352,Undirected,1,Woonplaats
+Q117246781,Q2528725,Undirected,1,Geboorteplaats
+Q840968,Q31,Undirected,1,In Land
+Q120855780,Q22889,Undirected,1,Woonplaats
+Q120855780,Q22889,Undirected,1,Sterfteplaats
+Q120855780,Q170478,Undirected,1,Woonplaats
+Q120855780,Q131491,Undirected,1,Geboorteplaats
+Q120855780,Q12994,Undirected,1,Woonplaats
+Q120855780,Q288781,Undirected,1,Woonplaats
+Q120855780,Q12995,Undirected,1,Woonplaats
+Q120855780,Q18125,Undirected,1,Woonplaats
+Q3992,Q31,Undirected,1,In Land
+Q261414,Q142,Undirected,1,In Land
+Q4191,Q39,Undirected,1,In Land
+Q1851297,Q12994,Undirected,1,Geboorteplaats
+Q1851297,Q12994,Undirected,1,Werklocatie
+Q1851297,Q2340735,Undirected,1,Sterfteplaats
+Q1851297,Q1113,Undirected,1,Werklocatie
+Q117227189,Q392337,Undirected,1,Woonplaats
+Q117227189,Q12995,Undirected,1,Geboorteplaats
+Q117227189,Q12887,Undirected,1,Woonplaats
+Q932008,Q55,Undirected,1,In Land
+Q1309,Q55,Undirected,1,In Land
+Q3234954,Q31,Undirected,1,In Land
+Q2807,Q29,Undirected,1,In Land
+Q238803,Q145,Undirected,1,In Land
+Q498858,Q142,Undirected,1,In Land
+Q12896,Q31,Undirected,1,In Land
+Q18125,Q145,Undirected,1,In Land
+Q37793252,Q47465,Undirected,1,Sterfteplaats
+Q37793252,Q23482,Undirected,1,Geboorteplaats
+Q118175361,Q12994,Undirected,1,Werklocatie
+Q118175361,Q12995,Undirected,1,Werklocatie
+Q118175361,Q2791245,Undirected,1,Sterfteplaats
+Q118175361,Q2791245,Undirected,1,Werklocatie
+Q118175361,Q2132237,Undirected,1,Werklocatie
+Q118175361,Q2231539,Undirected,1,Geboorteplaats
+Q13581283,Q31,Undirected,1,In Land
+Q116688354,Q3992,Undirected,1,Geboorteplaats
+Q100037,Q55,Undirected,1,In Land
+Q116621811,Q12994,Undirected,1,Woonplaats
+Q116621811,Q239,Undirected,1,Woonplaats
+Q116621811,Q696825,Undirected,1,Geboorteplaats
+Q116621811,Q34370,Undirected,1,Woonplaats
+Q116621811,Q132679,Undirected,1,Sterfteplaats
+Q116621725,Q3110823,Undirected,1,Geboorteplaats
+Q116621725,Q3110823,Undirected,1,Sterfteplaats
+Q116621725,Q3110823,Undirected,1,Werklocatie
+Q116620833,Q2636574,Undirected,1,Geboorteplaats
+Q116620833,Q12995,Undirected,1,Woonplaats
+Q128034737,Q3110823,Undirected,1,Werklocatie
+Q128034737,Q12995,Undirected,1,Sterfteplaats
+Q128034737,Q107986613,Undirected,1,Werklocatie
+Q128034737,Q2316093,Undirected,1,Geboorteplaats
+Q125342034,Q2963326,Undirected,1,Geboorteplaats
+Q125342034,Q2963326,Undirected,1,Sterfteplaats
+Q122798023,Q12995,Undirected,1,Sterfteplaats
+Q122798023,Q190113,Undirected,1,Geboorteplaats
+Q122790642,Q12994,Undirected,1,Sterfteplaats
+Q122790642,Q244513,Undirected,1,Geboorteplaats
+Q116621244,Q822783,Undirected,1,Sterfteplaats
+Q116621244,Q3475027,Undirected,1,Geboorteplaats
+Q116659577,Q3110823,Undirected,1,Sterfteplaats
+Q116659577,Q3110823,Undirected,1,Geboorteplaats
+Q123414712,Q12994,Undirected,1,Sterfteplaats
+Q123414712,Q1012352,Undirected,1,Geboorteplaats
+Q117265039,Q822748,Undirected,1,Geboorteplaats
+Q116621699,Q12994,Undirected,1,Woonplaats
+Q116621699,Q12994,Undirected,1,Geboorteplaats
+Q116621699,Q2340735,Undirected,1,Woonplaats
+Q116621699,Q2340735,Undirected,1,Sterfteplaats
+Q117229566,Q1296,Undirected,1,Geboorteplaats
+Q117229566,Q12995,Undirected,1,Woonplaats
+Q117229566,Q12995,Undirected,1,Sterfteplaats
+Q13815099,Q31,Undirected,1,In Land
+Q1015356,Q31,Undirected,1,In Land
+Q2166168,Q31,Undirected,1,In Land
+Q117244772,Q478797,Undirected,1,Geboorteplaats
+Q117244772,Q12995,Undirected,1,Sterfteplaats
+Q125257556,Q1296,Undirected,1,Sterfteplaats
+Q125257556,Q1296,Undirected,1,Geboorteplaats
+Q125257556,Q1296,Undirected,1,Werklocatie
+Q125257556,Q2936941,Undirected,1,Werklocatie
+Q123554207,Q742892,Undirected,1,Sterfteplaats
+Q123554207,Q911968,Undirected,1,Geboorteplaats
+Q116672748,Q177133,Undirected,1,Woonplaats
+Q116672748,Q177133,Undirected,1,Werklocatie
+Q116672748,Q12994,Undirected,1,Woonplaats
+Q116672748,Q3234954,Undirected,1,Sterfteplaats
+Q116672748,Q34001,Undirected,1,Geboorteplaats
+Q131928167,Q12995,Undirected,1,Geboorteplaats
+Q131928167,Q261399,Undirected,1,Woonplaats
+Q123606015,Q12994,Undirected,1,Woonplaats
+Q123606015,Q239,Undirected,1,Woonplaats
+Q123606015,Q90,Undirected,1,Woonplaats
+Q123606015,Q272243,Undirected,1,Geboorteplaats
+Q123606015,Q203312,Undirected,1,Sterfteplaats
+Q129072389,Q12892,Undirected,1,Woonplaats
+Q129072389,Q213224,Undirected,1,Geboorteplaats
+Q125359798,Q822783,Undirected,1,Geboorteplaats
+Q125334130,Q12995,Undirected,1,Sterfteplaats
+Q125334130,Q12995,Undirected,1,Geboorteplaats
+Q125334130,Q12995,Undirected,1,Woonplaats
+Q123399726,Q102728,Undirected,1,Sterfteplaats
+Q123399726,Q1024880,Undirected,1,Woonplaats
+Q123399726,Q12995,Undirected,1,Geboorteplaats
+Q122794969,Q1486,Undirected,1,Woonplaats
+Q122794969,Q731501,Undirected,1,Geboorteplaats
+Q122794969,Q492369,Undirected,1,Woonplaats
+Q128903989,Q12994,Undirected,1,Geboorteplaats
+Q122753360,Q12892,Undirected,1,Werklocatie
+Q122753360,Q2022299,Undirected,1,Werklocatie
+Q122753360,Q1296,Undirected,1,Sterfteplaats
+Q122753360,Q58780,Undirected,1,Geboorteplaats
+Q122753360,Q3992,Undirected,1,Werklocatie
+Q116509131,Q648,Undirected,1,Woonplaats
+Q116509131,Q648,Undirected,1,Sterfteplaats
+Q116509131,Q318532,Undirected,1,Geboorteplaats
+Q125361599,Q12994,Undirected,1,Woonplaats
+Q125361599,Q12994,Undirected,1,Sterfteplaats
+Q125361599,Q12994,Undirected,1,Werklocatie
+Q125361599,Q23109,Undirected,1,Geboorteplaats
+Q3099657,Q31,Undirected,1,In Land
+Q2535447,Q31,Undirected,1,In Land
+Q23482,Q142,Undirected,1,In Land
+Q119217815,Q499609,Undirected,1,Werklocatie
+Q119217815,Q2132066,Undirected,1,Werklocatie
+Q119217815,Q3100236,Undirected,1,Werklocatie
+Q119217815,Q602170,Undirected,1,Geboorteplaats
+Q119217815,Q602170,Undirected,1,Sterfteplaats
+Q116510958,Q1013528,Undirected,1,Geboorteplaats
+Q116510958,Q32508,Undirected,1,Sterfteplaats
+Q116510958,Q84,Undirected,1,Woonplaats
+Q117246934,Q125163,Undirected,1,Woonplaats
+Q117246934,Q84,Undirected,1,Geboorteplaats
+Q117246934,Q60,Undirected,1,Woonplaats
+Q117246934,Q60,Undirected,1,Sterfteplaats
+Q116510998,Q84,Undirected,1,Woonplaats
+Q116510998,Q84,Undirected,1,Geboorteplaats
+Q125357784,Q122607,Undirected,1,Woonplaats
+Q125357784,Q122607,Undirected,1,Werklocatie
+Q125357784,Q23154,Undirected,1,Geboorteplaats
+Q125357784,Q12994,Undirected,1,Woonplaats
+Q125357784,Q12994,Undirected,1,Werklocatie
+Q125357784,Q1296,Undirected,1,Woonplaats
+Q125357784,Q1296,Undirected,1,Sterfteplaats
+Q125357784,Q12995,Undirected,1,Woonplaats
+Q125357784,Q134902,Undirected,1,Woonplaats
+Q125357784,Q134902,Undirected,1,Werklocatie
+Q125357784,Q2449737,Undirected,1,Woonplaats
+Q125357784,Q2449737,Undirected,1,Werklocatie
+Q75320316,Q5688340,Undirected,1,Woonplaats
+Q75320316,Q12994,Undirected,1,Woonplaats
+Q75320316,Q5125871,Undirected,1,Woonplaats
+Q75320316,Q23156,Undirected,1,Geboorteplaats
+Q75320316,Q546635,Undirected,1,Woonplaats
+Q75320316,Q549761,Undirected,1,Sterfteplaats
+Q122780659,Q1425428,Undirected,1,Geboorteplaats
+Q122780659,Q1425428,Undirected,1,Woonplaats
+Q122780659,Q12994,Undirected,1,Woonplaats
+Q122780659,Q7056086,Undirected,1,Woonplaats
+Q75279907,Q67574558,Undirected,1,Sterfteplaats
+Q75279907,Q2449737,Undirected,1,Werklocatie
+Q75279907,Q549761,Undirected,1,Geboorteplaats
+Q122842204,Q84,Undirected,1,Sterfteplaats
+Q122842204,Q34217,Undirected,1,Geboorteplaats
+Q122842204,Q34217,Undirected,1,Woonplaats
+Q122842204,Q1045096,Undirected,1,Woonplaats
+Q116621328,Q12994,Undirected,1,Woonplaats
+Q116621328,Q277162,Undirected,1,Woonplaats
+Q116621328,Q277162,Undirected,1,Sterfteplaats
+Q116621328,Q163,Undirected,1,Geboorteplaats
+Q116621363,Q12994,Undirected,1,Woonplaats
+Q116621363,Q12994,Undirected,1,Geboorteplaats
+Q116621363,Q146659,Undirected,1,Woonplaats
+Q116621363,Q84,Undirected,1,Sterfteplaats
+Q123634,Q145,Undirected,1,In Land
+Q597997,Q31,Undirected,1,In Land
+Q211073,Q974,Undirected,1,In Land
+Q116621552,Q12994,Undirected,1,Werklocatie
+Q116621552,Q12995,Undirected,1,Sterfteplaats
+Q116621552,Q12995,Undirected,1,Werklocatie
+Q116621552,Q12995,Undirected,1,Geboorteplaats
+Q115852702,Q1909412,Undirected,1,Geboorteplaats
+Q115852702,Q742876,Undirected,1,Sterfteplaats
+Q115852702,Q742876,Undirected,1,Werklocatie
+Q125365471,Q3453174,Undirected,1,Geboorteplaats
+Q125365471,Q3453174,Undirected,1,Woonplaats
+Q125365471,Q3453174,Undirected,1,Sterfteplaats
+Q123050722,Q12994,Undirected,1,Woonplaats
+Q123050722,Q12994,Undirected,1,Sterfteplaats
+Q123050722,Q12994,Undirected,1,Werklocatie
+Q123050722,Q12994,Undirected,1,Geboorteplaats
+Q75320317,Q12994,Undirected,1,Woonplaats
+Q75320317,Q208209,Undirected,1,Geboorteplaats
+Q75320317,Q1003559,Undirected,1,Sterfteplaats
+Q121053317,Q1296,Undirected,1,Geboorteplaats
+Q121053317,Q1296,Undirected,1,Sterfteplaats
+Q2656389,Q1027,Undirected,1,In Land
+Q2413334,Q12892,Undirected,1,Werklocatie
+Q2413334,Q12892,Undirected,1,Sterfteplaats
+Q2413334,Q12892,Undirected,1,Geboorteplaats
+Q2413334,Q1296,Undirected,1,Werklocatie
+Q2413334,Q134121,Undirected,1,Werklocatie
+Q2166865,Q31,Undirected,1,In Land
+Q162022,Q31,Undirected,1,In Land
+Q2132066,Q31,Undirected,1,In Land
+Q125559455,Q12994,Undirected,1,Geboorteplaats
+Q125559455,Q102728,Undirected,1,Woonplaats
+Q125559455,Q102728,Undirected,1,Werklocatie
+Q125559455,Q208793,Undirected,1,Sterfteplaats
+Q2561079,Q31,Undirected,1,In Land
+Q1849098,Q31,Undirected,1,In Land
+Q696355,Q31,Undirected,1,In Land
+Q2565209,Q31,Undirected,1,In Land
+Q1018423,Q145,Undirected,1,In Land
+Q2794293,Q31,Undirected,1,In Land
+Q213224,Q31,Undirected,1,In Land
+Q912106,Q31,Undirected,1,In Land
+Q985789,Q31,Undirected,1,In Land
+Q187755,Q31,Undirected,1,In Land
+Q2326156,Q31,Undirected,1,In Land
+Q680624,Q142,Undirected,1,In Land
+Q737077,Q31,Undirected,1,In Land
+Q822783,Q31,Undirected,1,In Land
+Q63923,Q31,Undirected,1,In Land
+Q118612085,Q12994,Undirected,1,Woonplaats
+Q118612085,Q516951,Undirected,1,Geboorteplaats
+Q118612085,Q84,Undirected,1,Woonplaats
+Q118612085,Q1012476,Undirected,1,Woonplaats
+Q118612085,Q1012476,Undirected,1,Sterfteplaats
+Q1166,Q30,Undirected,1,In Land
+Q2786493,Q31,Undirected,1,In Land
+Q52101,Q55,Undirected,1,In Land
+Q492369,Q31,Undirected,1,In Land
+Q19186,Q145,Undirected,1,In Land
+Q149688,Q145,Undirected,1,In Land
+Q115826199,Q12994,Undirected,1,Sterfteplaats
+Q115826199,Q270633,Undirected,1,Geboorteplaats
+Q377429,Q31,Undirected,1,In Land
+Q2041206,Q31,Undirected,1,In Land
+Q724573,Q31,Undirected,1,In Land
+Q220145,Q31,Undirected,1,In Land
+Q1123846,Q142,Undirected,1,In Land
+Q711,Q711,Undirected,1,In Land
+Q15982597,Q12994,Undirected,1,Woonplaats
+Q15982597,Q3110823,Undirected,1,Sterfteplaats
+Q15982597,Q3110823,Undirected,1,Woonplaats
+Q15982597,Q735797,Undirected,1,Geboorteplaats
+Q995533,Q30,Undirected,1,In Land
+Q2223904,Q31,Undirected,1,In Land
+Q340,Q16,Undirected,1,In Land
+Q780561,Q31,Undirected,1,In Land
+Q628733,Q31,Undirected,1,In Land
+Q688781,Q31,Undirected,1,In Land
+Q83317,Q796,Undirected,1,In Land
+Q1431633,Q30,Undirected,1,In Land
+Q1726,Q183,Undirected,1,In Land
+Q2742,Q183,Undirected,1,In Land
+Q134121,Q31,Undirected,1,In Land
+Q12191,Q142,Undirected,1,In Land
+Q18655152,Q1296,Undirected,1,Geboorteplaats
+Q18655152,Q1296,Undirected,1,Sterfteplaats
+Q580315,Q31,Undirected,1,In Land
+Q616933,Q31,Undirected,1,In Land
+Q2436688,Q31,Undirected,1,In Land
+Q822651,Q31,Undirected,1,In Land
+Q60,Q30,Undirected,1,In Land
+Q1384,Q30,Undirected,1,In Land
+Q987754,Q27,Undirected,1,In Land
+Q101254,Q145,Undirected,1,In Land
+Q672816,Q84,Undirected,1,Sterfteplaats
+Q672816,Q8717,Undirected,1,Geboorteplaats
+Q243851,Q142,Undirected,1,In Land
+Q664,Q664,Undirected,1,In Land
+Q1847545,Q31,Undirected,1,In Land
+Q1865404,Q31,Undirected,1,In Land
+Q623310,Q31,Undirected,1,In Land
+Q2442951,Q30,Undirected,1,In Land
+Q661710,Q142,Undirected,1,In Land
+Q2346321,Q31,Undirected,1,In Land
+Q1060664,Q142,Undirected,1,In Land
+Q2042895,Q31,Undirected,1,In Land
+Q84957520,Q55,Undirected,1,In Land
+Q20,Q20,Undirected,1,In Land
+Q23109,Q145,Undirected,1,In Land
+Q7056086,Q145,Undirected,1,In Land
+Q215354,Q145,Undirected,1,In Land
+Q41262,Q145,Undirected,1,In Land
+Q23092,Q145,Undirected,1,In Land
+Q1909412,Q31,Undirected,1,In Land
+Q116621407,Q12994,Undirected,1,Sterfteplaats
+Q116621407,Q12994,Undirected,1,Geboorteplaats
+Q122833200,Q3110823,Undirected,1,Werklocatie
+Q122833200,Q12995,Undirected,1,Sterfteplaats
+Q122833200,Q2580321,Undirected,1,Werklocatie
+Q122833200,Q2316093,Undirected,1,Geboorteplaats
+Q115831919,Q724577,Undirected,1,Werklocatie
+Q115831919,Q1296,Undirected,1,Werklocatie
+Q115831919,Q211073,Undirected,1,Werklocatie
+Q115831919,Q730801,Undirected,1,Geboorteplaats
+Q115831919,Q388115,Undirected,1,Woonplaats
+Q115831919,Q388115,Undirected,1,Sterfteplaats
+Q129121545,Q822771,Undirected,1,Geboorteplaats
+Q129121545,Q90,Undirected,1,Werklocatie
+Q129121545,Q475931,Undirected,1,Sterfteplaats
+Q129121545,Q475931,Undirected,1,Werklocatie
+Q123742237,Q1876354,Undirected,1,Werklocatie
+Q1023248,Q31,Undirected,1,In Land
+Q650376,Q31,Undirected,1,In Land
+Q2398408,Q31,Undirected,1,In Land
+Q1876354,Q31,Undirected,1,In Land
+Q4613418,Q31,Undirected,1,In Land
+Q28301,Q155,Undirected,1,In Land
+Q950007,Q31,Undirected,1,In Land
+Q2400293,Q31,Undirected,1,In Land
+Q2314278,Q31,Undirected,1,In Land
+Q12996,Q31,Undirected,1,In Land
+Q742892,Q31,Undirected,1,In Land
+Q1939288,Q31,Undirected,1,In Land
+Q2191886,Q31,Undirected,1,In Land
+Q1952054,Q31,Undirected,1,In Land
+Q822777,Q31,Undirected,1,In Land
+Q2555902,Q31,Undirected,1,In Land
+Q14988,Q31,Undirected,1,In Land
+Q930292,Q31,Undirected,1,In Land
+Q2491546,Q31,Undirected,1,In Land
+Q12992,Q31,Undirected,1,In Land
+Q835128,Q31,Undirected,1,In Land
+Q705028,Q31,Undirected,1,In Land
+Q2106759,Q31,Undirected,1,In Land
+Q599127,Q31,Undirected,1,In Land
+Q107986613,Q31,Undirected,1,In Land
+Q2580321,Q31,Undirected,1,In Land
+Q34217,Q145,Undirected,1,In Land
+Q120920666,Q2896939,Undirected,1,Sterfteplaats
+Q120920666,Q2896939,Undirected,1,Werklocatie
+Q120920666,Q2896939,Undirected,1,Geboorteplaats
+Q124230,Q145,Undirected,1,In Land
+Q3892762,Q38,Undirected,1,In Land
+Q44213,Q414,Undirected,1,In Land
+Q90,Q142,Undirected,1,In Land
+Q255575,Q31,Undirected,1,In Land
+Q125538145,Q2031231,Undirected,1,Sterfteplaats
+Q125538145,Q244513,Undirected,1,Woonplaats
+Q784390,Q727,Undirected,1,Geboorteplaats
+Q784390,Q951571,Undirected,1,Sterfteplaats
+Q784390,Q118958,Undirected,1,Werklocatie
+Q784390,Q118958,Undirected,1,Sterfteplaats
+Q784390,Q1309,Undirected,1,Werklocatie
+Q1896762,Q818804,Undirected,1,Geboorteplaats
+Q1896762,Q2676933,Undirected,1,Sterfteplaats
+Q122987963,Q2693730,Undirected,1,Geboorteplaats
+Q122987963,Q616933,Undirected,1,Werklocatie
+Q122987963,Q12992,Undirected,1,Sterfteplaats
+Q122801530,Q270633,Undirected,1,Geboorteplaats
+Q122801530,Q270633,Undirected,1,Sterfteplaats
+Q131928133,Q12995,Undirected,1,Sterfteplaats
+Q131928133,Q12995,Undirected,1,Werklocatie
+Q131928133,Q2026781,Undirected,1,Geboorteplaats
+Q188096,Q833,Undirected,1,In Land
+Q2209469,Q145,Undirected,1,In Land
+Q208209,Q145,Undirected,1,In Land
+Q233129,Q30,Undirected,1,In Land
+Q1884650,Q31,Undirected,1,In Land
+Q203000,Q145,Undirected,1,In Land
+Q2053561,Q31,Undirected,1,In Land
+Q56036064,Q12887,Undirected,1,Woonplaats
+Q56036064,Q12887,Undirected,1,Sterfteplaats
+Q56036064,Q1961936,Undirected,1,Geboorteplaats
+Q56036064,Q190959,Undirected,1,Woonplaats
+Q2174334,Q31,Undirected,1,In Land
+Q136703696,Q2878342,Undirected,1,Geboorteplaats
+Q136703696,Q1296,Undirected,1,Werklocatie
+Q136703696,Q268219,Undirected,1,Werklocatie
+Q136703696,Q2262095,Undirected,1,Werklocatie
+Q136703696,Q2262095,Undirected,1,Sterfteplaats
+Q136703696,Q2358119,Undirected,1,Werklocatie
+Q136703696,Q2358119,Undirected,1,Sterfteplaats
+Q115979048,Q478797,Undirected,1,Werklocatie
+Q115979048,Q1840847,Undirected,1,Geboorteplaats
+Q115979048,Q12995,Undirected,1,Werklocatie
+Q115979048,Q1865404,Undirected,1,Sterfteplaats
+Q115979048,Q1865404,Undirected,1,Werklocatie
+Q115979048,Q506707,Undirected,1,Werklocatie
+Q115819139,Q239,Undirected,1,Werklocatie
+Q115819139,Q724638,Undirected,1,Werklocatie
+Q115819139,Q2166865,Undirected,1,Geboorteplaats
+Q115819139,Q272243,Undirected,1,Werklocatie
+Q115819139,Q272243,Undirected,1,Sterfteplaats
+Q120973922,Q3475027,Undirected,1,Werklocatie
+Q120333083,Q12994,Undirected,1,Sterfteplaats
+Q120333083,Q12994,Undirected,1,Werklocatie
+Q120333083,Q318532,Undirected,1,Geboorteplaats
+Q18415039,Q239,Undirected,1,Geboorteplaats
+Q18415039,Q90,Undirected,1,Sterfteplaats
+Q117244643,Q12994,Undirected,1,Sterfteplaats
+Q117244643,Q817372,Undirected,1,Geboorteplaats
+Q125257906,Q392337,Undirected,1,Werklocatie
+Q118732528,Q12995,Undirected,1,Sterfteplaats
+Q118732528,Q211037,Undirected,1,Geboorteplaats
+Q28584401,Q12995,Undirected,1,Woonplaats
+Q28584401,Q12995,Undirected,1,Sterfteplaats
+Q28584401,Q12995,Undirected,1,Geboorteplaats
+Q110039178,Q12994,Undirected,1,Werklocatie
+Q110039178,Q2575787,Undirected,1,Geboorteplaats
+Q110039178,Q392337,Undirected,1,Werklocatie
+Q110039178,Q392337,Undirected,1,Sterfteplaats
+Q118136722,Q12994,Undirected,1,Werklocatie
+Q118136722,Q731501,Undirected,1,Geboorteplaats
+Q118136722,Q149688,Undirected,1,Werklocatie
+Q118136722,Q47952,Undirected,1,Sterfteplaats
+Q118136722,Q47952,Undirected,1,Werklocatie
+Q118136722,Q47952,Undirected,1,Woonplaats
+Q2182589,Q328104,Undirected,1,Werklocatie
+Q2182589,Q12994,Undirected,1,Werklocatie
+Q2182589,Q323408,Undirected,1,Geboorteplaats
+Q2182589,Q1012357,Undirected,1,Werklocatie
+Q2182589,Q1012357,Undirected,1,Sterfteplaats
+Q14101076,Q12892,Undirected,1,Geboorteplaats
+Q14101076,Q12892,Undirected,1,Werklocatie
+Q14101076,Q12892,Undirected,1,Sterfteplaats
+Q15982596,Q12994,Undirected,1,Werklocatie
+Q15982596,Q1296,Undirected,1,Werklocatie
+Q15982596,Q211037,Undirected,1,Werklocatie
+Q120884878,Q2854293,Undirected,1,Werklocatie
+Q120884878,Q2928134,Undirected,1,Werklocatie
+Q120884878,Q822763,Undirected,1,Sterfteplaats
+Q120884878,Q822763,Undirected,1,Werklocatie
+Q120884878,Q628733,Undirected,1,Werklocatie
+Q120884878,Q1952054,Undirected,1,Geboorteplaats
+Q120884878,Q211037,Undirected,1,Werklocatie
+Q120884878,Q651811,Undirected,1,Werklocatie
+Q120884878,Q214154,Undirected,1,Werklocatie
+Q2159132,Q822795,Undirected,1,Sterfteplaats
+Q2159132,Q696871,Undirected,1,Geboorteplaats
+Q115836217,Q2261514,Undirected,1,Werklocatie
+Q115836217,Q1704244,Undirected,1,Geboorteplaats
+Q115836217,Q1704244,Undirected,1,Sterfteplaats
+Q115836217,Q3472219,Undirected,1,Werklocatie
+Q115836217,Q3472086,Undirected,1,Werklocatie
+Q22002048,Q739996,Undirected,1,Geboorteplaats
+Q22002048,Q12994,Undirected,1,Sterfteplaats
+Q6242432,Q118958,Undirected,1,Werklocatie
+Q6242432,Q118958,Undirected,1,Sterfteplaats
+Q6242432,Q1309,Undirected,1,Geboorteplaats
+Q6242432,Q2997099,Undirected,1,Sterfteplaats
+Q42306892,Q391294,Undirected,1,Geboorteplaats
+Q42306892,Q391294,Undirected,1,Sterfteplaats
+Q185591,Q258,Undirected,1,In Land
+Q2404540,Q145,Undirected,1,In Land
+Q651724,Q31,Undirected,1,In Land
+Q110039180,Q822795,Undirected,1,Werklocatie
+Q110039180,Q118958,Undirected,1,Werklocatie
+Q110039180,Q118958,Undirected,1,Sterfteplaats
+Q110039180,Q2042895,Undirected,1,Geboorteplaats
+Q110039180,Q214154,Undirected,1,Werklocatie
+Q2351222,Q31,Undirected,1,In Land
+Q3475027,Q31,Undirected,1,In Land
+Q2026781,Q31,Undirected,1,In Land
+Q3515115,Q12892,Undirected,1,Werklocatie
+Q3515115,Q64,Undirected,1,Sterfteplaats
+Q3515115,Q173219,Undirected,1,Werklocatie
+Q3515115,Q2629754,Undirected,1,Geboorteplaats
+Q2414284,Q31,Undirected,1,In Land
+Q110039361,Q743236,Undirected,1,Geboorteplaats
+Q110039361,Q58780,Undirected,1,Werklocatie
+Q110039361,Q207095,Undirected,1,Werklocatie
+Q110039361,Q641278,Undirected,1,Sterfteplaats
+Q110039361,Q38298881,Undirected,1,Werklocatie
+Q110039361,Q218497,Undirected,1,Werklocatie
+Q499588,Q31,Undirected,1,In Land
+Q36433,Q45,Undirected,1,In Land
+Q28599921,Q145,Undirected,1,In Land
+Q184090,Q145,Undirected,1,In Land
+Q1003559,Q145,Undirected,1,In Land
+Q2754460,Q239,Undirected,1,Sterfteplaats
+Q2754460,Q239,Undirected,1,Geboorteplaats
+Q120488044,Q1904127,Undirected,1,Werklocatie
+Q2396419,Q31,Undirected,1,In Land
+Q3504647,Q252,Undirected,1,In Land
+Q908546,Q31,Undirected,1,In Land
+Q36074,Q408,Undirected,1,In Land
+Q122801933,Q12995,Undirected,1,Geboorteplaats
+Q122801933,Q12995,Undirected,1,Sterfteplaats
+Q122801933,Q12995,Undirected,1,Werklocatie
+Q1796639,Q1017,Undirected,1,Sterfteplaats
+Q1796639,Q9768,Undirected,1,Sterfteplaats
+Q1796639,Q839037,Undirected,1,Geboorteplaats
+Q773585,Q142,Undirected,1,In Land
+Q2189234,Q31,Undirected,1,In Land
+Q1947380,Q668,Undirected,1,In Land
+Q115822210,Q723651,Undirected,1,Geboorteplaats
+Q115822210,Q1348,Undirected,1,Sterfteplaats
+Q115822210,Q1947380,Undirected,1,Werklocatie
+Q161491,Q145,Undirected,1,In Land
+Q2566545,Q31,Undirected,1,In Land
+Q4423628,Q1963590,Undirected,1,Werklocatie
+Q4423628,Q210003,Undirected,1,Werklocatie
+Q4423628,Q12995,Undirected,1,Werklocatie
+Q4423628,Q270633,Undirected,1,Werklocatie
+Q115807960,Q960518,Undirected,1,Werklocatie
+Q115807960,Q960518,Undirected,1,Woonplaats
+Q115807960,Q2681034,Undirected,1,Woonplaats
+Q115807960,Q2681034,Undirected,1,Sterfteplaats
+Q115807960,Q2681034,Undirected,1,Geboorteplaats
+Q115807960,Q1223,Undirected,1,Werklocatie
+Q115807960,Q1223,Undirected,1,Woonplaats
+Q123722465,Q2041336,Undirected,1,Geboorteplaats
+Q123722465,Q2041336,Undirected,1,Sterfteplaats
+Q123722465,Q2041336,Undirected,1,Werklocatie
+Q2963326,Q31,Undirected,1,In Land
+Q119699762,Q184287,Undirected,1,Sterfteplaats
+Q119699762,Q184287,Undirected,1,Werklocatie
+Q119699762,Q184287,Undirected,1,Geboorteplaats
+Q2087117,Q12892,Undirected,1,Sterfteplaats
+Q2087117,Q834850,Undirected,1,Werklocatie
+Q2087117,Q12995,Undirected,1,Werklocatie
+Q2087117,Q12995,Undirected,1,Geboorteplaats
+Q115817263,Q12892,Undirected,1,Sterfteplaats
+Q115817263,Q12994,Undirected,1,Werklocatie
+Q115817263,Q2181673,Undirected,1,Werklocatie
+Q115817263,Q2091146,Undirected,1,Geboorteplaats
+Q120651810,Q332310,Undirected,1,Geboorteplaats
+Q120651810,Q45797,Undirected,1,Werklocatie
+Q64302,Q2773,Undirected,1,Geboorteplaats
+Q64302,Q2966,Undirected,1,Werklocatie
+Q64302,Q2079,Undirected,1,Werklocatie
+Q64302,Q1726,Undirected,1,Sterfteplaats
+Q64302,Q1726,Undirected,1,Werklocatie
+Q115813641,Q12994,Undirected,1,Werklocatie
+Q115813641,Q2863278,Undirected,1,Werklocatie
+Q115813641,Q2181673,Undirected,1,Werklocatie
+Q115813641,Q2181673,Undirected,1,Sterfteplaats
+Q115813641,Q822783,Undirected,1,Geboorteplaats
+Q115813641,Q2491546,Undirected,1,Werklocatie
+Q648,Q142,Undirected,1,In Land
+Q8678,Q155,Undirected,1,In Land
+Q7343011,Q131491,Undirected,1,Geboorteplaats
+Q7343011,Q531311,Undirected,1,Sterfteplaats
+Q125472922,Q188313,Undirected,1,Geboorteplaats
+Q125472922,Q1557796,Undirected,1,Sterfteplaats
+Q125472922,Q185591,Undirected,1,Woonplaats
+Q125472922,Q185591,Undirected,1,Werklocatie
+Q113675636,Q954682,Undirected,1,Werklocatie
+Q113675636,Q2085862,Undirected,1,Geboorteplaats
+Q113675636,Q3110823,Undirected,1,Werklocatie
+Q113675636,Q102728,Undirected,1,Werklocatie
+Q113675636,Q392337,Undirected,1,Werklocatie
+Q113675636,Q1924402,Undirected,1,Werklocatie
+Q113675636,Q261414,Undirected,1,Sterfteplaats
+Q113675636,Q506707,Undirected,1,Werklocatie
+Q49218,Q30,Undirected,1,In Land
+Q3057456,Q145,Undirected,1,In Land
+Q9783,Q55,Undirected,1,In Land
+Q2191390,Q31,Undirected,1,In Land
+Q2220639,Q31,Undirected,1,In Land
+Q211037,Q31,Undirected,1,In Land
+Q136734381,Q12994,Undirected,1,Woonplaats
+Q136734381,Q12995,Undirected,1,Sterfteplaats
+Q136734381,Q211037,Undirected,1,Geboorteplaats
+Q2512929,Q31,Undirected,1,In Land
+Q2352516,Q31,Undirected,1,In Land
+Q117244395,Q12994,Undirected,1,Geboorteplaats
+Q117244395,Q12994,Undirected,1,Woonplaats
+Q117244395,Q12994,Undirected,1,Sterfteplaats
+Q220,Q38,Undirected,1,In Land
+Q268219,Q31,Undirected,1,In Land
+Q115844249,Q1991101,Undirected,1,Sterfteplaats
+Q115844249,Q3049134,Undirected,1,Geboorteplaats
+Q34370,Q55,Undirected,1,In Land
+Q34001,Q142,Undirected,1,In Land
+Q546635,Q145,Undirected,1,In Land
+Q2928815,Q31,Undirected,1,In Land
+Q696982,Q31,Undirected,1,In Land
+Q1704244,Q31,Undirected,1,In Land
+Q3453174,Q31,Undirected,1,In Land
+Q1618770,Q31,Undirected,1,In Land
+Q123050592,Q12994,Undirected,1,Woonplaats
+Q123050592,Q12994,Undirected,1,Sterfteplaats
+Q123050592,Q1361,Undirected,1,Geboorteplaats
+Q123050592,Q3992,Undirected,1,Woonplaats
+Q123050592,Q123634,Undirected,1,Woonplaats
+Q776556,Q145,Undirected,1,In Land
+Q189153,Q142,Undirected,1,In Land
+Q109571087,Q142,Undirected,1,In Land
+Q38298881,Q31,Undirected,1,In Land
+Q1068891,Q142,Undirected,1,In Land
+Q604222,Q142,Undirected,1,In Land
+Q47952,Q145,Undirected,1,In Land
+Q119006339,Q2660843,Undirected,1,Sterfteplaats
+Q119006339,Q23159,Undirected,1,Geboorteplaats
+Q22544,Q142,Undirected,1,In Land
+Q116508674,Q1296,Undirected,1,Geboorteplaats
+Q116508674,Q2340735,Undirected,1,Sterfteplaats
+Q743521,Q145,Undirected,1,In Land
+Q12887,Q31,Undirected,1,In Land
+Q2392360,Q31,Undirected,1,In Land
+Q911968,Q31,Undirected,1,In Land
+Q263177,Q31,Undirected,1,In Land
+Q1961936,Q55,Undirected,1,In Land
+Q2568071,Q31,Undirected,1,In Land
+Q2755150,Q31,Undirected,1,In Land
+Q194037,Q31,Undirected,1,In Land
+Q14331462,Q12994,Undirected,1,Werklocatie
+Q14331462,Q674954,Undirected,1,Sterfteplaats
+Q14331462,Q674954,Undirected,1,Werklocatie
+Q14331462,Q2398408,Undirected,1,Geboorteplaats
+Q14331462,Q506707,Undirected,1,Werklocatie
+Q1287283,Q31,Undirected,1,In Land
+Q56036025,Q2346321,Undirected,1,Geboorteplaats
+Q56036025,Q2248548,Undirected,1,Werklocatie
+Q56036025,Q2248548,Undirected,1,Sterfteplaats
+Q8717,Q29,Undirected,1,In Land
+Q8686,Q148,Undirected,1,In Land
+Q201970,Q145,Undirected,1,In Land
+Q54672,Q38,Undirected,1,In Land
+Q116522102,Q332310,Undirected,1,Werklocatie
+Q116522102,Q45797,Undirected,1,Geboorteplaats
+Q116522102,Q648,Undirected,1,Werklocatie
+Q116522102,Q1068891,Undirected,1,Sterfteplaats
+Q116522102,Q1068891,Undirected,1,Werklocatie
+Q3110841,Q31,Undirected,1,In Land
+Q3475052,Q31,Undirected,1,In Land
+Q667610,Q408,Undirected,1,In Land
+Q2798071,Q55,Undirected,1,In Land
+Q2616736,Q55,Undirected,1,In Land
+Q2856296,Q55,Undirected,1,In Land
+Q21764799,Q31,Undirected,1,In Land
+Q2936941,Q31,Undirected,1,In Land
+Q2676933,Q31,Undirected,1,In Land
+Q3472219,Q31,Undirected,1,In Land
+Q2354846,Q31,Undirected,1,In Land
+Q2538413,Q31,Undirected,1,In Land
+Q2320749,Q31,Undirected,1,In Land
+Q2314032,Q31,Undirected,1,In Land
+Q898394,Q31,Undirected,1,In Land
+Q272243,Q31,Undirected,1,In Land
+Q3181971,Q31,Undirected,1,In Land
+Q2997099,Q31,Undirected,1,In Land
+Q1915517,Q31,Undirected,1,In Land
+Q2505670,Q31,Undirected,1,In Land
+Q817372,Q31,Undirected,1,In Land
+Q2528725,Q31,Undirected,1,In Land
+Q1904127,Q31,Undirected,1,In Land
+Q2026816,Q31,Undirected,1,In Land
+Q430812,Q31,Undirected,1,In Land
+Q687503,Q142,Undirected,1,In Land
+Q13127,Q31,Undirected,1,In Land
+Q31521097,Q31,Undirected,1,In Land
+Q208793,Q142,Undirected,1,In Land
+Q2262095,Q31,Undirected,1,In Land
+Q688790,Q31,Undirected,1,In Land
+Q2490578,Q31,Undirected,1,In Land
+Q37792,Q31,Undirected,1,In Land
+Q244934,Q142,Undirected,1,In Land
+Q3102205,Q31,Undirected,1,In Land
+Q2065987,Q55,Undirected,1,In Land
+Q1901132,Q31,Undirected,1,In Land
+Q612066,Q142,Undirected,1,In Land
+Q116620790,Q2262095,Undirected,1,Geboorteplaats
+Q116620790,Q2262095,Undirected,1,Sterfteplaats
+Q125365561,Q173219,Undirected,1,Werklocatie
+Q125365561,Q12995,Undirected,1,Sterfteplaats
+Q125365561,Q12995,Undirected,1,Werklocatie
+Q125365561,Q3453174,Undirected,1,Geboorteplaats
+Q486877,Q30,Undirected,1,In Land
+Q7567400,Q145,Undirected,1,In Land
+Q1045096,Q145,Undirected,1,In Land
+Q79848,Q145,Undirected,1,In Land
+Q5273898,Q145,Undirected,1,In Land
+Q39865,Q31,Undirected,1,In Land
+Q122903266,Q22889,Undirected,1,Woonplaats
+Q122903266,Q12994,Undirected,1,Woonplaats
+Q122903266,Q288781,Undirected,1,Woonplaats
+Q122903266,Q2321706,Undirected,1,Woonplaats
+Q122903266,Q12995,Undirected,1,Woonplaats
+Q122903266,Q84,Undirected,1,Geboorteplaats
+Q122903266,Q1143278,Undirected,1,Woonplaats
+Q2610272,Q31,Undirected,1,In Land
+Q26523296,Q145,Undirected,1,In Land
+Q2065416,Q145,Undirected,1,In Land
+Q742876,Q31,Undirected,1,In Land
+Q2524088,Q31,Undirected,1,In Land
+Q2580670,Q31,Undirected,1,In Land
+Q9005,Q31,Undirected,1,In Land
+Q2684417,Q31,Undirected,1,In Land
+Q3472086,Q31,Undirected,1,In Land
+Q175669,Q3110823,Undirected,1,Geboorteplaats
+Q175669,Q1012352,Undirected,1,Woonplaats
+Q175669,Q1012352,Undirected,1,Sterfteplaats
+Q175669,Q9337,Undirected,1,Werklocatie
+Q175669,Q234,Undirected,1,Werklocatie
+Q134902,Q145,Undirected,1,In Land
+Q2449737,Q145,Undirected,1,In Land
+Q7619622,Q145,Undirected,1,In Land
+Q6602,Q142,Undirected,1,In Land
+Q1809460,Q31,Undirected,1,In Land
+Q116621828,Q12994,Undirected,1,Geboorteplaats
+Q116621828,Q12994,Undirected,1,Woonplaats
+Q116621828,Q2340735,Undirected,1,Woonplaats
+Q116621828,Q2340735,Undirected,1,Sterfteplaats
+Q188304,Q145,Undirected,1,In Land
+Q3130,Q408,Undirected,1,In Land
+Q123413906,Q12994,Undirected,1,Geboorteplaats
+Q123413906,Q12994,Undirected,1,Woonplaats
+Q123413906,Q12994,Undirected,1,Sterfteplaats
+Q123413906,Q12994,Undirected,1,Werklocatie
+Q56036026,Q727,Undirected,1,Werklocatie
+Q56036026,Q36600,Undirected,1,Sterfteplaats
+Q56036026,Q932008,Undirected,1,Geboorteplaats
+Q531311,Q145,Undirected,1,In Land
+Q823623,Q31,Undirected,1,In Land
+Q1833538,Q31,Undirected,1,In Land
+Q116620970,Q84,Undirected,1,Sterfteplaats
+Q116620970,Q238803,Undirected,1,Geboorteplaats
+Q116620970,Q26523296,Undirected,1,Werklocatie
+Q116620970,Q189960,Undirected,1,Werklocatie
+Q3100236,Q31,Undirected,1,In Land
+Q115809464,Q739996,Undirected,1,Werklocatie
+Q115809464,Q12994,Undirected,1,Sterfteplaats
+Q115809464,Q102728,Undirected,1,Werklocatie
+Q115809464,Q506707,Undirected,1,Werklocatie
+Q115809464,Q506707,Undirected,1,Geboorteplaats
+Q115809464,Q590398,Undirected,1,Werklocatie
+Q121000890,Q204477,Undirected,1,Werklocatie
+Q719358,Q239,Undirected,1,Werklocatie
+Q719358,Q239,Undirected,1,Woonplaats
+Q719358,Q1296,Undirected,1,Geboorteplaats
+Q719358,Q12887,Undirected,1,Sterfteplaats
+Q115818718,Q12994,Undirected,1,Sterfteplaats
+Q115818718,Q12994,Undirected,1,Geboorteplaats
+Q115818718,Q12994,Undirected,1,Woonplaats
+Q115829884,Q12892,Undirected,1,Werklocatie
+Q115829884,Q818804,Undirected,1,Sterfteplaats
+Q115829884,Q743236,Undirected,1,Geboorteplaats
+Q115829884,Q162022,Undirected,1,Werklocatie
+Q7790140,Q1025511,Undirected,1,Geboorteplaats
+Q7790140,Q220,Undirected,1,Sterfteplaats
+Q120248482,Q18125,Undirected,1,Sterfteplaats
+Q120248482,Q18125,Undirected,1,Geboorteplaats
+Q261399,Q142,Undirected,1,In Land
+Q116687401,Q9783,Undirected,1,Geboorteplaats
+Q116687401,Q12887,Undirected,1,Woonplaats
+Q1012354,Q31,Undirected,1,In Land
+Q73221,Q55,Undirected,1,In Land
+Q651811,Q31,Undirected,1,In Land
+Q31555423,Q31,Undirected,1,In Land
+Q456550,Q31,Undirected,1,In Land
+Q190113,Q31,Undirected,1,In Land
+Q2248548,Q31,Undirected,1,In Land
+Q270633,Q31,Undirected,1,In Land
+Q182481,Q142,Undirected,1,In Land
+Q190959,Q193619,Undirected,1,In Land
+Q190959,Q258,Undirected,1,In Land
+Q600301,Q30,Undirected,1,In Land
+Q1143278,Q145,Undirected,1,In Land
+Q203312,Q31,Undirected,1,In Land
+Q116202,Q31,Undirected,1,In Land
+Q803,Q55,Undirected,1,In Land
+Q9768,Q55,Undirected,1,In Land
+Q125274323,Q392337,Undirected,1,Geboorteplaats
+Q125274323,Q12995,Undirected,1,Woonplaats
+Q125274323,Q6602,Undirected,1,Woonplaats
+Q125274323,Q6602,Undirected,1,Sterfteplaats
+Q24639,Q16,Undirected,1,In Land
+Q2137484,Q31,Undirected,1,In Land
+Q3445977,Q31,Undirected,1,In Land
+Q4555175,Q31,Undirected,1,In Land
+Q30,Q30,Undirected,1,In Land
+Q621,Q142,Undirected,1,In Land
+Q202954,Q31,Undirected,1,In Land
+Q602170,Q31,Undirected,1,In Land
+Q506707,Q31,Undirected,1,In Land
+Q1012357,Q31,Undirected,1,In Land
+Q3557112,Q12892,Undirected,1,Geboorteplaats
+Q3557112,Q239,Undirected,1,Werklocatie
+Q3557112,Q604222,Undirected,1,Sterfteplaats
+Q115818151,Q12994,Undirected,1,Werklocatie
+Q115818151,Q822748,Undirected,1,Werklocatie
+Q115818151,Q12995,Undirected,1,Werklocatie
+Q115818151,Q12995,Undirected,1,Sterfteplaats
+Q115818151,Q213224,Undirected,1,Geboorteplaats
+Q115818151,Q623310,Undirected,1,Werklocatie
+Q115818151,Q2352516,Undirected,1,Werklocatie
+Q115818151,Q651811,Undirected,1,Werklocatie
+Q80079104,Q1963590,Undirected,1,Geboorteplaats
+Q80079104,Q211037,Undirected,1,Werklocatie
+Q80079104,Q318532,Undirected,1,Werklocatie
+Q80079104,Q2337062,Undirected,1,Sterfteplaats
+Q80079104,Q2337062,Undirected,1,Werklocatie
+Q136747037,Q12994,Undirected,1,Werklocatie
+Q136747037,Q2692740,Undirected,1,Werklocatie
+Q136747037,Q2692740,Undirected,1,Sterfteplaats
+Q136747037,Q12995,Undirected,1,Geboorteplaats
+Q136747037,Q2053561,Undirected,1,Werklocatie
+Q51168899,Q12995,Undirected,1,Werklocatie
+Q51168899,Q822777,Undirected,1,Geboorteplaats
+Q115817390,Q2789957,Undirected,1,Werklocatie
+Q115817390,Q2006337,Undirected,1,Werklocatie
+Q115817390,Q2006337,Undirected,1,Sterfteplaats
+Q115817390,Q1827485,Undirected,1,Werklocatie
+Q115817390,Q12996,Undirected,1,Werklocatie
+Q115817390,Q211037,Undirected,1,Geboorteplaats
+Q115817390,Q211037,Undirected,1,Werklocatie
+Q118151362,Q739996,Undirected,1,Werklocatie
+Q118151362,Q12994,Undirected,1,Werklocatie
+Q118151362,Q12995,Undirected,1,Sterfteplaats
+Q118151362,Q12995,Undirected,1,Werklocatie
+Q118151362,Q651811,Undirected,1,Geboorteplaats
+Q118151362,Q318532,Undirected,1,Werklocatie
+Q113681935,Q2289081,Undirected,1,Geboorteplaats
+Q113681935,Q12994,Undirected,1,Werklocatie
+Q113681935,Q822748,Undirected,1,Werklocatie
+Q113681935,Q822748,Undirected,1,Sterfteplaats
+Q113681935,Q12995,Undirected,1,Werklocatie
+Q113681935,Q211037,Undirected,1,Werklocatie
+Q120920568,Q12995,Undirected,1,Werklocatie
+Q123615494,Q478797,Undirected,1,Werklocatie
+Q123615494,Q12995,Undirected,1,Geboorteplaats
+Q123615494,Q12995,Undirected,1,Woonplaats
+Q123615494,Q12995,Undirected,1,Sterfteplaats
+Q123615494,Q12995,Undirected,1,Werklocatie
+Q318418,Q31,Undirected,1,In Land
+Q115823191,Q12994,Undirected,1,Werklocatie
+Q115823191,Q12996,Undirected,1,Werklocatie
+Q115823191,Q1952054,Undirected,1,Geboorteplaats
+Q115823191,Q499588,Undirected,1,Werklocatie
+Q115823191,Q2352516,Undirected,1,Sterfteplaats
+Q115823191,Q2352516,Undirected,1,Werklocatie
+Q115823191,Q576579,Undirected,1,Werklocatie
+Q580227,Q31,Undirected,1,In Land
+Q125394996,Q2708072,Undirected,1,Geboorteplaats
+Q125394996,Q3110823,Undirected,1,Sterfteplaats
+Q456495,Q31,Undirected,1,In Land
+Q120629807,Q2488256,Undirected,1,Geboorteplaats
+Q120629807,Q118958,Undirected,1,Werklocatie
+Q125544971,Q739996,Undirected,1,Woonplaats
+Q125544971,Q12994,Undirected,1,Geboorteplaats
+Q125544971,Q192859,Undirected,1,Woonplaats
+Q125544971,Q430812,Undirected,1,Woonplaats
+Q125544971,Q228685,Undirected,1,Woonplaats
+Q284691,Q31,Undirected,1,In Land
+Q9337,Q31,Undirected,1,In Land
+Q234,Q31,Undirected,1,In Land
+Q234,Q142,Undirected,1,In Land
+Q234,Q55,Undirected,1,In Land
+Q1411366,Q31,Undirected,1,In Land
+Q2693056,Q31,Undirected,1,In Land
+Q641313,Q142,Undirected,1,In Land
+Q10084,Q55,Undirected,1,In Land
+Q1999262,Q31,Undirected,1,In Land
+Q2658385,Q31,Undirected,1,In Land
+Q848324,Q55,Undirected,1,In Land
+Q72946,Q31,Undirected,1,In Land
+Q2358119,Q31,Undirected,1,In Land
+Q1367576,Q55,Undirected,1,In Land
+Q911983,Q31,Undirected,1,In Land
+Q587906,Q31,Undirected,1,In Land
+Q3110836,Q31,Undirected,1,In Land
+Q322106,Q350,Undirected,1,Sterfteplaats
+Q322106,Q350,Undirected,1,Werklocatie
+Q322106,Q84,Undirected,1,Geboorteplaats
+Q2629754,Q31,Undirected,1,In Land
+Q204547,Q31,Undirected,1,In Land
+Q55453014,Q408,Undirected,1,In Land
+Q549761,Q145,Undirected,1,In Land
+Q1223,Q30,Undirected,1,In Land
+Q1380709,Q30,Undirected,1,In Land
+Q23661,Q664,Undirected,1,In Land
+Q1354834,Q31,Undirected,1,In Land
+Q2091146,Q31,Undirected,1,In Land
+Q318532,Q31,Undirected,1,In Land
+Q1356,Q668,Undirected,1,In Land
+Q1113,Q31,Undirected,1,In Land
+Q475931,Q31,Undirected,1,In Land
+Q2107664,Q31,Undirected,1,In Land
+Q2006454,Q31,Undirected,1,In Land
+Q189960,Q145,Undirected,1,In Land
+Q2231539,Q31,Undirected,1,In Land
+Q2556717,Q31,Undirected,1,In Land
+Q643980,Q31,Undirected,1,In Land
+Q392343,Q31,Undirected,1,In Land
+Q730801,Q31,Undirected,1,In Land
+Q1012502,Q145,Undirected,1,In Land
+Q339395,Q31,Undirected,1,In Land
+Q488688,Q31,Undirected,1,In Land
+Q1721,Q183,Undirected,1,In Land
+Q2174414,Q31,Undirected,1,In Land
+Q29019503,Q1296,Undirected,1,Geboorteplaats
+Q29019503,Q1296,Undirected,1,Werklocatie
+Q29019503,Q1296,Undirected,1,Woonplaats
+Q29019503,Q43631,Undirected,1,Werklocatie
+Q29019503,Q43631,Undirected,1,Woonplaats
+Q29019503,Q34370,Undirected,1,Werklocatie
+Q29019503,Q34370,Undirected,1,Woonplaats
+Q29019503,Q848324,Undirected,1,Sterfteplaats
+Q18093100,Q36600,Undirected,1,Sterfteplaats
+Q18093100,Q749,Undirected,1,Werklocatie
+Q18093100,Q2195310,Undirected,1,Geboorteplaats
+Q18093100,Q34370,Undirected,1,Werklocatie
+Q18093100,Q73221,Undirected,1,Werklocatie
+Q132679,Q25279,Undirected,1,In Land
+Q118644563,Q184579,Undirected,1,Werklocatie
+Q118644563,Q100,Undirected,1,Sterfteplaats
+Q118644563,Q2564391,Undirected,1,Geboorteplaats
+Q118644563,Q24826,Undirected,1,Werklocatie
+Q2062803,Q2256,Undirected,1,Werklocatie
+Q2062803,Q12994,Undirected,1,Werklocatie
+Q2062803,Q12994,Undirected,1,Woonplaats
+Q2062803,Q146659,Undirected,1,Woonplaats
+Q2062803,Q84,Undirected,1,Sterfteplaats
+Q2062803,Q123634,Undirected,1,Geboorteplaats
+Q2062803,Q1045096,Undirected,1,Werklocatie
+Q125535061,Q1425428,Undirected,1,Geboorteplaats
+Q125535061,Q1425428,Undirected,1,Woonplaats
+Q125535061,Q1425428,Undirected,1,Sterfteplaats
+Q125535061,Q12994,Undirected,1,Woonplaats
+Q125535061,Q102728,Undirected,1,Woonplaats
+Q120471627,Q179815,Undirected,1,Werklocatie
+Q118766019,Q12994,Undirected,1,Woonplaats
+Q118766019,Q12994,Undirected,1,Sterfteplaats
+Q118766019,Q1761,Undirected,1,Geboorteplaats
+Q1817149,Q31,Undirected,1,In Land
+Q576579,Q31,Undirected,1,In Land
+Q735797,Q31,Undirected,1,In Land
+Q1939661,Q31,Undirected,1,In Land
+Q839037,Q31,Undirected,1,In Land
+Q2227700,Q31,Undirected,1,In Land
+Q1164598,Q55,Undirected,1,In Land
+Q670807,Q142,Undirected,1,In Land
+Q840935,Q31,Undirected,1,In Land
+Q2041336,Q31,Undirected,1,In Land
+Q3110832,Q31,Undirected,1,In Land
+Q3012273,Q31,Undirected,1,In Land
+Q163,Q145,Undirected,1,In Land
+Q1012476,Q27,Undirected,1,In Land
+Q2017210,Q31,Undirected,1,In Land
+Q146811,Q30,Undirected,1,In Land
+Q2316093,Q31,Undirected,1,In Land
+Q184287,Q31,Undirected,1,In Land
+Q3474073,Q31,Undirected,1,In Land
+Q388115,Q31,Undirected,1,In Land
+Q14062,Q31,Undirected,1,In Land
+Q2161674,Q31,Undirected,1,In Land
+Q1160270,Q142,Undirected,1,In Land
+Q1152274,Q142,Undirected,1,In Land
+Q3110851,Q31,Undirected,1,In Land
+Q2337062,Q31,Undirected,1,In Land
+Q204477,Q31,Undirected,1,In Land
+Q218497,Q31,Undirected,1,In Land
+Q219827,Q31,Undirected,1,In Land
+Q133769,Q31,Undirected,1,In Land
+Q214154,Q31,Undirected,1,In Land
+Q258,Q258,Undirected,1,In Land
+Q228685,Q31,Undirected,1,In Land
+Q116620896,Q822783,Undirected,1,Sterfteplaats
+Q116620896,Q822783,Undirected,1,Geboorteplaats
+Q244513,Q31,Undirected,1,In Land
+Q39,Q39,Undirected,1,In Land
+Q590398,Q31,Undirected,1,In Land
+Q120514200,Q332310,Undirected,1,Geboorteplaats
+Q120514200,Q332310,Undirected,1,Sterfteplaats
+Q1425428,Q145,Undirected,1,Stad ligt in land
+Q5125864,Q145,Undirected,1,Stad ligt in land
+Q5688340,Q145,Undirected,1,Stad ligt in land
+Q67574558,Q145,Undirected,1,Stad ligt in land
+Q7650196,Q145,Undirected,1,Stad ligt in land
+Q7683408,Q833,Undirected,1,Stad ligt in land
+Q1809061,Q55,Undirected,1,Stad ligt in land
+Q2766547,Q55,Undirected,1,Stad ligt in land
+Q2603716,Q31,Undirected,1,Stad ligt in land
+Q13121,Q31,Undirected,1,Stad ligt in land
+Q300970,Q31,Undirected,1,Stad ligt in land
+Q955,Q55,Undirected,1,Stad ligt in land
+Q273442,Q31,Undirected,1,Stad ligt in land
+Q2750562,Q31,Undirected,1,Stad ligt in land
+Q2751461,Q31,Undirected,1,Stad ligt in land
+Q95096,Q31,Undirected,1,Stad ligt in land
+Q36405,Q145,Undirected,1,Stad ligt in land
+Q1622949,Q145,Undirected,1,Stad ligt in land
+Q301745,Q31,Undirected,1,Stad ligt in land
+Q47465,Q142,Undirected,1,Stad ligt in land
+Q1017,Q183,Undirected,1,Stad ligt in land
+Q661993,Q31,Undirected,1,Stad ligt in land
+Q448840,Q31,Undirected,1,Stad ligt in land
+Q727,Q55,Undirected,1,Stad ligt in land
+Q9899,Q55,Undirected,1,Stad ligt in land
+Q12886,Q31,Undirected,1,Stad ligt in land
+Q499594,Q31,Undirected,1,Stad ligt in land
+Q126898,Q142,Undirected,1,Stad ligt in land
+Q12892,Q31,Undirected,1,Stad ligt in land
+Q614274,Q31,Undirected,1,Stad ligt in land
+Q724577,Q31,Undirected,1,Stad ligt in land
+Q632471,Q30,Undirected,1,Stad ligt in land
+Q639974,Q31,Undirected,1,Stad ligt in land
+Q414,Q414,Undirected,1,Stad ligt in land
+Q716658,Q145,Undirected,1,Stad ligt in land
+Q2741141,Q31,Undirected,1,Stad ligt in land
+Q3474562,Q31,Undirected,1,Stad ligt in land
+Q739996,Q31,Undirected,1,Stad ligt in land
+Q408,Q408,Undirected,1,Stad ligt in land
+Q177133,Q31,Undirected,1,Stad ligt in land
+Q842943,Q31,Undirected,1,Stad ligt in land
+Q2878342,Q31,Undirected,1,Stad ligt in land
+Q723651,Q31,Undirected,1,Stad ligt in land
+Q17856,Q408,Undirected,1,Stad ligt in land
+Q1492,Q29,Undirected,1,Stad ligt in land
+Q4865580,Q145,Undirected,1,Stad ligt in land
+Q22889,Q145,Undirected,1,Stad ligt in land
+Q4869146,Q145,Undirected,1,Stad ligt in land
+Q705013,Q31,Undirected,1,Stad ligt in land
+Q41890,Q145,Undirected,1,Stad ligt in land
+Q2660843,Q145,Undirected,1,Stad ligt in land
+Q687921,Q31,Undirected,1,Stad ligt in land
+Q2789957,Q31,Undirected,1,Stad ligt in land
+Q10686,Q145,Undirected,1,Stad ligt in land
+Q332310,Q142,Undirected,1,Stad ligt in land
+Q2346906,Q31,Undirected,1,Stad ligt in land
+Q79980,Q668,Undirected,1,Stad ligt in land
+Q708708,Q183,Undirected,1,Stad ligt in land
+Q818804,Q31,Undirected,1,Stad ligt in land
+Q2896939,Q31,Undirected,1,Stad ligt in land
+Q334301,Q142,Undirected,1,Stad ligt in land
+Q49345973,Q142,Undirected,1,Stad ligt in land
+Q83407,Q31,Undirected,1,Stad ligt in land
+Q242407,Q31,Undirected,1,Stad ligt in land
+Q793584,Q31,Undirected,1,Stad ligt in land
+Q64,Q183,Undirected,1,Stad ligt in land
+Q1988823,Q31,Undirected,1,Stad ligt in land
+Q270644,Q31,Undirected,1,Stad ligt in land
+Q2636574,Q31,Undirected,1,Stad ligt in land
+Q2289081,Q31,Undirected,1,Stad ligt in land
+Q2480040,Q31,Undirected,1,Stad ligt in land
+Q851718,Q145,Undirected,1,Stad ligt in land
+Q2371714,Q31,Undirected,1,Stad ligt in land
+Q2412352,Q55,Undirected,1,Stad ligt in land
+Q2256,Q145,Undirected,1,Stad ligt in land
+Q873205,Q145,Undirected,1,Stad ligt in land
+Q875554,Q145,Undirected,1,Stad ligt in land
+Q2708072,Q31,Undirected,1,Stad ligt in land
+Q188313,Q145,Undirected,1,Stad ligt in land
+Q328104,Q31,Undirected,1,Stad ligt in land
+Q890339,Q31,Undirected,1,Stad ligt in land
+Q184579,Q145,Undirected,1,Stad ligt in land
+Q4940251,Q145,Undirected,1,Stad ligt in land
+Q586,Q183,Undirected,1,Stad ligt in land
+Q954682,Q31,Undirected,1,Stad ligt in land
+Q723972,Q31,Undirected,1,Stad ligt in land
+Q834850,Q31,Undirected,1,Stad ligt in land
+Q499609,Q31,Undirected,1,Stad ligt in land
+Q1021461,Q31,Undirected,1,Stad ligt in land
+Q100,Q30,Undirected,1,Stad ligt in land
+Q217216,Q31,Undirected,1,Stad ligt in land
+Q81997,Q142,Undirected,1,Stad ligt in land
+Q170478,Q145,Undirected,1,Stad ligt in land
+Q2854293,Q31,Undirected,1,Stad ligt in land
+Q1987052,Q55,Undirected,1,Stad ligt in land
+Q122607,Q145,Undirected,1,Stad ligt in land
+Q693513,Q31,Undirected,1,Stad ligt in land
+Q2773,Q183,Undirected,1,Stad ligt in land
+Q742920,Q31,Undirected,1,Stad ligt in land
+Q1013528,Q145,Undirected,1,Stad ligt in land
+Q12193,Q142,Undirected,1,Stad ligt in land
+Q2510121,Q31,Undirected,1,Stad ligt in land
+Q131491,Q145,Undirected,1,Stad ligt in land
+Q34932,Q408,Undirected,1,Stad ligt in land
+Q23154,Q145,Undirected,1,Stad ligt in land
+Q1054923,Q145,Undirected,1,Stad ligt in land
+Q918153,Q145,Undirected,1,Stad ligt in land
+Q129286,Q8680,Undirected,1,Stad ligt in land
+Q146690,Q145,Undirected,1,Stad ligt in land
+Q180356,Q145,Undirected,1,Stad ligt in land
+Q2926028,Q145,Undirected,1,Stad ligt in land
+Q4974338,Q145,Undirected,1,Stad ligt in land
+Q12994,Q31,Undirected,1,Stad ligt in land
+Q239,Q31,Undirected,1,Stad ligt in land
+Q1486,Q414,Undirected,1,Stad ligt in land
+Q202309,Q31,Undirected,1,Stad ligt in land
+Q2928134,Q31,Undirected,1,Stad ligt in land
+Q516951,Q27,Undirected,1,Stad ligt in land
+Q864668,Q145,Undirected,1,Stad ligt in land
+Q1348,Q668,Undirected,1,Stad ligt in land
+Q1027584,Q145,Undirected,1,Stad ligt in land
+Q385060,Q145,Undirected,1,Stad ligt in land
+Q350,Q145,Undirected,1,Stad ligt in land
+Q16,Q16,Undirected,1,Stad ligt in land
+Q743535,Q145,Undirected,1,Stad ligt in land
+Q1297,Q30,Undirected,1,Stad ligt in land
+Q29520,,Undirected,1,Stad ligt in land
+Q2564391,Q145,Undirected,1,Stad ligt in land
+Q1065474,Q145,Undirected,1,Stad ligt in land
+Q925424,Q145,Undirected,1,Stad ligt in land
+Q146659,Q145,Undirected,1,Stad ligt in land
+Q5125871,Q145,Undirected,1,Stad ligt in land
+Q2376216,Q145,Undirected,1,Stad ligt in land
+Q2031231,Q27,Undirected,1,Stad ligt in land
+Q187402,Q27,Undirected,1,Stad ligt in land
+Q747599,Q30,Undirected,1,Stad ligt in land
+Q587996,Q145,Undirected,1,Stad ligt in land
+Q239091,Q142,Undirected,1,Stad ligt in land
+Q1861723,Q31,Undirected,1,Stad ligt in land
+Q659895,Q27,Undirected,1,Stad ligt in land
+Q323408,Q31,Undirected,1,Stad ligt in land
+Q577334,Q30,Undirected,1,Stad ligt in land
+Q921682,Q31,Undirected,1,Stad ligt in land
+Q674954,Q31,Undirected,1,Stad ligt in land
+Q960518,Q30,Undirected,1,Stad ligt in land
+Q822771,Q31,Undirected,1,Stad ligt in land
+Q21768611,Q31,Undirected,1,Stad ligt in land
+Q1991101,Q31,Undirected,1,Stad ligt in land
+Q36600,Q55,Undirected,1,Stad ligt in land
+Q696825,Q31,Undirected,1,Stad ligt in land
+Q13122,Q31,Undirected,1,Stad ligt in land
+Q742906,Q31,Undirected,1,Stad ligt in land
+Q1988333,Q31,Undirected,1,Stad ligt in land
+Q12439,Q30,Undirected,1,Stad ligt in land
+Q1026699,Q145,Undirected,1,Stad ligt in land
+Q23156,Q145,Undirected,1,Stad ligt in land
+Q743236,Q31,Undirected,1,Stad ligt in land
+Q7003,Q142,Undirected,1,Stad ligt in land
+Q2199190,Q31,Undirected,1,Stad ligt in land
+Q215244,Q31,Undirected,1,Stad ligt in land
+Q533936,Q31,Undirected,1,Stad ligt in land
+Q165736,Q55,Undirected,1,Stad ligt in land
+Q3033905,Q31,Undirected,1,Stad ligt in land
+Q173219,Q31,Undirected,1,Stad ligt in land
+Q2022299,Q31,Undirected,1,Stad ligt in land
+Q23159,Q145,Undirected,1,Stad ligt in land
+Q2692740,Q31,Undirected,1,Stad ligt in land
+Q2117660,Q31,Undirected,1,Stad ligt in land
+Q688377,Q31,Undirected,1,Stad ligt in land
+Q207223,Q27,Undirected,1,Stad ligt in land
+Q1260195,Q31,Undirected,1,Stad ligt in land
+Q1761,Q27,Undirected,1,Stad ligt in land
+Q3040923,Q31,Undirected,1,Stad ligt in land
+Q45797,Q142,Undirected,1,Stad ligt in land
+Q34779,Q145,Undirected,1,Stad ligt in land
+Q204956,Q27,Undirected,1,Stad ligt in land
+Q179815,Q145,Undirected,1,Stad ligt in land
+Q1610804,Q145,Undirected,1,Stad ligt in land
+Q23436,Q145,Undirected,1,Stad ligt in land
+Q2006337,Q31,Undirected,1,Stad ligt in land
+Q3049134,Q31,Undirected,1,Stad ligt in land
+Q2526091,Q31,Undirected,1,Stad ligt in land
+Q2693730,Q31,Undirected,1,Stad ligt in land
+Q12012813,Q31,Undirected,1,Stad ligt in land
+Q2488256,Q31,Undirected,1,Stad ligt in land
+Q1021018,Q262,Undirected,1,Stad ligt in land
+Q2803757,Q31,Undirected,1,Stad ligt in land
+Q1981740,Q145,Undirected,1,Stad ligt in land
+Q2475316,Q31,Undirected,1,Stad ligt in land
+Q208713,Q31,Undirected,1,Stad ligt in land
+Q2575787,Q31,Undirected,1,Stad ligt in land
+Q2681034,Q31,Undirected,1,Stad ligt in land
+Q6697,Q38,Undirected,1,Stad ligt in land
+Q1219676,Q145,Undirected,1,Stad ligt in land
+Q21,Q145,Undirected,1,Stad ligt in land
+Q44762,Q414,Undirected,1,Stad ligt in land
+Q2085862,Q31,Undirected,1,Stad ligt in land
+Q724283,Q31,Undirected,1,Stad ligt in land
+Q2261514,Q31,Undirected,1,Stad ligt in land
+Q192859,Q31,Undirected,1,Stad ligt in land
+Q2309565,Q31,Undirected,1,Stad ligt in land
+Q12997,Q31,Undirected,1,Stad ligt in land
+Q663930,Q142,Undirected,1,Stad ligt in land
+Q2044,Q38,Undirected,1,Stad ligt in land
+Q3074712,Q31,Undirected,1,Stad ligt in land
+Q1010212,Q145,Undirected,1,Stad ligt in land
+Q142,Q142,Undirected,1,Stad ligt in land
+Q464454,Q31,Undirected,1,Stad ligt in land
+Q949276,Q31,Undirected,1,Stad ligt in land
+Q1963590,Q31,Undirected,1,Stad ligt in land
+Q1296,Q31,Undirected,1,Stad ligt in land
+Q499532,Q31,Undirected,1,Stad ligt in land
+Q1021457,Q31,Undirected,1,Stad ligt in land
+Q815948,Q31,Undirected,1,Stad ligt in land
+Q2625637,Q31,Undirected,1,Stad ligt in land
+Q984868,Q31,Undirected,1,Stad ligt in land
+Q4093,Q145,Undirected,1,Stad ligt in land
+Q383912,Q145,Undirected,1,Stad ligt in land
+Q81220,Q55,Undirected,1,Stad ligt in land
+Q749,Q55,Undirected,1,Stad ligt in land
+Q23666,Q145,Undirected,1,Stad ligt in land
+Q23306,Q145,Undirected,1,Stad ligt in land
+Q769160,Q142,Undirected,1,Stad ligt in land
+Q1978079,Q31,Undirected,1,Stad ligt in land
+Q1557796,Q954,Undirected,1,Stad ligt in land
+Q9920,Q55,Undirected,1,Stad ligt in land
+Q1361,Q668,Undirected,1,Stad ligt in land
+Q109042,Q20,Undirected,1,Stad ligt in land
+Q631265,Q142,Undirected,1,Stad ligt in land
+Q210003,Q31,Undirected,1,Stad ligt in land
+Q391294,Q31,Undirected,1,Stad ligt in land
+Q277162,Q145,Undirected,1,Stad ligt in land
+Q25610,Q145,Undirected,1,Stad ligt in land
+Q2741641,Q31,Undirected,1,Stad ligt in land
+Q2647040,Q31,Undirected,1,Stad ligt in land
+Q478797,Q31,Undirected,1,Stad ligt in land
+Q58780,Q31,Undirected,1,Stad ligt in land
+Q29245,Q145,Undirected,1,Stad ligt in land
+Q473892,Q142,Undirected,1,Stad ligt in land
+Q5685502,Q145,Undirected,1,Stad ligt in land
+Q11131,Q142,Undirected,1,Stad ligt in land
+Q2195310,Q55,Undirected,1,Stad ligt in land
+Q1849663,Q31,Undirected,1,Stad ligt in land
+Q2966,Q183,Undirected,1,Stad ligt in land
+Q2974907,Q31,Undirected,1,Stad ligt in land
+Q2134798,Q31,Undirected,1,Stad ligt in land
+Q724448,Q31,Undirected,1,Stad ligt in land
+Q842744,Q31,Undirected,1,Stad ligt in land
+Q9681,Q145,Undirected,1,Stad ligt in land
+Q3110823,Q31,Undirected,1,Stad ligt in land
+Q1966966,Q31,Undirected,1,Stad ligt in land
+Q9845,Q55,Undirected,1,Stad ligt in land
+Q124394,Q145,Undirected,1,Stad ligt in land
+Q123947,Q145,Undirected,1,Stad ligt in land
+Q9934,Q55,Undirected,1,Stad ligt in land
+Q267663,Q31,Undirected,1,Stad ligt in land
+Q207095,Q31,Undirected,1,Stad ligt in land
+Q641278,Q31,Undirected,1,Stad ligt in land
+Q2004020,Q31,Undirected,1,Stad ligt in land
+Q696907,Q31,Undirected,1,Stad ligt in land
+Q724638,Q31,Undirected,1,Stad ligt in land
+Q1840847,Q31,Undirected,1,Stad ligt in land
+Q696942,Q31,Undirected,1,Stad ligt in land
+Q3051137,Q145,Undirected,1,Stad ligt in land
+Q1990660,Q31,Undirected,1,Stad ligt in land
+Q189,Q189,Undirected,1,Stad ligt in land
+Q281181,Q31,Undirected,1,Stad ligt in land
+Q102728,Q31,Undirected,1,Stad ligt in land
+Q213137,,Undirected,1,Stad ligt in land
+Q822748,Q31,Undirected,1,Stad ligt in land
+Q1012352,Q31,Undirected,1,Stad ligt in land
+Q125163,Q145,Undirected,1,Stad ligt in land
+Q38,Q38,Undirected,1,Stad ligt in land
+Q392337,Q31,Undirected,1,Stad ligt in land
+Q2551514,Q55,Undirected,1,Stad ligt in land
+Q2863278,Q31,Undirected,1,Stad ligt in land
+Q2333747,Q31,Undirected,1,Stad ligt in land
+Q492453,Q31,Undirected,1,Stad ligt in land
+Q203197,Q854,Undirected,1,Stad ligt in land
+Q111434472,Q31,Undirected,1,Stad ligt in land
+Q705020,Q31,Undirected,1,Stad ligt in land
+Q3181967,Q31,Undirected,1,Stad ligt in land
+Q1024880,Q31,Undirected,1,Stad ligt in land
+Q288781,Q145,Undirected,1,Stad ligt in land
+Q1012349,Q31,Undirected,1,Stad ligt in land
+Q3195527,Q31,Undirected,1,Stad ligt in land
+Q951571,Q31,Undirected,1,Stad ligt in land
+Q6403209,Q843,Undirected,1,Stad ligt in land
+Q15238339,Q974,Undirected,1,Stad ligt in land
+Q13123333,Q924,Undirected,1,Stad ligt in land
+Q3196450,Q31,Undirected,1,Stad ligt in land
+Q623382,Q27,Undirected,1,Stad ligt in land
+Q32508,Q145,Undirected,1,Stad ligt in land
+Q2321706,Q145,Undirected,1,Stad ligt in land
+Q3838,Q974,Undirected,1,Stad ligt in land
+Q498655,Q31,Undirected,1,Stad ligt in land
+Q1937157,Q31,Undirected,1,Stad ligt in land
+Q912069,Q31,Undirected,1,Stad ligt in land
+Q822795,Q31,Undirected,1,Stad ligt in land
+Q2463781,Q31,Undirected,1,Stad ligt in land
+Q76048,,Undirected,1,Stad ligt in land
+Q2731701,Q31,Undirected,1,Stad ligt in land
+Q2746117,Q31,Undirected,1,Stad ligt in land
+Q2181673,Q31,Undirected,1,Stad ligt in land
+Q3198907,Q31,Undirected,1,Stad ligt in land
+Q822763,Q31,Undirected,1,Stad ligt in land
+Q12995,Q31,Undirected,1,Stad ligt in land
+Q21767298,Q31,Undirected,1,Stad ligt in land
+Q817375,Q31,Undirected,1,Stad ligt in land
+Q731501,Q31,Undirected,1,Stad ligt in land
+Q11739,Q843,Undirected,1,Stad ligt in land
+Q202059,Q145,Undirected,1,Stad ligt in land
+Q23077,Q145,Undirected,1,Stad ligt in land
+Q943502,Q31,Undirected,1,Stad ligt in land
+Q726498,Q31,Undirected,1,Stad ligt in land
+Q62132,Q33,Undirected,1,Stad ligt in land
+Q62132,Q20,Undirected,1,Stad ligt in land
+Q62132,Q159,Undirected,1,Stad ligt in land
+Q62132,Q34,Undirected,1,Stad ligt in land
+Q2127148,Q31,Undirected,1,Stad ligt in land
+Q2802143,Q31,Undirected,1,Stad ligt in land
+Q735842,Q31,Undirected,1,Stad ligt in land
+Q25390,Q55,Undirected,1,Stad ligt in land
+Q1827485,Q31,Undirected,1,Stad ligt in land
+Q43631,Q55,Undirected,1,Stad ligt in land
+Q2079,Q183,Undirected,1,Stad ligt in land
+Q12993,Q31,Undirected,1,Stad ligt in land
+Q696887,Q31,Undirected,1,Stad ligt in land
+Q736120,Q31,Undirected,1,Stad ligt in land
+Q690948,Q31,Undirected,1,Stad ligt in land
+Q118958,Q31,Undirected,1,Stad ligt in land
+Q696871,Q31,Undirected,1,Stad ligt in land
+Q12460,Q31,Undirected,1,Stad ligt in land
+Q1025511,Q142,Undirected,1,Stad ligt in land
+Q133315,Q27,Undirected,1,Stad ligt in land
+Q2049606,Q31,Undirected,1,Stad ligt in land
+Q1924402,Q31,Undirected,1,Stad ligt in land
+Q24826,Q145,Undirected,1,Stad ligt in land
+Q2791245,Q31,Undirected,1,Stad ligt in land
+Q822790,Q31,Undirected,1,Stad ligt in land
+Q735827,Q31,Undirected,1,Stad ligt in land
+Q2132237,Q31,Undirected,1,Stad ligt in land
+Q1998586,Q31,Undirected,1,Stad ligt in land
+Q84,Q145,Undirected,1,Stad ligt in land
+Q587819,Q31,Undirected,1,Stad ligt in land
+Q1626288,Q145,Undirected,1,Stad ligt in land
+Q274325,Q142,Undirected,1,Stad ligt in land
+Q2340735,Q31,Undirected,1,Stad ligt in land
+Q3475001,Q31,Undirected,1,Stad ligt in land
+Q840968,Q31,Undirected,1,Stad ligt in land
+Q3992,Q31,Undirected,1,Stad ligt in land
+Q261414,Q142,Undirected,1,Stad ligt in land
+Q4191,Q39,Undirected,1,Stad ligt in land
+Q932008,Q55,Undirected,1,Stad ligt in land
+Q1309,Q55,Undirected,1,Stad ligt in land
+Q3234954,Q31,Undirected,1,Stad ligt in land
+Q2807,Q29,Undirected,1,Stad ligt in land
+Q238803,Q145,Undirected,1,Stad ligt in land
+Q498858,Q142,Undirected,1,Stad ligt in land
+Q12896,Q31,Undirected,1,Stad ligt in land
+Q18125,Q145,Undirected,1,Stad ligt in land
+Q13581283,Q31,Undirected,1,Stad ligt in land
+Q100037,Q55,Undirected,1,Stad ligt in land
+Q13815099,Q31,Undirected,1,Stad ligt in land
+Q1015356,Q31,Undirected,1,Stad ligt in land
+Q2166168,Q31,Undirected,1,Stad ligt in land
+Q3099657,Q31,Undirected,1,Stad ligt in land
+Q2535447,Q31,Undirected,1,Stad ligt in land
+Q23482,Q142,Undirected,1,Stad ligt in land
+Q123634,Q145,Undirected,1,Stad ligt in land
+Q597997,Q31,Undirected,1,Stad ligt in land
+Q211073,Q974,Undirected,1,Stad ligt in land
+Q2656389,Q1027,Undirected,1,Stad ligt in land
+Q2166865,Q31,Undirected,1,Stad ligt in land
+Q162022,Q31,Undirected,1,Stad ligt in land
+Q2132066,Q31,Undirected,1,Stad ligt in land
+Q2561079,Q31,Undirected,1,Stad ligt in land
+Q1849098,Q31,Undirected,1,Stad ligt in land
+Q696355,Q31,Undirected,1,Stad ligt in land
+Q2565209,Q31,Undirected,1,Stad ligt in land
+Q1018423,Q145,Undirected,1,Stad ligt in land
+Q2794293,Q31,Undirected,1,Stad ligt in land
+Q213224,Q31,Undirected,1,Stad ligt in land
+Q912106,Q31,Undirected,1,Stad ligt in land
+Q985789,Q31,Undirected,1,Stad ligt in land
+Q187755,Q31,Undirected,1,Stad ligt in land
+Q2326156,Q31,Undirected,1,Stad ligt in land
+Q680624,Q142,Undirected,1,Stad ligt in land
+Q737077,Q31,Undirected,1,Stad ligt in land
+Q822783,Q31,Undirected,1,Stad ligt in land
+Q63923,Q31,Undirected,1,Stad ligt in land
+Q1166,Q30,Undirected,1,Stad ligt in land
+Q2786493,Q31,Undirected,1,Stad ligt in land
+Q52101,Q55,Undirected,1,Stad ligt in land
+Q492369,Q31,Undirected,1,Stad ligt in land
+Q19186,Q145,Undirected,1,Stad ligt in land
+Q149688,Q145,Undirected,1,Stad ligt in land
+Q377429,Q31,Undirected,1,Stad ligt in land
+Q2041206,Q31,Undirected,1,Stad ligt in land
+Q724573,Q31,Undirected,1,Stad ligt in land
+Q220145,Q31,Undirected,1,Stad ligt in land
+Q1123846,Q142,Undirected,1,Stad ligt in land
+Q711,Q711,Undirected,1,Stad ligt in land
+Q995533,Q30,Undirected,1,Stad ligt in land
+Q2223904,Q31,Undirected,1,Stad ligt in land
+Q340,Q16,Undirected,1,Stad ligt in land
+Q780561,Q31,Undirected,1,Stad ligt in land
+Q628733,Q31,Undirected,1,Stad ligt in land
+Q688781,Q31,Undirected,1,Stad ligt in land
+Q83317,Q796,Undirected,1,Stad ligt in land
+Q1431633,Q30,Undirected,1,Stad ligt in land
+Q1726,Q183,Undirected,1,Stad ligt in land
+Q2742,Q183,Undirected,1,Stad ligt in land
+Q134121,Q31,Undirected,1,Stad ligt in land
+Q12191,Q142,Undirected,1,Stad ligt in land
+Q580315,Q31,Undirected,1,Stad ligt in land
+Q616933,Q31,Undirected,1,Stad ligt in land
+Q2436688,Q31,Undirected,1,Stad ligt in land
+Q822651,Q31,Undirected,1,Stad ligt in land
+Q60,Q30,Undirected,1,Stad ligt in land
+Q1384,Q30,Undirected,1,Stad ligt in land
+Q987754,Q27,Undirected,1,Stad ligt in land
+Q101254,Q145,Undirected,1,Stad ligt in land
+Q243851,Q142,Undirected,1,Stad ligt in land
+Q664,Q664,Undirected,1,Stad ligt in land
+Q1847545,Q31,Undirected,1,Stad ligt in land
+Q1865404,Q31,Undirected,1,Stad ligt in land
+Q623310,Q31,Undirected,1,Stad ligt in land
+Q2442951,Q30,Undirected,1,Stad ligt in land
+Q661710,Q142,Undirected,1,Stad ligt in land
+Q2346321,Q31,Undirected,1,Stad ligt in land
+Q1060664,Q142,Undirected,1,Stad ligt in land
+Q2042895,Q31,Undirected,1,Stad ligt in land
+Q84957520,Q55,Undirected,1,Stad ligt in land
+Q20,Q20,Undirected,1,Stad ligt in land
+Q23109,Q145,Undirected,1,Stad ligt in land
+Q7056086,Q145,Undirected,1,Stad ligt in land
+Q215354,Q145,Undirected,1,Stad ligt in land
+Q41262,Q145,Undirected,1,Stad ligt in land
+Q23092,Q145,Undirected,1,Stad ligt in land
+Q1909412,Q31,Undirected,1,Stad ligt in land
+Q1023248,Q31,Undirected,1,Stad ligt in land
+Q650376,Q31,Undirected,1,Stad ligt in land
+Q2398408,Q31,Undirected,1,Stad ligt in land
+Q1876354,Q31,Undirected,1,Stad ligt in land
+Q4613418,Q31,Undirected,1,Stad ligt in land
+Q28301,Q155,Undirected,1,Stad ligt in land
+Q950007,Q31,Undirected,1,Stad ligt in land
+Q2400293,Q31,Undirected,1,Stad ligt in land
+Q2314278,Q31,Undirected,1,Stad ligt in land
+Q12996,Q31,Undirected,1,Stad ligt in land
+Q742892,Q31,Undirected,1,Stad ligt in land
+Q1939288,Q31,Undirected,1,Stad ligt in land
+Q2191886,Q31,Undirected,1,Stad ligt in land
+Q1952054,Q31,Undirected,1,Stad ligt in land
+Q822777,Q31,Undirected,1,Stad ligt in land
+Q2555902,Q31,Undirected,1,Stad ligt in land
+Q14988,Q31,Undirected,1,Stad ligt in land
+Q930292,Q31,Undirected,1,Stad ligt in land
+Q2491546,Q31,Undirected,1,Stad ligt in land
+Q12992,Q31,Undirected,1,Stad ligt in land
+Q835128,Q31,Undirected,1,Stad ligt in land
+Q705028,Q31,Undirected,1,Stad ligt in land
+Q2106759,Q31,Undirected,1,Stad ligt in land
+Q599127,Q31,Undirected,1,Stad ligt in land
+Q107986613,Q31,Undirected,1,Stad ligt in land
+Q2580321,Q31,Undirected,1,Stad ligt in land
+Q34217,Q145,Undirected,1,Stad ligt in land
+Q124230,Q145,Undirected,1,Stad ligt in land
+Q3892762,Q38,Undirected,1,Stad ligt in land
+Q44213,Q414,Undirected,1,Stad ligt in land
+Q90,Q142,Undirected,1,Stad ligt in land
+Q255575,Q31,Undirected,1,Stad ligt in land
+Q188096,Q833,Undirected,1,Stad ligt in land
+Q2209469,Q145,Undirected,1,Stad ligt in land
+Q208209,Q145,Undirected,1,Stad ligt in land
+Q233129,Q30,Undirected,1,Stad ligt in land
+Q1884650,Q31,Undirected,1,Stad ligt in land
+Q203000,Q145,Undirected,1,Stad ligt in land
+Q2053561,Q31,Undirected,1,Stad ligt in land
+Q2174334,Q31,Undirected,1,Stad ligt in land
+Q185591,Q258,Undirected,1,Stad ligt in land
+Q2404540,Q145,Undirected,1,Stad ligt in land
+Q651724,Q31,Undirected,1,Stad ligt in land
+Q2351222,Q31,Undirected,1,Stad ligt in land
+Q3475027,Q31,Undirected,1,Stad ligt in land
+Q2026781,Q31,Undirected,1,Stad ligt in land
+Q2414284,Q31,Undirected,1,Stad ligt in land
+Q499588,Q31,Undirected,1,Stad ligt in land
+Q36433,Q45,Undirected,1,Stad ligt in land
+Q28599921,Q145,Undirected,1,Stad ligt in land
+Q184090,Q145,Undirected,1,Stad ligt in land
+Q1003559,Q145,Undirected,1,Stad ligt in land
+Q2396419,Q31,Undirected,1,Stad ligt in land
+Q3504647,Q252,Undirected,1,Stad ligt in land
+Q908546,Q31,Undirected,1,Stad ligt in land
+Q36074,Q408,Undirected,1,Stad ligt in land
+Q773585,Q142,Undirected,1,Stad ligt in land
+Q2189234,Q31,Undirected,1,Stad ligt in land
+Q1947380,Q668,Undirected,1,Stad ligt in land
+Q161491,Q145,Undirected,1,Stad ligt in land
+Q2566545,Q31,Undirected,1,Stad ligt in land
+Q2963326,Q31,Undirected,1,Stad ligt in land
+Q648,Q142,Undirected,1,Stad ligt in land
+Q8678,Q155,Undirected,1,Stad ligt in land
+Q49218,Q30,Undirected,1,Stad ligt in land
+Q3057456,Q145,Undirected,1,Stad ligt in land
+Q9783,Q55,Undirected,1,Stad ligt in land
+Q2191390,Q31,Undirected,1,Stad ligt in land
+Q2220639,Q31,Undirected,1,Stad ligt in land
+Q211037,Q31,Undirected,1,Stad ligt in land
+Q2512929,Q31,Undirected,1,Stad ligt in land
+Q2352516,Q31,Undirected,1,Stad ligt in land
+Q220,Q38,Undirected,1,Stad ligt in land
+Q268219,Q31,Undirected,1,Stad ligt in land
+Q34370,Q55,Undirected,1,Stad ligt in land
+Q34001,Q142,Undirected,1,Stad ligt in land
+Q546635,Q145,Undirected,1,Stad ligt in land
+Q2928815,Q31,Undirected,1,Stad ligt in land
+Q696982,Q31,Undirected,1,Stad ligt in land
+Q1704244,Q31,Undirected,1,Stad ligt in land
+Q3453174,Q31,Undirected,1,Stad ligt in land
+Q1618770,Q31,Undirected,1,Stad ligt in land
+Q776556,Q145,Undirected,1,Stad ligt in land
+Q189153,Q142,Undirected,1,Stad ligt in land
+Q109571087,Q142,Undirected,1,Stad ligt in land
+Q38298881,Q31,Undirected,1,Stad ligt in land
+Q1068891,Q142,Undirected,1,Stad ligt in land
+Q604222,Q142,Undirected,1,Stad ligt in land
+Q47952,Q145,Undirected,1,Stad ligt in land
+Q22544,Q142,Undirected,1,Stad ligt in land
+Q743521,Q145,Undirected,1,Stad ligt in land
+Q12887,Q31,Undirected,1,Stad ligt in land
+Q2392360,Q31,Undirected,1,Stad ligt in land
+Q911968,Q31,Undirected,1,Stad ligt in land
+Q263177,Q31,Undirected,1,Stad ligt in land
+Q1961936,Q55,Undirected,1,Stad ligt in land
+Q2568071,Q31,Undirected,1,Stad ligt in land
+Q2755150,Q31,Undirected,1,Stad ligt in land
+Q194037,Q31,Undirected,1,Stad ligt in land
+Q1287283,Q31,Undirected,1,Stad ligt in land
+Q8717,Q29,Undirected,1,Stad ligt in land
+Q8686,Q148,Undirected,1,Stad ligt in land
+Q201970,Q145,Undirected,1,Stad ligt in land
+Q54672,Q38,Undirected,1,Stad ligt in land
+Q3110841,Q31,Undirected,1,Stad ligt in land
+Q3475052,Q31,Undirected,1,Stad ligt in land
+Q667610,Q408,Undirected,1,Stad ligt in land
+Q2798071,Q55,Undirected,1,Stad ligt in land
+Q2616736,Q55,Undirected,1,Stad ligt in land
+Q2856296,Q55,Undirected,1,Stad ligt in land
+Q21764799,Q31,Undirected,1,Stad ligt in land
+Q2936941,Q31,Undirected,1,Stad ligt in land
+Q2676933,Q31,Undirected,1,Stad ligt in land
+Q3472219,Q31,Undirected,1,Stad ligt in land
+Q2354846,Q31,Undirected,1,Stad ligt in land
+Q2538413,Q31,Undirected,1,Stad ligt in land
+Q2320749,Q31,Undirected,1,Stad ligt in land
+Q2314032,Q31,Undirected,1,Stad ligt in land
+Q898394,Q31,Undirected,1,Stad ligt in land
+Q272243,Q31,Undirected,1,Stad ligt in land
+Q3181971,Q31,Undirected,1,Stad ligt in land
+Q2997099,Q31,Undirected,1,Stad ligt in land
+Q1915517,Q31,Undirected,1,Stad ligt in land
+Q2505670,Q31,Undirected,1,Stad ligt in land
+Q817372,Q31,Undirected,1,Stad ligt in land
+Q2528725,Q31,Undirected,1,Stad ligt in land
+Q1904127,Q31,Undirected,1,Stad ligt in land
+Q2026816,Q31,Undirected,1,Stad ligt in land
+Q430812,Q31,Undirected,1,Stad ligt in land
+Q687503,Q142,Undirected,1,Stad ligt in land
+Q13127,Q31,Undirected,1,Stad ligt in land
+Q31521097,Q31,Undirected,1,Stad ligt in land
+Q208793,Q142,Undirected,1,Stad ligt in land
+Q2262095,Q31,Undirected,1,Stad ligt in land
+Q688790,Q31,Undirected,1,Stad ligt in land
+Q2490578,Q31,Undirected,1,Stad ligt in land
+Q37792,Q31,Undirected,1,Stad ligt in land
+Q244934,Q142,Undirected,1,Stad ligt in land
+Q3102205,Q31,Undirected,1,Stad ligt in land
+Q2065987,Q55,Undirected,1,Stad ligt in land
+Q1901132,Q31,Undirected,1,Stad ligt in land
+Q612066,Q142,Undirected,1,Stad ligt in land
+Q486877,Q30,Undirected,1,Stad ligt in land
+Q7567400,Q145,Undirected,1,Stad ligt in land
+Q1045096,Q145,Undirected,1,Stad ligt in land
+Q79848,Q145,Undirected,1,Stad ligt in land
+Q5273898,Q145,Undirected,1,Stad ligt in land
+Q39865,Q31,Undirected,1,Stad ligt in land
+Q2610272,Q31,Undirected,1,Stad ligt in land
+Q26523296,Q145,Undirected,1,Stad ligt in land
+Q2065416,Q145,Undirected,1,Stad ligt in land
+Q742876,Q31,Undirected,1,Stad ligt in land
+Q2524088,Q31,Undirected,1,Stad ligt in land
+Q2580670,Q31,Undirected,1,Stad ligt in land
+Q9005,Q31,Undirected,1,Stad ligt in land
+Q2684417,Q31,Undirected,1,Stad ligt in land
+Q3472086,Q31,Undirected,1,Stad ligt in land
+Q134902,Q145,Undirected,1,Stad ligt in land
+Q2449737,Q145,Undirected,1,Stad ligt in land
+Q7619622,Q145,Undirected,1,Stad ligt in land
+Q6602,Q142,Undirected,1,Stad ligt in land
+Q1809460,Q31,Undirected,1,Stad ligt in land
+Q188304,Q145,Undirected,1,Stad ligt in land
+Q3130,Q408,Undirected,1,Stad ligt in land
+Q531311,Q145,Undirected,1,Stad ligt in land
+Q823623,Q31,Undirected,1,Stad ligt in land
+Q1833538,Q31,Undirected,1,Stad ligt in land
+Q3100236,Q31,Undirected,1,Stad ligt in land
+Q261399,Q142,Undirected,1,Stad ligt in land
+Q1012354,Q31,Undirected,1,Stad ligt in land
+Q73221,Q55,Undirected,1,Stad ligt in land
+Q651811,Q31,Undirected,1,Stad ligt in land
+Q31555423,Q31,Undirected,1,Stad ligt in land
+Q456550,Q31,Undirected,1,Stad ligt in land
+Q190113,Q31,Undirected,1,Stad ligt in land
+Q2248548,Q31,Undirected,1,Stad ligt in land
+Q270633,Q31,Undirected,1,Stad ligt in land
+Q182481,Q142,Undirected,1,Stad ligt in land
+Q190959,Q193619,Undirected,1,Stad ligt in land
+Q190959,Q258,Undirected,1,Stad ligt in land
+Q600301,Q30,Undirected,1,Stad ligt in land
+Q1143278,Q145,Undirected,1,Stad ligt in land
+Q203312,Q31,Undirected,1,Stad ligt in land
+Q116202,Q31,Undirected,1,Stad ligt in land
+Q803,Q55,Undirected,1,Stad ligt in land
+Q9768,Q55,Undirected,1,Stad ligt in land
+Q24639,Q16,Undirected,1,Stad ligt in land
+Q2137484,Q31,Undirected,1,Stad ligt in land
+Q3445977,Q31,Undirected,1,Stad ligt in land
+Q4555175,Q31,Undirected,1,Stad ligt in land
+Q30,Q30,Undirected,1,Stad ligt in land
+Q621,Q142,Undirected,1,Stad ligt in land
+Q202954,Q31,Undirected,1,Stad ligt in land
+Q602170,Q31,Undirected,1,Stad ligt in land
+Q506707,Q31,Undirected,1,Stad ligt in land
+Q1012357,Q31,Undirected,1,Stad ligt in land
+Q318418,Q31,Undirected,1,Stad ligt in land
+Q580227,Q31,Undirected,1,Stad ligt in land
+Q456495,Q31,Undirected,1,Stad ligt in land
+Q284691,Q31,Undirected,1,Stad ligt in land
+Q9337,Q31,Undirected,1,Stad ligt in land
+Q234,Q31,Undirected,1,Stad ligt in land
+Q234,Q142,Undirected,1,Stad ligt in land
+Q234,Q55,Undirected,1,Stad ligt in land
+Q1411366,Q31,Undirected,1,Stad ligt in land
+Q2693056,Q31,Undirected,1,Stad ligt in land
+Q641313,Q142,Undirected,1,Stad ligt in land
+Q10084,Q55,Undirected,1,Stad ligt in land
+Q1999262,Q31,Undirected,1,Stad ligt in land
+Q2658385,Q31,Undirected,1,Stad ligt in land
+Q848324,Q55,Undirected,1,Stad ligt in land
+Q72946,Q31,Undirected,1,Stad ligt in land
+Q2358119,Q31,Undirected,1,Stad ligt in land
+Q1367576,Q55,Undirected,1,Stad ligt in land
+Q911983,Q31,Undirected,1,Stad ligt in land
+Q587906,Q31,Undirected,1,Stad ligt in land
+Q3110836,Q31,Undirected,1,Stad ligt in land
+Q2629754,Q31,Undirected,1,Stad ligt in land
+Q204547,Q31,Undirected,1,Stad ligt in land
+Q55453014,Q408,Undirected,1,Stad ligt in land
+Q549761,Q145,Undirected,1,Stad ligt in land
+Q1223,Q30,Undirected,1,Stad ligt in land
+Q1380709,Q30,Undirected,1,Stad ligt in land
+Q23661,Q664,Undirected,1,Stad ligt in land
+Q1354834,Q31,Undirected,1,Stad ligt in land
+Q2091146,Q31,Undirected,1,Stad ligt in land
+Q318532,Q31,Undirected,1,Stad ligt in land
+Q1356,Q668,Undirected,1,Stad ligt in land
+Q1113,Q31,Undirected,1,Stad ligt in land
+Q475931,Q31,Undirected,1,Stad ligt in land
+Q2107664,Q31,Undirected,1,Stad ligt in land
+Q2006454,Q31,Undirected,1,Stad ligt in land
+Q189960,Q145,Undirected,1,Stad ligt in land
+Q2231539,Q31,Undirected,1,Stad ligt in land
+Q2556717,Q31,Undirected,1,Stad ligt in land
+Q643980,Q31,Undirected,1,Stad ligt in land
+Q392343,Q31,Undirected,1,Stad ligt in land
+Q730801,Q31,Undirected,1,Stad ligt in land
+Q1012502,Q145,Undirected,1,Stad ligt in land
+Q339395,Q31,Undirected,1,Stad ligt in land
+Q488688,Q31,Undirected,1,Stad ligt in land
+Q1721,Q183,Undirected,1,Stad ligt in land
+Q2174414,Q31,Undirected,1,Stad ligt in land
+Q132679,Q25279,Undirected,1,Stad ligt in land
+Q1817149,Q31,Undirected,1,Stad ligt in land
+Q576579,Q31,Undirected,1,Stad ligt in land
+Q735797,Q31,Undirected,1,Stad ligt in land
+Q1939661,Q31,Undirected,1,Stad ligt in land
+Q839037,Q31,Undirected,1,Stad ligt in land
+Q2227700,Q31,Undirected,1,Stad ligt in land
+Q1164598,Q55,Undirected,1,Stad ligt in land
+Q670807,Q142,Undirected,1,Stad ligt in land
+Q840935,Q31,Undirected,1,Stad ligt in land
+Q2041336,Q31,Undirected,1,Stad ligt in land
+Q3110832,Q31,Undirected,1,Stad ligt in land
+Q3012273,Q31,Undirected,1,Stad ligt in land
+Q163,Q145,Undirected,1,Stad ligt in land
+Q1012476,Q27,Undirected,1,Stad ligt in land
+Q2017210,Q31,Undirected,1,Stad ligt in land
+Q146811,Q30,Undirected,1,Stad ligt in land
+Q2316093,Q31,Undirected,1,Stad ligt in land
+Q184287,Q31,Undirected,1,Stad ligt in land
+Q3474073,Q31,Undirected,1,Stad ligt in land
+Q388115,Q31,Undirected,1,Stad ligt in land
+Q14062,Q31,Undirected,1,Stad ligt in land
+Q2161674,Q31,Undirected,1,Stad ligt in land
+Q1160270,Q142,Undirected,1,Stad ligt in land
+Q1152274,Q142,Undirected,1,Stad ligt in land
+Q3110851,Q31,Undirected,1,Stad ligt in land
+Q2337062,Q31,Undirected,1,Stad ligt in land
+Q204477,Q31,Undirected,1,Stad ligt in land
+Q218497,Q31,Undirected,1,Stad ligt in land
+Q219827,Q31,Undirected,1,Stad ligt in land
+Q133769,Q31,Undirected,1,Stad ligt in land
+Q214154,Q31,Undirected,1,Stad ligt in land
+Q258,Q258,Undirected,1,Stad ligt in land
+Q228685,Q31,Undirected,1,Stad ligt in land
+Q244513,Q31,Undirected,1,Stad ligt in land
+Q39,Q39,Undirected,1,Stad ligt in land
+Q590398,Q31,Undirected,1,Stad ligt in land
