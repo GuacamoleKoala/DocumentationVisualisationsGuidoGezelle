@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Jenske Sampson"
+  },
+  "text": {
+    "more": "Originally this graph showed the relation between people and their relations to institutions,\non the level of work, education and associations\nThis graph is a projection mapping of a two node graph between people and institutions.\nHere we only see the direct relations between people with help of the plugin MultiMode Network.\n\nThe nodes show people, places (mostly cities) and countries. \nThese node types are grouped by color. The color represents \u0027Modularity class\u0027, which might indicate social cohesion.\nWhy these groups belong together has to be studied further.\n\nThe edges show the relations between people (instead of between institutions and people).\nThe thickness of the line represents that people have more than one institutional connection.",
+    "intro": "This is a visualisation of the network of Guido Gezelle on Wikidata.\nIt represents people who have an overlap in (multiple) institutions related to work, education and associations.\nIt also shows job functions. More info in long description.",
+    "title": "Social cohesion of the network of the correspondents of Guido Gezelle on Wikidata"
+  },
+  "legend": {
+    "edgeLabel": "Lid van vereniging, werk , onderwijs ",
+    "colorLabel": "groepen met sociale cohesie",
+    "nodeLabel": "persoon"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": "afbeelding"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 100,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 1.2,
+      "minEdgeSize": 0.4,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
