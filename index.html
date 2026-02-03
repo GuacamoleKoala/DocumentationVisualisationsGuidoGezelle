@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gezelle Visualisaties Overzicht</title>
+    <title>Netwerken in Kaart: Guido Gezelle</title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -12,14 +12,21 @@
             flex-direction: column;
             align-items: center;
             padding: 40px;
+            color: #2c3e50;
         }
 
-        h1 { color: #2c3e50; margin-bottom: 5px; text-align: center; }
-        .subtitle { color: #7f8c8d; margin-bottom: 30px; max-width: 600px; text-align: center; font-size: 0.95em; }
+        header {
+            max-width: 900px;
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        h1 { color: #2c3e50; margin-bottom: 15px; font-size: 2.2em; }
+        .intro-text { line-height: 1.6; color: #586069; font-size: 1.1em; margin-bottom: 30px; }
         
-        .header-links { margin-bottom: 40px; }
+        .header-links { margin-bottom: 20px; }
         .btn-manual {
-            background-color: #34495e;
+            background-color: #2c3e50;
             color: white;
             padding: 12px 25px;
             text-decoration: none;
@@ -27,8 +34,9 @@
             font-weight: bold;
             box-shadow: 0 4px 10px rgba(0,0,0,0.1);
             transition: all 0.3s ease;
+            display: inline-block;
         }
-        .btn-manual:hover { background-color: #2c3e50; transform: scale(1.05); }
+        .btn-manual:hover { background-color: #34495e; transform: scale(1.05); }
 
         .container {
             display: grid;
@@ -65,13 +73,28 @@
 
         .viz-link:hover { background-color: #2980b9; }
 
+        .card h3 { margin: 0 0 10px 0; font-size: 1.2em; color: #2980b9; }
+
         .description {
-            font-size: 0.9em;
+            font-size: 0.95em;
             color: #34495e;
             line-height: 1.5;
             flex-grow: 1;
-            margin-bottom: 15px;
+            margin-bottom: 20px;
         }
+
+        .sub-manual {
+            font-size: 0.85em;
+            color: #3498db;
+            text-decoration: none;
+            border: 1px solid #3498db;
+            padding: 6px 12px;
+            border-radius: 5px;
+            text-align: center;
+            font-weight: bold;
+            margin-top: auto;
+        }
+        .sub-manual:hover { background: #eaf2f8; }
 
         .meta-info {
             font-size: 0.8em;
@@ -80,88 +103,64 @@
             justify-content: space-between;
             border-top: 1px solid #f1f1f1;
             padding-top: 10px;
+            margin-top: 15px;
         }
-
-        .commit-msg { color: #27ae60; font-weight: 500; }
     </style>
 </head>
 <body>
 
-    <h1>Guido Gezelle Netwerkproject</h1>
-    <p class="subtitle">Interactieve visualisaties van de briefcorrespondentie en netwerken rondom Guido Gezelle op basis van Wikidata.</p>
-    
-    <div class="header-links">
-        <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/blob/main/AlgemeneHandleiding/AlgemeneHandleidingVisualisatiesGuidoGezelle.ipynb" class="btn-manual" target="_blank">
-            📖 Open Algemene Handleiding
-        </a>
-    </div>
+    <header>
+        <h1>Netwerken in Kaart</h1>
+        <p class="intro-text">
+            Het ontsluiten en visualiseren van Wikidata omtrent <strong>Guido Gezelle</strong>. 
+            Van abstracte Linked Open Data naar interactieve netwerken die de sociale, institutionele en geografische leefwereld van de dichter onthullen.
+        </p>
+        
+        <div class="header-links">
+            <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/blob/main/AlgemeneHandleiding/AlgemeneHandleidingVisualisatiesGuidoGezelle.ipynb" class="btn-manual" target="_blank">
+                📖 Open Algemene Handleiding (PDF/IPYNB)
+            </a>
+        </div>
+    </header>
 
     <div class="container">
 
         <div class="card">
-            <a href="InteractieveVisualisaties/Visualisatie1/" class="viz-link">Visualisatie 1: Basis Netwerk</a>
-            <p class="description">Een eerste verkenning van de correspondentie-relaties binnen de Gezelle-data op Wikidata.</p>
+            <h3>V1: Het Persoonlijke Netwerk</h3>
+            <a href="https://guacamolekoala.github.io/Visualisatie1GuidoGezelleGephi/" class="viz-link" target="_blank">Bekijk Visualisatie 1</a>
+            <p class="description">
+                Een interactieve 'Who's Who' rond Gezelle. Dit ego-netwerk toont de directe relaties (familie, correspondenten, studenten) en fungeert als toegangspoort naar biografieën.
+            </p>
             <div class="meta-info">
-                <span class="commit-msg">aanpas</span>
+                <span>Last commit: aanpas</span>
                 <span>17 mins ago</span>
             </div>
         </div>
 
         <div class="card">
-            <a href="InteractieveVisualisaties/Visualisatie2/" class="viz-link">Visualisatie 2: Geografische Spreiding</a>
-            <p class="description">Visualisatie van de locaties en verbindingen tussen verschillende correspondenten van Guido Gezelle.</p>
+            <h3>V2: De Binnenkring</h3>
+            <a href="https://guacamolekoala.github.io/Visualisatie2GuidoGezelleGephi/" class="viz-link" target="_blank">Bekijk Visualisatie 2</a>
+            <p class="description">
+                Focus op de onderlinge relaties tussen correspondenten. Maakt 'triadische sluitingen' en clusters van intellectuelen en priesters zichtbaar die onderling een gemeenschap vormden.
+            </p>
             <div class="meta-info">
-                <span class="commit-msg">aanpas</span>
+                <span>Last commit: aanpas</span>
                 <span>17 mins ago</span>
             </div>
         </div>
 
         <div class="card">
-            <a href="InteractieveVisualisaties/Visualisatie3A/" class="viz-link">Visualisatie 3A: Verfijnd Netwerk</a>
-            <p class="description">Gedetailleerde weergave van de meest actieve personen binnen het netwerk, geëxporteerd via SPARQL.</p>
+            <h3>V3A: Institutionele Hubs</h3>
+            <a href="https://guacamolekoala.github.io/Visualisatie3AGuidoGezelleGephi/" class="viz-link" target="_blank">Bekijk Visualisatie 3A</a>
+            <p class="description">
+                Een bipartiet netwerk dat personen verbindt aan organisaties (scholen, tijdschriften). Onthult de institutionele 'lijm' zoals het Klein Seminarie in Roeselare.
+            </p>
+            <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/blob/main/DataVisualisaties/V3/7.Manual" class="sub-manual">📘 Specifieke Handleiding V3</a>
             <div class="meta-info">
-                <span class="commit-msg">aanpas</span>
+                <span>Last commit: aanpas</span>
                 <span>17 mins ago</span>
             </div>
         </div>
 
         <div class="card">
-            <a href="InteractieveVisualisaties/Visualisatie3B/" class="viz-link">Visualisatie 3B: Cluster Analyse</a>
-            <p class="description">Analyse van specifieke clusters en groepen binnen de briefwisselingen.</p>
-            <div class="meta-info">
-                <span class="commit-msg">xx</span>
-                <span>4 mins ago</span>
-            </div>
-        </div>
-
-        <div class="card">
-            <a href="InteractieveVisualisaties/Visualisatie4A/" class="viz-link">Visualisatie 4A: Gephi Modelleren</a>
-            <p class="description">Geavanceerde visualisatie met behulp van Gephi-functies voor netwerkanalyse.</p>
-            <div class="meta-info">
-                <span class="commit-msg">xx</span>
-                <span>4 mins ago</span>
-            </div>
-        </div>
-
-        <div class="card">
-            <a href="InteractieveVisualisaties/Visualisatie4B/" class="viz-link">Visualisatie 4B: Export & Sharing</a>
-            <p class="description">Toont de mogelijkheden om netwerken online te delen via GitHub Pages.</p>
-            <div class="meta-info">
-                <span class="commit-msg">xx</span>
-                <span>4 mins ago</span>
-            </div>
-        </div>
-
-        <div class="card">
-            <a href="InteractieveVisualisaties/Visualisatie5/" class="viz-link">Visualisatie 5: Finale Overzicht</a>
-            <p class="description">De meest recente en complete interactieve weergave van het Guido Gezelle Wikidata project.</p>
-            <div class="meta-info">
-                <span class="commit-msg">Nieuw</span>
-                <span>Zojuist</span>
-            </div>
-        </div>
-
-    </div>
-
-</body>
-</html>
+            <h3>
