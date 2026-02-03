@@ -8,14 +8,14 @@
     "text": "Jenske Sampson"
   },
   "text": {
-    "more": "The nodes show people.\nThe nodes can be further grouped by color. The color represents the kind of relation this person has with Guido Gezelle.\nThe edges show the relations between people.\nThe color represents a specific kind of relation.",
-    "intro": "This is a visualisation of the network of Guido Gezelle on Wikidata. \nThe graph shows people who are connected to Guido Gezelle and to who Guido Gezelle is connected to on Wikidata.",
-    "title": "Network of Guido Gezelle on Wikidata"
+    "more": "De knopen (nodes) stellen personen voor.\nDe knopen kunnen verder gegroepeerd worden op kleur. De kleur staat voor het type relatie dat deze persoon heeft met Guido Gezelle.\nDe lijnen (edges) tonen de relaties tussen personen.\nDe kleur van de lijn vertegenwoordigt een specifiek soort relatie.",
+    "intro": "Dit is een visualisatie van het netwerk van Guido Gezelle op Wikidata.\nDe grafiek toont personen die verbonden zijn met Guido Gezelle en de personen waarmee Guido Gezelle verbonden is op Wikidata.",
+    "title": "Netwerk van Guido Gezelle op Wikidata"
   },
   "legend": {
-    "edgeLabel": "Relationship",
-    "colorLabel": "See Group Selector",
-    "nodeLabel": "Person"
+    "edgeLabel": "Relatie",
+    "colorLabel": "Zie groepsselector",
+    "nodeLabel": "Persoon"
   },
   "features": {
     "search": true,
