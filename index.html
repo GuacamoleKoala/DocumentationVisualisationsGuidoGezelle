@@ -21,8 +21,18 @@
             margin-bottom: 40px;
         }
 
+        .profile-img {
+            width: 160px;
+            height: 160px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 20px;
+            border: 5px solid white;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+
         h1 { color: #2c3e50; margin-bottom: 15px; font-size: 2.2em; }
-        .intro-text { line-height: 1.6; color: #586069; font-size: 1.1em; margin-bottom: 30px; }
+        .intro-text { line-height: 1.6; color: #586069; font-size: 1.05em; margin-bottom: 30px; text-align: justify; }
         
         .header-links { margin-bottom: 20px; }
         .btn-manual {
@@ -76,7 +86,7 @@
         .card h3 { margin: 0 0 10px 0; font-size: 1.2em; color: #2980b9; }
 
         .description {
-            font-size: 0.95em;
+            font-size: 0.92em;
             color: #34495e;
             line-height: 1.5;
             flex-grow: 1;
@@ -95,7 +105,7 @@
             margin-top: auto;
             transition: all 0.2s;
         }
-        .sub-manual:hover { background: #eaf2f8; color: #2980b9; }
+        .sub-manual:hover { background: #eaf2f8; }
 
         .meta-info {
             font-size: 0.8em;
@@ -111,9 +121,10 @@
 <body>
 
     <header>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Guido_Gezelle.jpg/400px-Guido_Gezelle.jpg" alt="Guido Gezelle" class="profile-img">
         <h1>Netwerken in Kaart</h1>
         <p class="intro-text">
-            Ontdek de digitale wereld van <strong>Guido Gezelle</strong>. Deze unieke visualisaties transformeren abstracte Wikidata-relaties naar interactieve kaarten van zijn sociale, institutionele en geografische netwerk.
+            Dit project richt zich op het transformeren van abstracte <strong>Linked Open Data</strong> op Wikidata — die verschijnen als reeksen van triples (subject-predicaat-object) — naar concrete, visueel inzichtelijke en interactieve netwerkvisualisaties. Het resultaat zijn vijf exploratieve modellen die een gelaagde blik bieden op Gezelles sociale, institutionele en geografische leefwereld.
         </p>
         <div class="header-links">
             <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/blob/main/AlgemeneHandleiding/AlgemeneHandleidingVisualisatiesGuidoGezelle.ipynb" class="btn-manual" target="_blank">
@@ -127,7 +138,7 @@
         <div class="card">
             <h3>V1: Persoonlijk Netwerk</h3>
             <a href="https://guacamolekoala.github.io/DocumentationVisualisationsGuidoGezelle/InteractieveVisualisaties/Visualisatie1/" class="viz-link" target="_blank">Open Visualisatie 1</a>
-            <p class="description">Een 'Who's Who' van Gezelle. Brengt directe connecties zoals familie en correspondenten in kaart en koppelt ze aan hun biografische data op Wikidata.</p>
+            <p class="description">Een interactieve 'Who's Who' van de wereld rond Gezelle. Knooppunten zijn gekleurd op basis van relatietype (familie, correspondent, student) en gelinkt aan Wikidata-biografieën.</p>
             <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V1" class="sub-manual">📘 Handleiding V1</a>
             <div class="meta-info"><span>aanpas</span><span>17 mins ago</span></div>
         </div>
@@ -135,7 +146,7 @@
         <div class="card">
             <h3>V2: De Binnenkring</h3>
             <a href="https://guacamolekoala.github.io/DocumentationVisualisationsGuidoGezelle/InteractieveVisualisaties/Visualisatie2/" class="viz-link" target="_blank">Open Visualisatie 2</a>
-            <p class="description">Analyseert de relaties tussen de correspondenten onderling. Onthult clusters van intellectuelen en priesters die samen een gemeenschap vormden.</p>
+            <p class="description">Toont 'triadische sluitingen': hoe correspondenten onderling verbonden waren. Dit onthult clusters van intellectuelen die samen een gemeenschap vormden.</p>
             <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V2" class="sub-manual">📘 Handleiding V2</a>
             <div class="meta-info"><span>aanpas</span><span>17 mins ago</span></div>
         </div>
@@ -143,7 +154,7 @@
         <div class="card">
             <h3>V3A: Institutionele Hubs</h3>
             <a href="https://guacamolekoala.github.io/DocumentationVisualisationsGuidoGezelle/InteractieveVisualisaties/Visualisatie3A/" class="viz-link" target="_blank">Open Visualisatie 3A</a>
-            <p class="description">Verbindt personen aan organisaties. Maakt zichtbaar hoe instituten zoals het Klein Seminarie fungeerden als de 'sociale lijm' van het netwerk.</p>
+            <p class="description">Een bipartiet netwerk dat personen verbindt aan organisaties. Het toont welke instituten fungeerden als de centrale 'hubs' waar sociale contacten samenkomen.</p>
             <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V3" class="sub-manual">📘 Handleiding V3A</a>
             <div class="meta-info"><span>aanpas</span><span>17 mins ago</span></div>
         </div>
@@ -151,7 +162,7 @@
         <div class="card">
             <h3>V3B: Sociale Cohesie</h3>
             <a href="https://guacamolekoala.github.io/DocumentationVisualisationsGuidoGezelle/InteractieveVisualisaties/Visualisatie3B/" class="viz-link" target="_blank">Open Visualisatie 3B</a>
-            <p class="description">Gebruikt 'Multimode Projection' om aan te tonen hoe sterk groepen samenhangen op basis van gedeelde lidmaatschappen en informele kringen.</p>
+            <p class="description">Projectie van gedeelde lidmaatschappen naar sociale verbindingen. Maakt informele gemeenschappen en subgroepen zichtbaar via Modularity Class statistieken.</p>
             <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V3" class="sub-manual">📘 Handleiding V3B</a>
             <div class="meta-info"><span>xx</span><span>4 mins ago</span></div>
         </div>
@@ -159,7 +170,7 @@
         <div class="card">
             <h3>V4A: Mentale Kaart</h3>
             <a href="https://guacamolekoala.github.io/DocumentationVisualisationsGuidoGezelle/InteractieveVisualisaties/Visualisatie4/" class="viz-link" target="_blank">Open Visualisatie 4A</a>
-            <p class="description">Behandelt locaties als abstracte knooppunten. De afstand tussen steden wordt bepaald door de intensiteit van sociale interactie, niet door kilometers.</p>
+            <p class="description">Een abstracte topologie waarbij de afstand tussen plaatsen niet wordt bepaald door kilometers, maar door de intensiteit van de sociale interactie en beleving.</p>
             <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V4" class="sub-manual">📘 Handleiding V4</a>
             <div class="meta-info"><span>xx</span><span>4 mins ago</span></div>
         </div>
@@ -167,7 +178,7 @@
         <div class="card">
             <h3>V4B: Interactieve Cartografie</h3>
             <a href="https://guacamolekoala.github.io/DocumentationVisualisationsGuidoGezelle/InteractieveVisualisaties/Visualisatie4B/" class="viz-link" target="_blank">Open Visualisatie 4B</a>
-            <p class="description">Gerealiseerd met Leaflet.js. Projecteert het netwerk op een werkelijke wereldkaart en toont de internationale reikwijdte van Gezelles invloedssfeer.</p>
+            <p class="description">Gebouwd met Leaflet.js. Projecteert het netwerk op een werkelijke wereldkaart en doorbreekt de mythe van Gezelle als louter lokale dichter.</p>
             <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V4" class="sub-manual">📘 Handleiding V4</a>
             <div class="meta-info"><span>xx</span><span>4 mins ago</span></div>
         </div>
@@ -175,7 +186,7 @@
         <div class="card">
             <h3>V5: Dynamische Tijdlijn</h3>
             <a href="https://guacamolekoala.github.io/DocumentationVisualisationsGuidoGezelle/InteractieveVisualisaties/Visualisatie5/" class="viz-link" target="_blank">Open Visualisatie 5</a>
-            <p class="description">Voegt de vierde dimensie toe. Gebruik de tijdslider om te zien hoe het netwerk organisch groeit en verandert tijdens de verschillende levensfases van Gezelle.</p>
+            <p class="description">De vierde dimensie: tijd. Gebruik de slider om het netwerk organisch te zien groeien en veranderen tijdens de verschillende levensfases van de dichter.</p>
             <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V5" class="sub-manual">📘 Handleiding V5</a>
             <div class="meta-info"><span>Nieuw</span><span>Zojuist</span></div>
         </div>
