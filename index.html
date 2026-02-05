@@ -44,7 +44,8 @@
             height: auto;
             display: block;
             margin: 0 auto;
-            border: 1px solid #eee; /* Zeer subtiele rand voor definitie */
+            /* Subtiele schaduw in plaats van rand voor diepte */
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1); 
         }
 
         h1 { 
@@ -173,10 +174,15 @@
         }
 
         .meemoo-logo {
-            max-width: 150px;
+            max-width: 180px; /* Iets groter gezet voor betere leesbaarheid */
             height: auto;
-            margin-bottom: 20px;
+            margin-bottom: 25px;
             display: inline-block;
+            transition: opacity 0.3s;
+        }
+        
+        .meemoo-logo:hover {
+            opacity: 0.8;
         }
 
         @media (max-width: 768px) {
@@ -200,7 +206,7 @@
             </a>
         </div>
         <div class="header-image">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Guido_Gezelle.jpg/400px-Guido_Gezelle.jpg" alt="Guido Gezelle">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Guido_Gezelle.jpg" alt="Portret Guido Gezelle">
         </div>
     </header>
 
@@ -265,7 +271,9 @@
     </section>
 
     <footer>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Meemoo_logo.svg" alt="Logo meemoo" class="meemoo-logo"><br>
+        <a href="https://meemoo.be" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Meemoo_logo.svg" alt="Logo meemoo" class="meemoo-logo">
+        </a>
         <p>&copy; 2026 <strong>Jenske Verhamme</strong></p>
         <p>Uitgevoerd als stageproject voor de opleiding <em>Postgraduaat Cultureel erfgoed: Digitale transformatie</em>.</p>
     </footer>
