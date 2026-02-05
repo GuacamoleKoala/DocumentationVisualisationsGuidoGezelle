@@ -38,11 +38,12 @@
         }
 
         .header-image img {
-            width: 100%;
-            max-width: 300px;
-            height: auto;
+            width: 220px; /* Vaste maat voor een mooie cirkel */
+            height: 220px;
+            object-fit: cover; /* Zorgt dat de foto niet vervormt in de cirkel */
+            border-radius: 50%; /* Maakt de foto rond */
             filter: grayscale(100%);
-            border: 1px solid #000000;
+            border: 2px solid #AADDDD; /* Subtiele groene rand om de foto */
         }
 
         h1 { 
@@ -60,6 +61,7 @@
             margin-bottom: 30px;
             border-left: 5px solid #AADDDD;
             padding-left: 20px;
+            text-align: justify;
         }
         
         .btn-manual {
@@ -193,7 +195,7 @@
             </a>
         </div>
         <div class="header-image">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Guido_Gezelle.jpg/500px-Guido_Gezelle.jpg" alt="Portret van Guido Gezelle">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Guido_Gezelle.jpg" alt="Portret van Guido Gezelle">
         </div>
     </header>
 
