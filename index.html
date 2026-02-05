@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Guido Gezelle op Wikidata: netwerken in kaart</title>
     <style>
-        /* Meemoo-geïnspireerde stijl: Strak, hoog contrast en minimalistisch */
+        /* Meemoo-geïnspireerde stijl */
         body {
             font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             background-color: #ffffff;
@@ -37,13 +37,13 @@
             text-align: center;
         }
 
+        /* Simpele vierkante foto zonder effecten */
         .header-image img {
-            width: 220px;
-            height: 220px;
-            object-fit: cover;
-            border-radius: 50%;
-            filter: grayscale(100%);
-            border: 2px solid #AADDDD;
+            width: 100%;
+            max-width: 280px;
+            height: auto;
+            display: block;
+            margin: 0 auto;
         }
 
         h1 { 
@@ -61,7 +61,6 @@
             margin-bottom: 30px;
             border-left: 5px solid #AADDDD;
             padding-left: 20px;
-            text-align: justify;
         }
         
         .btn-manual {
@@ -161,7 +160,6 @@
             text-transform: uppercase;
         }
 
-        /* Footer / Disclaimer */
         footer {
             max-width: 1200px;
             margin: 60px auto;
@@ -171,8 +169,6 @@
             font-size: 0.85rem;
             color: #666;
         }
-
-        footer p { margin: 5px 0; }
 
         @media (max-width: 768px) {
             h1 { font-size: 2.2rem; }
@@ -195,7 +191,7 @@
             </a>
         </div>
         <div class="header-image">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Guido_Gezelle.jpg" alt="Portret van Guido Gezelle">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Guido_Gezelle.jpg" alt="Guido Gezelle">
         </div>
     </header>
 
@@ -232,6 +228,14 @@
                 <p class="description">Projectie van gedeelde lidmaatschappen naar sociale verbindingen. Maakt informele gemeenschappen en subgroepen zichtbaar via Modularity Class statistieken.</p>
                 <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V3" class="sub-manual">DOCS: HANDLEIDING V3B</a>
                 <div class="meta-info"><span>MULTIMODE</span><span>UPDATE 2026</span></div>
+            </div>
+
+            <div class="card">
+                <h3>V4A: Mentale Kaart</h3>
+                <a href="https://guacamolekoala.github.io/Visualisatie4GuidoGezelleGephi/" class="viz-link" target="_blank">OPEN VISUALISATIE 4A</a>
+                <p class="description">Een abstracte topologie waarbij de afstand tussen plaatsen niet wordt bepaald door kilometers, maar door de intensiteit van de sociale interactie en beleving.</p>
+                <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V4" class="sub-manual">DOCS: HANDLEIDING V4</a>
+                <div class="meta-info"><span>MENTAL MAP</span><span>UPDATE 2026</span></div>
             </div>
 
             <div class="card">
