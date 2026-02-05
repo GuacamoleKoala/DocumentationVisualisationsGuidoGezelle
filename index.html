@@ -37,13 +37,14 @@
             text-align: center;
         }
 
-        /* Simpele vierkante foto zonder effecten */
+        /* Vierkante foto */
         .header-image img {
             width: 100%;
             max-width: 280px;
             height: auto;
             display: block;
             margin: 0 auto;
+            border: 1px solid #eee; /* Zeer subtiele rand voor definitie */
         }
 
         h1 { 
@@ -160,6 +161,7 @@
             text-transform: uppercase;
         }
 
+        /* Footer en Logo */
         footer {
             max-width: 1200px;
             margin: 60px auto;
@@ -168,6 +170,13 @@
             text-align: center;
             font-size: 0.85rem;
             color: #666;
+        }
+
+        .meemoo-logo {
+            max-width: 150px;
+            height: auto;
+            margin-bottom: 20px;
+            display: inline-block;
         }
 
         @media (max-width: 768px) {
@@ -191,13 +200,12 @@
             </a>
         </div>
         <div class="header-image">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Guido_Gezelle.jpg" alt="Guido Gezelle">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Guido_Gezelle.jpg/400px-Guido_Gezelle.jpg" alt="Guido Gezelle">
         </div>
     </header>
 
     <section class="main-content">
         <div class="container">
-
             <div class="card">
                 <h3>V1: Persoonlijk Netwerk</h3>
                 <a href="https://guacamolekoala.github.io/Visualisatie1GuidoGezelleGephi/" class="viz-link" target="_blank">OPEN VISUALISATIE 1</a>
@@ -225,7 +233,7 @@
             <div class="card">
                 <h3>V3B: Sociale Cohesie</h3>
                 <a href="https://guacamolekoala.github.io/Visualisatie3BGuidoGezelleGephi/" class="viz-link" target="_blank">OPEN VISUALISATIE 3B</a>
-                <p class="description">Projectie van gedeelde lidmaatschappen naar sociale verbindingen. Maakt informele gemeenschappen en subgroepen zichtbaar via Modularity Class statistieken.</p>
+                <p class="description">Projectie van gedeelde lidmaatschappen naar sociale verbindingen. Maakt informele gemeenschappen en subgroepen zichtbaar.</p>
                 <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V3" class="sub-manual">DOCS: HANDLEIDING V3B</a>
                 <div class="meta-info"><span>MULTIMODE</span><span>UPDATE 2026</span></div>
             </div>
@@ -233,7 +241,7 @@
             <div class="card">
                 <h3>V4A: Mentale Kaart</h3>
                 <a href="https://guacamolekoala.github.io/Visualisatie4GuidoGezelleGephi/" class="viz-link" target="_blank">OPEN VISUALISATIE 4A</a>
-                <p class="description">Een abstracte topologie waarbij de afstand tussen plaatsen niet wordt bepaald door kilometers, maar door de intensiteit van de sociale interactie en beleving.</p>
+                <p class="description">Een abstracte topologie waarbij de afstand tussen plaatsen wordt bepaald door de intensiteit van de sociale interactie.</p>
                 <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V4" class="sub-manual">DOCS: HANDLEIDING V4</a>
                 <div class="meta-info"><span>MENTAL MAP</span><span>UPDATE 2026</span></div>
             </div>
@@ -241,7 +249,7 @@
             <div class="card">
                 <h3>V4B: Interactieve Cartografie</h3>
                 <a href="https://guacamolekoala.github.io/Visualisatie4BGuidoGezelle/" class="viz-link" target="_blank">OPEN VISUALISATIE 4B</a>
-                <p class="description">Projecteert het netwerk op een werkelijke wereldkaart (Leaflet.js) en toont de internationale reikwijdte van Gezelles invloedssfeer.</p>
+                <p class="description">Projecteert het netwerk op een werkelijke wereldkaart (Leaflet.js) en toont de internationale reikwijdte.</p>
                 <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V4" class="sub-manual">DOCS: HANDLEIDING V4</a>
                 <div class="meta-info"><span>GEOSPATIAL</span><span>UPDATE 2026</span></div>
             </div>
@@ -249,15 +257,15 @@
             <div class="card">
                 <h3>V5: Dynamische Tijdlijn</h3>
                 <a href="https://guacamolekoala.github.io/Visualisatie5GuidoGezelleGephi/" class="viz-link" target="_blank">OPEN VISUALISATIE 5</a>
-                <p class="description">De vierde dimensie: tijd. Gebruik de slider in de visualisatie om het netwerk organisch te zien groeien en veranderen tijdens de verschillende levensfases.</p>
+                <p class="description">De vierde dimensie: tijd. Zie het netwerk organisch groeien en veranderen tijdens de verschillende levensfases.</p>
                 <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V5" class="sub-manual">DOCS: HANDLEIDING V5</a>
                 <div class="meta-info"><span>TEMPORAL</span><span>UPDATE 2026</span></div>
             </div>
-
         </div>
     </section>
 
     <footer>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Meemoo_logo.svg" alt="Logo meemoo" class="meemoo-logo"><br>
         <p>&copy; 2026 <strong>Jenske Verhamme</strong></p>
         <p>Uitgevoerd als stageproject voor de opleiding <em>Postgraduaat Cultureel erfgoed: Digitale transformatie</em>.</p>
     </footer>
