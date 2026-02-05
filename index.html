@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Guido Gezelle op Wikidata: netwerken in kaart</title>
     <style>
-        /* Meemoo-geïnspireerde stijl */
+        /* Meemoo-geïnspireerde stijl: Strak, hoog contrast en minimalistisch */
         body {
             font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             background-color: #ffffff;
@@ -37,14 +37,15 @@
             text-align: center;
         }
 
-        /* Vierkante foto van Gezelle */
+        /* Foto instellingen */
         .header-image img {
             width: 100%;
             max-width: 280px;
             height: auto;
             display: block;
             margin: 0 auto;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.1); 
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            background-color: #f0f0f0; /* Fallback kleur */
         }
 
         h1 { 
@@ -173,7 +174,7 @@
         }
 
         .meemoo-logo {
-            max-width: 200px; /* Logo iets breder voor de tekst-combinatie */
+            max-width: 200px;
             height: auto;
             margin-bottom: 25px;
             display: inline-block;
@@ -193,14 +194,14 @@
             <h1>Guido Gezelle op Wikidata: netwerken in kaart</h1>
             <div class="intro-text">
                 De digitale ontsluiting van de briefwisseling van Guido Gezelle kent een rijke geschiedenis. Na de succesvolle focus op de vrouwelijke correspondenten in het project 'Vrouwen van papier', richtten we ons op het transformeren van abstracte <strong>Linked Open Data op Wikidata</strong> naar concrete, interactieve netwerkvisualisaties. <br><br>
-                Deze exploratieve visualisaties bieden een gelaagde blik op Gezelles sociale, institutionele en geografische leefwereld. Met een focus op <strong>open-source filosofie</strong> tonen we de kracht van metadata wanneer collectiebeherende instellingen hun data ontsluiten op Wikidata.
+                Deze exploratieve visualisaties bieden een gelaagde blik op Gezelles sociale, institutionele en geografische leefwereld. Met een focus op <strong>open-source filosofie</strong> tonen we de kracht van metadata op Wikidata.
             </div>
             <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/blob/main/AlgemeneHandleiding/AlgemeneHandleidingVisualisatiesGuidoGezelle.ipynb" class="btn-manual" target="_blank">
                 BEKIJK DE WORKFLOW & HANDLEIDINGEN
             </a>
         </div>
         <div class="header-image">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Guido_Gezelle.jpg" alt="Portret Guido Gezelle">
+            <img src="gezelle.jpg" alt="Portret Guido Gezelle">
         </div>
     </header>
 
@@ -209,7 +210,7 @@
             <div class="card">
                 <h3>V1: Persoonlijk Netwerk</h3>
                 <a href="https://guacamolekoala.github.io/Visualisatie1GuidoGezelleGephi/" class="viz-link" target="_blank">OPEN VISUALISATIE 1</a>
-                <p class="description">Brengt directe connecties zoals familie en correspondenten in kaart en koppelt ze aan hun biografische data op Wikidata.</p>
+                <p class="description">Een 'Who's Who' van Gezelle. Brengt directe connecties zoals familie en correspondenten in kaart en koppelt ze aan hun biografische data op Wikidata.</p>
                 <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V1" class="sub-manual">DOCS: HANDLEIDING V1</a>
                 <div class="meta-info"><span>WIKIDATA</span><span>UPDATE 2026</span></div>
             </div>
@@ -217,7 +218,7 @@
             <div class="card">
                 <h3>V2: De Binnenkring</h3>
                 <a href="https://guacamolekoala.github.io/Visualisatie2GuidoGezelleGephi/" class="viz-link" target="_blank">OPEN VISUALISATIE 2</a>
-                <p class="description">Analyseert de relaties tussen de correspondenten onderling. Onthult clusters van intellectuelen.</p>
+                <p class="description">Analyseert de relaties tussen de correspondenten onderling. Onthult clusters van intellectuelen en priesters die samen een gemeenschap vormden.</p>
                 <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V2" class="sub-manual">DOCS: HANDLEIDING V2</a>
                 <div class="meta-info"><span>ANALYSIS</span><span>UPDATE 2026</span></div>
             </div>
@@ -225,15 +226,15 @@
             <div class="card">
                 <h3>V3A: Institutionele Hubs</h3>
                 <a href="https://guacamolekoala.github.io/Visualisatie3AGuidoGezelleGephi/" class="viz-link" target="_blank">OPEN VISUALISATIE 3A</a>
-                <p class="description">Verbindt personen aan organisaties. Maakt zichtbaar hoe instituten fungeren als de 'sociale lijm' van het netwerk.</p>
+                <p class="description">Verbindt personen aan organisaties. Maakt zichtbaar hoe instituten zoals het Klein Seminarie fungeerden als de 'sociale lijm'.</p>
                 <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V3" class="sub-manual">DOCS: HANDLEIDING V3A</a>
                 <div class="meta-info"><span>HUBS</span><span>UPDATE 2026</span></div>
             </div>
 
             <div class="card">
                 <h3>V3B: Sociale Cohesie</h3>
-                <a href="https://guacamolekoala.github.io/Visualisatie3BGuidoGezelleGephi/" class="viz-link" target="_blank">OPEN VISUALisATIE 3B</a>
-                <p class="description">Projectie van gedeelde lidmaatschappen naar sociale verbindingen.</p>
+                <a href="https://guacamolekoala.github.io/Visualisatie3BGuidoGezelleGephi/" class="viz-link" target="_blank">OPEN VISUALISATIE 3B</a>
+                <p class="description">Projectie van gedeelde lidmaatschappen naar sociale verbindingen. Maakt informele gemeenschappen zichtbaar.</p>
                 <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V3" class="sub-manual">DOCS: HANDLEIDING V3B</a>
                 <div class="meta-info"><span>MULTIMODE</span><span>UPDATE 2026</span></div>
             </div>
@@ -241,7 +242,7 @@
             <div class="card">
                 <h3>V4A: Mentale Kaart</h3>
                 <a href="https://guacamolekoala.github.io/Visualisatie4GuidoGezelleGephi/" class="viz-link" target="_blank">OPEN VISUALISATIE 4A</a>
-                <p class="description">Een abstracte topologie gebaseerd op de intensiteit van de sociale interactie en beleving.</p>
+                <p class="description">Een abstracte topologie waarbij de afstand tussen plaatsen wordt bepaald door de intensiteit van de interactie.</p>
                 <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V4" class="sub-manual">DOCS: HANDLEIDING V4</a>
                 <div class="meta-info"><span>MENTAL MAP</span><span>UPDATE 2026</span></div>
             </div>
@@ -257,7 +258,7 @@
             <div class="card">
                 <h3>V5: Dynamische Tijdlijn</h3>
                 <a href="https://guacamolekoala.github.io/Visualisatie5GuidoGezelleGephi/" class="viz-link" target="_blank">OPEN VISUALISATIE 5</a>
-                <p class="description">Zie het netwerk organisch groeien en veranderen tijdens de verschillende levensfases van Gezelle.</p>
+                <p class="description">De vierde dimensie: tijd. Zie het netwerk organisch groeien en veranderen tijdens de verschillende levensfases.</p>
                 <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/tree/main/DataVisualisaties/V5" class="sub-manual">DOCS: HANDLEIDING V5</a>
                 <div class="meta-info"><span>TEMPORAL</span><span>UPDATE 2026</span></div>
             </div>
@@ -266,7 +267,7 @@
 
     <footer>
         <a href="https://meemoo.be" target="_blank">
-            <img src="https://meemoo.be/storage/files/7af10043-d180-4c19-875a-a2bf9384c102/pa_full_width_mobile_meemoo-logo-lockup-pos-rgb.png" alt="Logo meemoo" class="meemoo-logo">
+            <img src="meemoo.png" alt="Logo meemoo" class="meemoo-logo">
         </a>
         <p>&copy; 2026 <strong>Jenske Verhamme</strong></p>
         <p>Uitgevoerd als stageproject voor de opleiding <em>Postgraduaat Cultureel erfgoed: Digitale transformatie</em>.</p>
