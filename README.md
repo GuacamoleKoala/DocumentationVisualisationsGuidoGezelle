@@ -1,5 +1,7 @@
 # Netwerkvisualisaties Guido Gezelle op basis van Wikidata
 
+<img src="https://meemoo.be/docroot/themes/custom/meemoo_theme/logo.svg" alt="meemoo logo" width="200">
+
 Deze README licht de documentatie toe bij het project omtrent visualisaties rondom beschikbare data op Wikidata inzake het netwerk van Guido Gezelle. 
 
 Dit project werd uitgevoerd door **Jenske Verhamme**, in functie van een stage-opdracht voor de opleiding **'Postgraduaat cultureel erfgoed: digitale transformatie'**.
@@ -43,15 +45,22 @@ Hieronder wordt de mappenstructuur verder toegelicht, zodat iedereen hiermee aan
 ## 📑 Aanvullende Documentatie
 
 ### Presentatie van project
-In deze repository kan ook een **powerpointpresentatie** teruggevonden worden. Deze bevat een overzicht van de grote lijnen van dit project en onderzoek.
+In deze repository kan ook een powerpointpresentatie teruggevonden worden. Deze bevat een overzicht van de grote lijnen van dit project en onderzoek.
+👉 **[Download de presentatie hier](https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/raw/main/PresentatieProject/VisualisatiesRondomDataGuidoGezelleWikidata_JenskeVerhamme.pptx)**
 
 ### Opgeloste queries
-Deze repository bevat ook een **lijst van allerlei opgeloste queries** omtrent de data over Guido Gezelle beschikbaar op Wikidata.
+Deze repository bevat ook een lijst van allerlei opgeloste queries omtrent de data over Guido Gezelle beschikbaar op Wikidata.
+👉 **[Bekijk de queries hier](https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/blob/main/OpgelosteQueriesWikidata/OpgelosteQueriesWikidata.pdf)**
 
 ### Algemene Handleiding
-Omdat niet alles behandeld kon worden in de specifieke handleidingen, werd ook een **algemene handleiding** opgesteld. Ook deze is terug te vinden in de repository.
+Omdat niet alles behandeld kon worden in de specifieke handleidingen, werd ook een algemene handleiding opgesteld. Ook deze is terug te vinden in de repository.
+👉 **[Open de Algemene Handleiding](https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/blob/main/AlgemeneHandleiding/AlgemeneHandleiding_VisualisatiesGuidoGezelleWikidata.pdf)**
 
 ---
 
+## 🛠 Gebruik (Clonen)
+
+Wil je deze repository zelf gebruiken of lokaal bekijken? Gebruik het volgende commando in je terminal:
+
 ```bash
-git clone [https://github.com/guacamolekoala/DocumentationVisualisationsGuidoGezelle.git](https://github.com/guacamolekoala/DocumentationVisualisationsGuidoGezelle.git)
+git clone [https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle.git](https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle.git)
