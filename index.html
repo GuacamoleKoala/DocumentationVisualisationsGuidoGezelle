@@ -71,7 +71,8 @@
             flex-wrap: wrap;
         }
 
-        .btn-manual, .btn-presentation {
+        /* Alle knoppen nu uniform zwart */
+        .btn-black {
             padding: 15px 25px;
             text-decoration: none;
             font-weight: bold;
@@ -81,23 +82,31 @@
             display: inline-block;
             border: 2px solid #000000;
             text-transform: uppercase;
+            background-color: #000000;
+            color: #ffffff;
             text-align: center;
         }
 
-        .btn-manual {
-            background-color: #000000;
-            color: #ffffff;
-        }
-
-        .btn-presentation {
-            background-color: #ffffff;
-            color: #000000;
-        }
-
-        .btn-manual:hover, .btn-presentation:hover { 
+        .btn-black:hover { 
             background-color: #AADDDD; 
             color: #000000;
             border-color: #AADDDD;
+        }
+
+        /* Tussentitel Stijl */
+        .section-header {
+            max-width: 1200px;
+            margin: 0 auto 50px auto;
+            padding: 0 20px;
+        }
+
+        .section-header h2 {
+            font-size: 2.2rem;
+            font-weight: 900;
+            text-transform: uppercase;
+            letter-spacing: -1.5px;
+            margin: 0;
+            line-height: 1.1;
         }
 
         /* Grid en Kaarten */
@@ -244,6 +253,7 @@
             header { text-align: center; flex-direction: column-reverse; }
             .intro-text { border-left: none; border-top: 5px solid #AADDDD; padding: 20px 0 0 0; }
             .cta-buttons { justify-content: center; }
+            .section-header h2 { font-size: 1.8rem; text-align: center; }
         }
     </style>
 </head>
@@ -256,16 +266,14 @@
                 De digitale ontsluiting van de briefwisseling van Guido Gezelle kent een rijke geschiedenis. We transformeren abstracte <strong>Linked Open Data op Wikidata</strong> naar concrete, interactieve netwerkvisualisaties die zijn sociale, institutionele en geografische leefwereld tonen.
             </div>
             <div class="cta-buttons">
-                <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/blob/main/AlgemeneHandleiding/AlgemeneHandleidingVisualisatiesGuidoGezelle.ipynb" class="btn-manual" target="_blank">
-                    Algemene Handleiding
-                </a>
-                
-                <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle" class="btn-presentation" target="_blank">
+                <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle" class="btn-black" target="_blank">
                     Project Documentatie
                 </a>
-
-                <a href="Presentatie/Presentatie_gezelle.pdf" class="btn-presentation" target="_blank">
-                     Bekijk Presentatie
+                <a href="Presentatie/Presentatie_gezelle.pdf" class="btn-black" target="_blank">
+                    Bekijk Presentatie
+                </a>
+                <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/blob/main/AlgemeneHandleiding/AlgemeneHandleidingVisualisatiesGuidoGezelle.ipynb" class="btn-black" target="_blank">
+                    Algemene Handleiding
                 </a>
             </div>
         </div>
@@ -275,6 +283,10 @@
     </header>
 
     <section class="main-content">
+        <div class="section-header">
+            <h2>Ontdek de interactieve visualisaties</h2>
+        </div>
+
         <div class="container">
             <div class="card">
                 <h3>V1: Persoonlijk Netwerk</h3>
