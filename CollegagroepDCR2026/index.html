@@ -3,214 +3,321 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meemoo Workshop: Netwerkvisualisatie</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;500;700&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <title>Workshop: Wikidata & Netwerkvisualisatie - Meemoo</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    
-    <script>
-        tailwind.config = {
-            theme: {
-                extend: {
-                    colors: {
-                        meemoogreen: '#05D394', // Het frisse meemoo groen
-                        meemooblack: '#1A1A1A',
-                    },
-                    fontFamily: {
-                        sans: ['Inter', 'sans-serif'],
-                        display: ['Space Grotesk', 'sans-serif'],
-                    }
-                }
-            }
-        }
-    </script>
-
     <style>
-        .step-card {
-            transition: transform 0.2s ease;
-            border: 2px solid #F1F5F9;
+        /* Meemoo-geïnspireerde stijl: Strak, hoog contrast en minimalistisch */
+        body {
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            background-color: #ffffff;
+            color: #000000;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
         }
-        .step-card:hover {
-            transform: translateY(-4px);
-            border-color: #05D394;
+
+        /* Hero Sectie */
+        header {
+            max-width: 1000px;
+            margin: 60px auto 40px auto;
+            padding: 0 20px;
         }
-        .blob {
-            position: absolute;
-            width: 300px;
+
+        h1 { 
+            font-size: 3.5rem; 
+            font-weight: 900;
+            line-height: 1.0;
+            margin-bottom: 25px;
+            letter-spacing: -2px;
+            text-transform: uppercase;
+        }
+
+        .intro-text { 
+            font-size: 1.2rem; 
+            color: #1a1a1a; 
+            margin-bottom: 30px;
+            border-left: 8px solid #AADDDD;
+            padding-left: 25px;
+            max-width: 800px;
+        }
+        
+        /* Knoppen */
+        .cta-buttons {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+
+        .btn-black {
+            padding: 15px 30px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 0.85rem;
+            letter-spacing: 1px;
+            transition: all 0.2s ease;
+            display: inline-block;
+            border: 2px solid #000000;
+            text-transform: uppercase;
+            background-color: #000000;
+            color: #ffffff;
+        }
+
+        .btn-black:hover { 
+            background-color: #AADDDD; 
+            color: #000000;
+            border-color: #AADDDD;
+        }
+
+        /* Workflow Sectie */
+        .main-content {
+            background-color: #fafafa;
+            padding: 80px 20px;
+        }
+
+        .section-header {
+            max-width: 1200px;
+            margin: 0 auto 50px auto;
+        }
+
+        .section-header h2 {
+            font-size: 2.2rem;
+            font-weight: 900;
+            text-transform: uppercase;
+            letter-spacing: -1.5px;
+            margin: 0;
+        }
+
+        /* Workflow Grid */
+        .container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+            gap: 40px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .card {
+            background: #ffffff;
+            padding: 40px;
+            border: 1px solid #e0e0e0;
+            display: flex;
+            flex-direction: column;
+            transition: transform 0.3s ease, border-color 0.3s ease;
+            position: relative;
+        }
+
+        .card:hover { 
+            border-color: #AADDDD;
+            transform: translateY(-5px);
+        }
+
+        .step-number {
+            font-weight: 900;
+            font-size: 0.8rem;
+            background: #AADDDD;
+            padding: 4px 12px;
+            display: inline-block;
+            margin-bottom: 20px;
+            align-self: flex-start;
+        }
+
+        .card h3 { 
+            margin: 0 0 15px 0; 
+            font-size: 1.6rem; 
+            font-weight: 800;
+            text-transform: uppercase;
+            line-height: 1.1;
+        }
+
+        .description {
+            font-size: 1rem;
+            color: #444;
+            margin-bottom: 25px;
+            flex-grow: 1;
+        }
+
+        /* Code Block Styling */
+        .code-container {
+            background: #111;
+            color: #AADDDD;
+            padding: 20px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.85rem;
+            margin-bottom: 20px;
+            overflow-x: auto;
+            border-radius: 0;
+        }
+
+        /* Action Links */
+        .action-link {
+            background-color: #AADDDD;
+            color: #000000;
+            text-align: center;
+            padding: 15px;
+            text-decoration: none;
+            font-weight: bold;
+            margin-bottom: 15px;
+            transition: all 0.2s;
+            border: 2px solid #AADDDD;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+        }
+
+        .action-link:hover { 
+            background-color: #000000; 
+            color: #ffffff;
+            border-color: #000000;
+        }
+
+        .sub-manual {
+            font-size: 0.8rem;
+            color: #000000;
+            text-decoration: none;
+            border-bottom: 3px solid #AADDDD;
+            padding-bottom: 3px;
+            align-self: flex-start;
+            font-weight: 800;
+            text-transform: uppercase;
+        }
+
+        /* Interactive Viz Placeholder */
+        .viz-placeholder {
+            width: 100%;
             height: 300px;
-            background: #05D394;
-            filter: blur(80px);
-            opacity: 0.1;
-            z-index: -1;
+            background-color: #000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #fff;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            font-weight: bold;
+        }
+
+        /* Knowledge Base / Footer */
+        .knowledge-base {
+            max-width: 1200px;
+            margin: 60px auto 0 auto;
+            padding: 80px 40px;
+            background-color: #000000;
+            color: #ffffff;
+            text-align: center;
+        }
+
+        .knowledge-base h3 {
+            text-transform: uppercase;
+            font-weight: 900;
+            font-size: 2.5rem;
+            margin-top: 0;
+            letter-spacing: -1px;
+        }
+
+        footer {
+            max-width: 1200px;
+            margin: 60px auto;
+            padding: 40px 20px;
+            border-top: 1px solid #e0e0e0;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #666;
+        }
+
+        @media (max-width: 768px) {
+            h1 { font-size: 2.5rem; }
+            .container { grid-template-columns: 1fr; }
         }
     </style>
 </head>
-<body class="bg-white text-meemooblack antialiased">
+<body>
 
-    <div class="blob top-0 right-0"></div>
-    <div class="blob bottom-20 left-0"></div>
-
-    <header class="py-8 px-6 max-w-6xl mx-auto flex justify-between items-center">
-        <div class="flex items-center gap-2">
-            <div class="w-8 h-8 bg-meemoogreen rounded-full"></div>
-            <span class="font-display font-bold text-2xl tracking-tight">meemoo <span class="font-light text-gray-400">/ lab</span></span>
+    <header>
+        <h1>Workshop:<br>Wikidata naar Netwerk</h1>
+        <div class="intro-text">
+            <p>
+                In deze workshop voor de <strong>collegawerkgroep digitale collectieregistratie</strong> leren we hoe we data uit Wikidata omzetten in betekenisvolle netwerkvisualisaties. We doorlopen de volledige keten: van SPARQL-queries en AI-opschoning tot Gephi-analyse en publicatie.
+            </p>
         </div>
-        <div class="hidden md:block text-sm font-medium tracking-widest uppercase text-gray-400">
-            Digitale Collectieregistratie
+        <div class="cta-buttons">
+            <a href="https://guacamolekoala.github.io/DocumentationVisualisationsGuidoGezelle/" class="btn-black" target="_blank">
+                Bekijk Guido Gezelle Docs
+            </a>
+            <a href="https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle" class="btn-black" target="_blank">
+                Github Repository
+            </a>
         </div>
     </header>
 
-    <section class="max-w-4xl mx-auto px-6 py-20 text-center">
-        <h1 class="font-display text-5xl md:text-7xl font-bold mb-8 leading-tight">
-            Van Wikidata naar <span class="text-meemoogreen underline decoration-4 underline-offset-8">Netwerk</span>
-        </h1>
-        <p class="text-xl text-gray-500 max-w-2xl mx-auto leading-relaxed">
-            Een 2-uur durende workflow om relaties in erfgoeddata te ontdekken, op te schonen en prachtig te visualiseren.
-        </p>
+    <section class="main-content">
+        <div class="section-header">
+            <h2>De Workflow</h2>
+        </div>
+
+        <div class="container">
+            <div class="card">
+                <span class="step-number">STAP 01</span>
+                <h3>Data Bevragen (SPARQL)</h3>
+                <p class="description">We starten met de bron. Gebruik de onderstaande query om direct data over correspondentie-netwerken uit Wikidata te halen.</p>
+                
+                <div class="code-container">
+                    SELECT ?item ?itemLabel ?student ?studentLabel WHERE {<br>
+                    &nbsp;&nbsp;?item wdt:P106 wd:Q36180 .<br>
+                    &nbsp;&nbsp;?student wdt:P1066 ?item .<br>
+                    &nbsp;&nbsp;SERVICE wikibase:label { bd:serviceParam wikibase:language "nl". }<br>
+                    } LIMIT 100
+                </div>
+
+                <a href="https://query.wikidata.org/" class="action-link" target="_blank">Open Query Service</a>
+                <a href="https://www.wikidata.org/wiki/Wikidata:SPARQL_tutorial" class="sub-manual" target="_blank">Tutorial: Wikidata SPARQL</a>
+            </div>
+
+            <div class="card">
+                <span class="step-number">STAP 02</span>
+                <h3>Opschonen & Structureren</h3>
+                <p class="description">Netwerksoftware heeft 'Nodes' en 'Edges' nodig. We gebruiken AI-prompts om de SPARQL-export razendsnel te transformeren naar bruikbare CSV-bestanden.</p>
+                
+                <div style="display: flex; gap: 10px; margin-bottom: 25px;">
+                    <a href="#" class="action-link" style="flex: 1; margin-bottom: 0;">Nodes.csv</a>
+                    <a href="#" class="action-link" style="flex: 1; margin-bottom: 0;">Edges.csv</a>
+                </div>
+
+                <a href="https://gephi.org/users/supported-graph-formats/csv-format/" class="sub-manual" target="_blank">Handleiding: CSV Structuren</a>
+            </div>
+
+            <div class="card">
+                <span class="step-number">STAP 03</span>
+                <h3>Analyse in Gephi</h3>
+                <p class="description">Importeer de CSV's in Gephi voor de eigenlijke visualisatie. Gebruik algoritmes zoals ForceAtlas2 om clusters en hubs in de collectie zichtbaar te maken.</p>
+                
+                <a href="#" class="action-link">Download .Gephi Project</a>
+                
+                <a href="https://www.martingrandjean.ch/gephi-introduction-how-to-use-gephi/" class="sub-manual" target="_blank">Tutorial: Gephi voor Beginners</a>
+            </div>
+
+            <div class="card">
+                <span class="step-number">STAP 04</span>
+                <h3>Interactieve Publicatie</h3>
+                <p class="description">Het eindresultaat: een interactieve web-visualisatie waarmee de gebruiker zelf door de data kan navigeren.</p>
+                
+                <div class="viz-placeholder">
+                    [ Interactieve Visualisatie Demo ]
+                </div>
+
+                <a href="https://guacamolekoala.github.io/DocumentationVisualisationsGuidoGezelle/InteractieveVisualisaties/Visualisatie1" class="sub-manual" target="_blank">Voorbeeld: Gezelle Netwerk</a>
+            </div>
+        </div>
+
+        <div class="knowledge-base">
+            <h3>Documentatie & Context</h3>
+            <p>Dit proces is gebaseerd op de methodiek die is toegepast binnen het Guido Gezelle project voor de ontsluiting van erfgoeddata.</p>
+            <a href="https://kennisbank.meemoo.be/" class="btn-black" style="background-color: #AADDDD; color: #000; border: none; padding: 20px 40px;">Naar Meemoo Kennisbank</a>
+        </div>
     </section>
 
-    <main class="max-w-4xl mx-auto px-6 space-y-12 pb-32">
-        
-        <div class="step-card bg-white p-8 md:p-12 rounded-[2rem] shadow-sm relative overflow-hidden">
-            <span class="absolute top-8 right-12 text-6xl font-display font-bold text-gray-50">01</span>
-            
-            <div class="inline-flex items-center justify-center w-12 h-12 bg-meemoogreen text-meemooblack rounded-full mb-6 font-bold">
-                <i class="fas fa-terminal"></i>
-            </div>
-            
-            <h2 class="text-3xl font-display font-bold mb-4">Data Bevragen (SPARQL)</h2>
-            <p class="text-gray-600 mb-8 text-lg">Halen we de ruwe data op uit de Wikidata Query Service. We zoeken naar connecties tussen entiteiten.</p>
-
-            <div class="bg-gray-50 rounded-2xl p-6 mb-8 font-mono text-sm border border-gray-100 group">
-                <div class="flex justify-between items-center mb-4">
-                    <span class="text-gray-400">example_query.sparql</span>
-                    <button onclick="copyQuery()" class="hover:text-meemoogreen transition"><i class="fas fa-copy"></i></button>
-                </div>
-                <pre class="text-blue-600 overflow-x-auto">
-SELECT ?item ?itemLabel ?student ?studentLabel WHERE {
-  ?item wdt:P106 wd:Q36180 .
-  ?student wdt:P1066 ?item .
-  SERVICE wikibase:label { 
-    bd:serviceParam wikibase:language "nl". 
-  }
-} LIMIT 100</pre>
-            </div>
-
-            <div class="flex flex-col sm:flex-row gap-4 items-center">
-                <a href="https://query.wikidata.org/" target="_blank" class="w-full sm:w-auto bg-meemooblack text-white px-8 py-4 rounded-full font-bold hover:bg-meemoogreen hover:text-meemooblack transition-all text-center">
-                    Start Query Service
-                </a>
-                <a href="#" class="text-gray-400 hover:text-meemooblack text-sm font-semibold underline decoration-2 underline-offset-4">
-                    Bekijk SPARQL Tutorial
-                </a>
-            </div>
-        </div>
-
-        <div class="step-card bg-white p-8 md:p-12 rounded-[2rem] shadow-sm relative">
-            <span class="absolute top-8 right-12 text-6xl font-display font-bold text-gray-50">02</span>
-            
-            <div class="inline-flex items-center justify-center w-12 h-12 bg-meemoogreen text-meemooblack rounded-full mb-6 font-bold">
-                <i class="fas fa-magic"></i>
-            </div>
-            
-            <h2 class="text-3xl font-display font-bold mb-4">Opschonen met AI</h2>
-            <p class="text-gray-600 mb-8 text-lg">We gebruiken AI om de ruwe resultaten razendsnel om te vormen naar Nodes en Edges CSV-bestanden.</p>
-
-            <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
-                <div class="border-2 border-dashed border-gray-100 rounded-2xl p-6 flex flex-col items-center">
-                    <i class="fas fa-file-csv text-3xl mb-2 text-meemoogreen"></i>
-                    <span class="font-bold">nodes.csv</span>
-                    <a href="#" class="mt-4 text-xs font-bold uppercase tracking-widest hover:text-meemoogreen">Download</a>
-                </div>
-                <div class="border-2 border-dashed border-gray-100 rounded-2xl p-6 flex flex-col items-center">
-                    <i class="fas fa-file-csv text-3xl mb-2 text-meemoogreen"></i>
-                    <span class="font-bold">edges.csv</span>
-                    <a href="#" class="mt-4 text-xs font-bold uppercase tracking-widest hover:text-meemoogreen">Download</a>
-                </div>
-            </div>
-            <a href="#" class="text-gray-400 hover:text-meemooblack text-sm font-semibold underline decoration-2 underline-offset-4">
-                Uitleg over netwerkstructuren
-            </a>
-        </div>
-
-        <div class="step-card bg-white p-8 md:p-12 rounded-[2rem] shadow-sm relative">
-            <span class="absolute top-8 right-12 text-6xl font-display font-bold text-gray-50">03</span>
-            
-            <div class="inline-flex items-center justify-center w-12 h-12 bg-meemoogreen text-meemooblack rounded-full mb-6 font-bold">
-                <i class="fas fa-project-diagram"></i>
-            </div>
-            
-            <h2 class="text-3xl font-display font-bold mb-4">Analyse in Gephi</h2>
-            <p class="text-gray-600 mb-8 text-lg">Importeer de data in Gephi, bereken de modulariteit en geef je netwerk vorm met algoritmes.</p>
-
-            <a href="#" class="inline-flex items-center bg-meemoogreen text-meemooblack px-8 py-4 rounded-full font-bold hover:shadow-lg transition-all">
-                <i class="fas fa-download mr-2"></i> Download .gephi bestand
-            </a>
-            <div class="mt-6">
-                <a href="#" class="text-gray-400 hover:text-meemooblack text-sm font-semibold underline decoration-2 underline-offset-4">
-                    Gids: Gephi voor beginners
-                </a>
-            </div>
-        </div>
-
-        <div class="step-card bg-white p-8 md:p-12 rounded-[2rem] shadow-sm relative">
-            <span class="absolute top-8 right-12 text-6xl font-display font-bold text-gray-50">04</span>
-            
-            <div class="inline-flex items-center justify-center w-12 h-12 bg-meemoogreen text-meemooblack rounded-full mb-6 font-bold">
-                <i class="fas fa-mouse-pointer"></i>
-            </div>
-            
-            <h2 class="text-3xl font-display font-bold mb-4">Interactief Resultaat</h2>
-            <p class="text-gray-600 mb-8 text-lg">Speel met de data. Zoom in op clusters en ontdek verborgen patronen.</p>
-
-            <div class="w-full h-80 bg-meemooblack rounded-3xl flex items-center justify-center group cursor-pointer relative overflow-hidden">
-                <div class="text-center z-10">
-                    <div class="w-16 h-16 bg-white/10 rounded-full flex items-center justify-center mb-4 mx-auto group-hover:scale-110 transition-transform">
-                        <i class="fas fa-play text-meemoogreen"></i>
-                    </div>
-                    <p class="text-white font-bold">Activeer Visualisatie</p>
-                </div>
-                <div class="absolute inset-0 opacity-30 grayscale group-hover:grayscale-0 transition-all bg-[url('https://www.martingrandjean.ch/wp-content/uploads/2013/10/Gezelle-Network.png')] bg-cover"></div>
-            </div>
-        </div>
-
-    </main>
-
-    <footer class="bg-gray-50 border-t border-gray-100 py-20 px-6">
-        <div class="max-w-4xl mx-auto flex flex-col md:flex-row justify-between items-start gap-12">
-            <div class="max-w-xs">
-                <h3 class="font-display font-bold text-xl mb-4">Guido Gezelle Project</h3>
-                <p class="text-gray-500 text-sm leading-relaxed mb-6">Gabaseerd op de volledige documentatie en workflow van het Gezelle-archief op GitHub.</p>
-                <a href="https://guacamolekoala.github.io/DocumentationVisualisationsGuidoGezelle/" class="text-meemooblack font-bold text-sm underline decoration-meemoogreen decoration-4">Bekijk volledige docs</a>
-            </div>
-            <div class="flex gap-12">
-                <div>
-                    <h4 class="font-bold text-xs uppercase tracking-widest text-gray-400 mb-4">Workshop</h4>
-                    <ul class="text-sm space-y-2 font-medium">
-                        <li><a href="#" class="hover:text-meemoogreen">GitHub Repo</a></li>
-                        <li><a href="#" class="hover:text-meemoogreen">Data Bronnen</a></li>
-                    </ul>
-                </div>
-                <div>
-                    <h4 class="font-bold text-xs uppercase tracking-widest text-gray-400 mb-4">Meemoo</h4>
-                    <ul class="text-sm space-y-2 font-medium">
-                        <li><a href="#" class="hover:text-meemoogreen">Over de werkgroep</a></li>
-                        <li><a href="#" class="hover:text-meemoogreen">Contact</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="max-w-4xl mx-auto mt-20 text-center text-xs text-gray-400 font-medium">
-            &copy; 2024 MEEMOO — DIGITALE COLLECTIEREGISTRATIE
-        </div>
+    <footer>
+        <p><strong>Meemoo Werkgroep Digitale Collectieregistratie</strong></p>
+        <p>Workshop Netwerkvisualisatie &copy; 2026</p>
     </footer>
 
-    <script>
-        function copyQuery() {
-            const code = `SELECT ?item ?itemLabel ?student ?studentLabel WHERE { ?item wdt:P106 wd:Q36180 . ?student wdt:P1066 ?item . SERVICE wikibase:label { bd:serviceParam wikibase:language "nl". } } LIMIT 100`;
-            navigator.clipboard.writeText(code);
-            alert('Query gekopieerd!');
-        }
-    </script>
 </body>
 </html>
