@@ -1,6 +1,6 @@
 # Netwerkvisualisaties Guido Gezelle op basis van Wikidata
 
-<img width="1368" height="815" alt="Meemoo-logo_lockup-pos-rgb" src="https://github.com/user-attachments/assets/adb1d73f-4302-48e3-854f-dbf1445b05f1" />
+<img width="600" height="400" alt="Meemoo-logo_lockup-pos-rgb" src="https://github.com/user-attachments/assets/adb1d73f-4302-48e3-854f-dbf1445b05f1" />
 
 Deze README licht de documentatie toe bij het project omtrent visualisaties rondom beschikbare data op Wikidata inzake het netwerk van Guido Gezelle. 
 
