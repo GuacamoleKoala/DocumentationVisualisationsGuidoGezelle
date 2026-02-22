@@ -1,6 +1,6 @@
 # Netwerkvisualisaties Guido Gezelle op basis van Wikidata
 
-<img src="meemoo/png" alt="meemoo logo" width="200">
+<img width="300" height="200" alt="Meemoo-logo_lockup-pos-rgb" src="https://github.com/user-attachments/assets/adb1d73f-4302-48e3-854f-dbf1445b05f1" />
 
 Deze README licht de documentatie toe bij het project omtrent visualisaties rondom beschikbare data op Wikidata inzake het netwerk van Guido Gezelle. 
 
@@ -56,11 +56,6 @@ Deze repository bevat ook een lijst van allerlei opgeloste queries omtrent de da
 Omdat niet alles behandeld kon worden in de specifieke handleidingen, werd ook een algemene handleiding opgesteld. Ook deze is terug te vinden in de repository.
 👉 **[Open de Algemene Handleiding](https://github.com/viaacode/DocumentationVisualisationsGuidoGezelle/blob/main/AlgemeneHandleiding/AlgemeneHandleiding_VisualisatiesGuidoGezelleWikidata.pdf)**
 
----
-
-## 🛠 Gebruik (Clonen)
-
-Wil je deze repository zelf gebruiken of lokaal bekijken? Gebruik het volgende commando in je terminal:
 
 ```bash
 git clone [https://github.com/viaacode/DocumentationVisualisationsGuidoGezelle.git](https://github.com/viaacode/DocumentationVisualisationsGuidoGezelle.git)
