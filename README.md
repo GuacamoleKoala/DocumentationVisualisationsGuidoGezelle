@@ -44,6 +44,8 @@ Hieronder wordt de mappenstructuur verder toegelicht, zodat iedereen hiermee aan
 
 ## 📑 Aanvullende Documentatie
 
+projectwebsite:
+
 ### Presentatie van project
 In deze repository kan ook een powerpointpresentatie teruggevonden worden. Deze bevat een overzicht van de grote lijnen van dit project en onderzoek.
 👉 **[Download de presentatie hier](x)**
@@ -55,3 +57,5 @@ Deze repository bevat ook een lijst van allerlei opgeloste queries omtrent de da
 ### Algemene Handleiding
 Omdat niet alles behandeld kon worden in de specifieke handleidingen, werd ook een algemene handleiding opgesteld. Ook deze is terug te vinden in de repository.
 👉 **[Open de Algemene Handleiding](https://github.com/viaacode/DocumentationVisualisationsGuidoGezelle/blob/main/AlgemeneHandleiding/AlgemeneHandleiding_VisualisatiesGuidoGezelleWikidata.pdf)**
+
+artikel kennisbank
