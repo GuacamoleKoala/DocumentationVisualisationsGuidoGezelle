@@ -56,11 +56,3 @@ Deze repository bevat ook een lijst van allerlei opgeloste queries omtrent de da
 Omdat niet alles behandeld kon worden in de specifieke handleidingen, werd ook een algemene handleiding opgesteld. Ook deze is terug te vinden in de repository.
 👉 **[Open de Algemene Handleiding](https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/blob/main/AlgemeneHandleiding/AlgemeneHandleiding_VisualisatiesGuidoGezelleWikidata.pdf)**
 
----
-
-## 🛠 Gebruik (Clonen)
-
-Wil je deze repository zelf gebruiken of lokaal bekijken? Gebruik het volgende commando in je terminal:
-
-```bash
-git clone [https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle.git](https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle.git)
