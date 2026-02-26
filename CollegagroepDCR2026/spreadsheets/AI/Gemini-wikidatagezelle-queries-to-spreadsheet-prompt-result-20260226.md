@@ -1,3 +1,37 @@
+prompt
+
+“Ik heb een query gebouwd met sparql taal om wikidata te bevragen. Ik heb alle relaties met personen die aan guido gezelle gekoppeld zijn. dit is zijn wikidata pagina: https://www.wikidata.org/wiki/Q336977”
+Nu wil ik echter een knopenbestand en randenbestand maken om later te verwerken in Gephi. Kan je de query of queries omzetten (Query bijvoegen in tekst) in twee nieuwe queries, namelijk eentje om de knopen te verkrijgen en eentje om de randen te verkrijgen?
+(Je mag me ook een stap voor stap gids geven om de nodige extra kolommen aan te maken voor deze twee tabellen in functie van wat nodig is om ze in gephi te laten werken.)
+
+SELECT ?persoon ?persoonLabel ?property ?propertyLabel ?rol ?rolLabel WHERE {
+  # 1. Start bij Guido Gezelle
+  BIND(wd:Q336977 AS ?gezelle)
+
+  # 2. Zoek alle beweringen (statements) op zijn pagina
+  ?gezelle ?p ?statement .
+
+  # 3. Zoek de personen (Q5) binnen die beweringen
+  ?statement ?ps ?persoon .
+  ?persoon wdt:P31 wd:Q5 .
+
+  # 4. Koppel de technische eigenschappen aan de property-items
+  ?property wikibase:claim ?p .
+  ?property wikibase:statementProperty ?ps .
+
+  # 5. Zoek specifiek naar P3831 (object heeft rol)
+  OPTIONAL {
+    ?statement pq:P3831 ?rol .
+  }
+
+  # Haal de labels op in het Nederlands en Engels
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "nl,en". }
+}
+ORDER BY ?persoonLabel"
+
+result:
+
+
 Wat een uitstekend idee! Gephi is een fantastische tool om de netwerken rondom historische figuren zoals Guido Gezelle te visualiseren.
 
 Om de overstap van Wikidata naar Gephi te maken, moeten we je data splitsen in twee specifieke CSV-bestanden: de **Nodes** (de punten in het netwerk) en de **Edges** (de lijnen/verbindingen).
