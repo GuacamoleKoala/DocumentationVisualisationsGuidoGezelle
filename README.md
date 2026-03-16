@@ -1,7 +1,5 @@
 # Netwerkvisualisaties Guido Gezelle op basis van Wikidata
 
-<img src="https://meemoo.be/docroot/themes/custom/meemoo_theme/logo.svg" alt="meemoo logo" width="200">
-
 Deze README licht de documentatie toe bij het project omtrent visualisaties rondom beschikbare data op Wikidata inzake het netwerk van Guido Gezelle. 
 
 Dit project werd uitgevoerd door **Jenske Verhamme**, in functie van een stage-opdracht voor de opleiding **'Postgraduaat cultureel erfgoed: digitale transformatie'**.
