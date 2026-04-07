@@ -1,5 +1,7 @@
 # Netwerkvisualisaties Guido Gezelle op basis van Wikidata
 
+<img width="300" height="200" alt="Meemoo-logo_lockup-pos-rgb" src="https://github.com/user-attachments/assets/adb1d73f-4302-48e3-854f-dbf1445b05f1" />
+
 Deze README licht de documentatie toe bij het project omtrent visualisaties rondom beschikbare data op Wikidata inzake het netwerk van Guido Gezelle. 
 
 Dit project werd uitgevoerd door **Jenske Verhamme**, in functie van een stage-opdracht voor de opleiding **'Postgraduaat cultureel erfgoed: digitale transformatie'**.
@@ -9,7 +11,7 @@ Dit project werd uitgevoerd door **Jenske Verhamme**, in functie van een stage-o
 
 ---
 
-## Overzicht van de vijf interactieve visualisaties
+##  Overzicht van de vijf interactieve visualisaties
 
 Hieronder vind je de beschrijvingen en links naar de interactieve visualisaties:
 
@@ -40,17 +42,33 @@ Hieronder wordt de mappenstructuur verder toegelicht, zodat iedereen hiermee aan
 
 ---
 
-## 📑 Aanvullende Documentatie
+##  Aanvullende Documentatie
+### projectwebsite
+
+Om makkelijker te kunnen navigeren  door de documentatie, werd een projectwebsite ontwikkeld: https://guacamolekoala.github.io/DocumentationVisualisationsGuidoGezelle/
 
 ### Presentatie van project
 In deze repository kan ook een powerpointpresentatie teruggevonden worden. Deze bevat een overzicht van de grote lijnen van dit project en onderzoek.
- **[Download de presentatie hier](https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/raw/main/PresentatieProject/VisualisatiesRondomDataGuidoGezelleWikidata_JenskeVerhamme.pptx)**
+--> **[Download de presentatie hier](x)**
 
 ### Opgeloste queries
 Deze repository bevat ook een lijst van allerlei opgeloste queries omtrent de data over Guido Gezelle beschikbaar op Wikidata.
- **[Bekijk de queries hier](https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/blob/main/OpgelosteQueriesWikidata/OpgelosteQueriesWikidata.pdf)**
+--> **[Bekijk de queries hier](https://github.com/guacamolekoala/DocumentationVisualisationsGuidoGezelle/blob/main/OpgelosteQueriesWikidata/OpgelosteQueriesWikidata.pdf)**
 
 ### Algemene Handleiding
 Omdat niet alles behandeld kon worden in de specifieke handleidingen, werd ook een algemene handleiding opgesteld. Ook deze is terug te vinden in de repository.
- **[Open de Algemene Handleiding](https://github.com/GuacamoleKoala/DocumentationVisualisationsGuidoGezelle/blob/main/AlgemeneHandleiding/AlgemeneHandleiding_VisualisatiesGuidoGezelleWikidata.pdf)**
+👉 **[Open de Algemene Handleiding](https://github.com/guacamolekoala/DocumentationVisualisationsGuidoGezelle/blob/main/AlgemeneHandleiding/AlgemeneHandleiding_VisualisatiesGuidoGezelleWikidata.pdf)**
 
+### Artikel kennisbank
+
+Tot slot werd er ook een artikel geplaatst op de kennisbank van Meemoo (CEST) waarin de resultaten van het project worden gedeeld.
+Het artikel kun je binnenkort op de kennisbank (of hier) lezen.
+
+
+### Collegagroep Digitale Collectieregistratie: 
+
+Op 26 maart 2026 gaven Jenske Verhamme en Rony Vissers (meemoo) in het kader van een bijeenkomst van de Collegagroep Digitale Collectieregistratie aansluitend bij dit project ook een workshop omtrent datavisualisaties. De focus van deze workshop lag op het bevragen van Wikidata en het visualiseren met Gephi. Het doel was de deelnemers de basiskennis te bezorgen die nodig is om linked open data te bevragen met SPARQL-queries en om ze om te zetten in een publiek toegankelijke, interactieve netwerkvisualisatie.
+
+De presentaties met betrekking tot het bevragen van linked open data met behulp van SPARQL-queries en het visualiseren met Gephi, kun je downloaden via het artikel op de kennisbank, of via deze weg: https://github.com/GuacamoleKoala/CollegagroepDCR2026
+
+Een projectwebsite biedt ook hier meer overzicht om door de documentatie te navigeren: https://guacamolekoala.github.io/CollegagroepDCR2026/
