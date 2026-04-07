@@ -57,13 +57,12 @@ Deze repository bevat ook een lijst van allerlei opgeloste queries omtrent de da
 
 ### Algemene Handleiding
 Omdat niet alles behandeld kon worden in de specifieke handleidingen, werd ook een algemene handleiding opgesteld. Ook deze is terug te vinden in de repository.
-👉 **[Open de Algemene Handleiding](https://github.com/viaacode/DocumentationVisualisationsGuidoGezelle/blob/main/AlgemeneHandleiding/AlgemeneHandleiding_VisualisatiesGuidoGezelleWikidata.pdf)**
+--> **[Open de Algemene Handleiding](https://github.com/viaacode/DocumentationVisualisationsGuidoGezelle/blob/main/AlgemeneHandleiding/AlgemeneHandleiding_VisualisatiesGuidoGezelleWikidata.pdf)**
 
 ### Artikel kennisbank
 
 Tot slot werd er ook een artikel geplaatst op de kennisbank van Meemoo (CEST) waarin de resultaten van het project worden gedeeld.
-Het artikel kun je binnenkort op de kennisbank (of hier) lezen.
-
+Het artikel kun je (binnenkort) op de kennisbank (of hier) lezen.
 
 ### Collegagroep Digitale Collectieregistratie: 
 
