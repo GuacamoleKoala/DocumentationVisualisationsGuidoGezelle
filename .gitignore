@@ -1,1 +1,3 @@
-
+# Negeer macOS systeembestanden
+.DS_Store
+**/.DS_Store
