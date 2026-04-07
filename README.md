@@ -43,8 +43,9 @@ Hieronder wordt de mappenstructuur verder toegelicht, zodat iedereen hiermee aan
 ---
 
 ##  Aanvullende Documentatie
+### projectwebsite
 
-projectwebsite:
+Om makkelijker te kunnen navigeren  door de documentatie, werd een projectwebsite ontwikkeld: https://viaacode.github.io/DocumentationVisualisationsGuidoGezelle/
 
 ### Presentatie van project
 In deze repository kan ook een powerpointpresentatie teruggevonden worden. Deze bevat een overzicht van de grote lijnen van dit project en onderzoek.
@@ -58,4 +59,16 @@ Deze repository bevat ook een lijst van allerlei opgeloste queries omtrent de da
 Omdat niet alles behandeld kon worden in de specifieke handleidingen, werd ook een algemene handleiding opgesteld. Ook deze is terug te vinden in de repository.
 👉 **[Open de Algemene Handleiding](https://github.com/viaacode/DocumentationVisualisationsGuidoGezelle/blob/main/AlgemeneHandleiding/AlgemeneHandleiding_VisualisatiesGuidoGezelleWikidata.pdf)**
 
-artikel kennisbank
+### Artikel kennisbank
+
+Tot slot werd er ook een artikel geplaatst op de kennisbank van Meemoo (CEST) waarin de resultaten van het project worden gedeeld.
+Het artikel kun je binnenkort op de kennisbank (of hier) lezen.
+
+
+### Collegagroep Digitale Collectieregistratie: 
+
+Op 26 maart 2026 gaven Jenske Verhamme en Rony Vissers (meemoo) in het kader van een bijeenkomst van de Collegagroep Digitale Collectieregistratie aansluitend bij dit project ook een workshop omtrent datavisualisaties. De focus van deze workshop lag op het bevragen van Wikidata en het visualiseren met Gephi. Het doel was de deelnemers de basiskennis te bezorgen die nodig is om linked open data te bevragen met SPARQL-queries en om ze om te zetten in een publiek toegankelijke, interactieve netwerkvisualisatie.
+
+De presentaties met betrekking tot het bevragen van linked open data met behulp van SPARQL-queries en het visualiseren met Gephi, kun je downloaden via het artikel op de kennisbank, of via deze weg: https://github.com/GuacamoleKoala/CollegagroepDCR2026
+
+Een projectwebsite biedt ook hier meer overzicht om door de documentatie te navigeren: https://guacamolekoala.github.io/CollegagroepDCR2026/
